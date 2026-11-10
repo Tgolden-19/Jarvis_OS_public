@@ -1,0 +1,172 @@
+    [
+        {
+            "text": "set a timer for 30 minutes",
+            "intent": "wit/create_timer",
+            "entities": [
+                {
+                    "entity": "wit/duration",
+                    "start": 16,
+                    "end": 26,
+                    "body": "30 minutes"
+                }
+            ],
+            "traits": []
+        },
+        {
+            "text": "set a timer for ten minutes",
+            "intent": "wit/create_timer",
+            "entities": [
+                {
+                    "entity": "wit/duration",
+                    "start": 16,
+                    "end": 27,
+                    "body": "10 minutes"
+                }
+            ],
+            "traits": []
+        },
+        {
+            "text": "set a timer for 5 minutes",
+            "intent": "wit/create_timer",
+            "entities": [
+                {
+                    "entity": "wit/duration",
+                    "start": 16,
+                    "end": 25,
+                    "body": "5 minutes"
+                }
+            ],
+            "traits": []
+        },
+        {
+            "text": "set a timer for twenty five minutes",
+            "intent": "wit/create_timer",
+            "entities": [
+                {
+                    "entity": "wit/duration",
+                    "start": 16,
+                    "end": 35,
+                    "body": "twenty five minutes"
+                }
+            ],
+            "traits": []
+        },
+        {
+            "text": "set a timer for an hour and forty seven minutes",
+            "intent": "wit/create_timer",
+            "entities": [
+                {
+                    "entity": "wit/duration",
+                    "start": 16,
+                    "end": 47,
+                    "body": " an hour and forty seven minutes"
+                }
+            ],
+            "traits": []
+        },
+        {
+            "text": "set a timer for 1 hour and 11 minutes",
+            "intent": "wit/create_timer",
+            "entities": [
+                {
+                    "entity": "wit/duration",
+                    "start": 16,
+                    "end": 37,
+                    "body": "1 hour and 11 minutes"
+                }
+            ],
+            "traits": []
+        },
+        {
+            "text": "set an alarm for 1:00PM",
+            "intent": "wit/create_alarm",
+            "entities": [
+                {
+                    "entity": "wit/datetime",
+                    "start": 17,
+                    "end": 23,
+                    "body": "1:00PM"
+                }
+            ],
+            "traits": []
+        },
+        {
+            "text": "set an alarm for 2 o'clock PM",
+            "intent": "wit/create_alarm",
+            "entities": [
+                {
+                    "entity": "wit/datetime",
+                    "start": 17,
+                    "end": 29,
+                    "body": "2 o'clock PM"
+                }
+            ],
+            "traits": []
+        },
+        {
+            "text": "set an alarm for 8:30 AM",
+            "intent": "wit/create_alarm",
+            "entities": [
+                {
+                    "entity": "wit/datetime",
+                    "start": 17,
+                    "end": 24,
+                    "body": "8:30 AM"
+                }
+            ],
+            "traits": []
+        },
+        {
+            "text": "set an alarm for ten fifteen AM",
+            "intent": "wit/create_alarm",
+            "entities": [
+                {
+                    "entity": "wit/datetime",
+                    "start": 17,
+                    "end": 31,
+                    "body": "ten fifteen AM"
+                }
+            ],
+            "traits": []
+        },
+        {
+            "text": "set an alarm for seven fifteen PM",
+            "intent": "wit/create_alarm",
+            "entities": [
+                {
+                    "entity": "wit/datetime",
+                    "start": 17,
+                    "end": 33,
+                    "body": "seven fifteen PM"
+                }
+            ],
+            "traits": []
+        },
+        {
+            "text": "set an alarm for 8:12PM",
+            "intent": "wit/create_alarm",
+            "entities": [
+                {
+                    "entity": "wit/datetime",
+                    "start": 17,
+                    "end": 23,
+                    "body": "8:12PM"
+                }
+            ],
+            "traits": []
+        },
+        {
+            "text": "set an alarm for eleven o'clock PM",
+            "intent": "wit/create_alarm",
+            "entities": [
+                {
+                    "entity": "wit/datetime",
+                    "start": 17,
+                    "end": 34,
+                    "body": "eleven o'clock PM"
+                }
+            ],
+            "traits": []
+        },
+        {}
+    ]

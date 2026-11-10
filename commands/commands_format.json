@@ -1,0 +1,274 @@
+{
+  "prompt_basis": [
+    "the section llm_*type*_format is for your reference on how to structure the output specifically.",
+    "if you feel like this commands is not the correct command and that another is more likely the target of the phrase here are the intents/commands for each and if you would like to check against another commands relevant phrases just return the intent exactly as seen in the input",
+    "The phrases provided are example phrases as a subsample for you to infer phrases of similar meaning.",
+    "if you settle on what the command is based on the phrases return just the command as you recieved it and you will recieve a description and further prompting of how to further handle the command",
+    "when you have all the necessary information return it in the given format. if you need more information probe for it(ask more questions)",
+    "Now return a pleasant message relevant to the command completed. Say it in character like a butler would say (I've set your alarm sir)",
+    "if you think necessary ask if they would like to fill out optional fields and wait to return the json format"
+  ],
+  "commands": [
+    {
+      "implemented": false,
+      "phrases": [
+        "turn on the light",
+        "switch on the light",
+        "lights on",
+        "turn lights to",
+        "switch lights to",
+        "lights off"
+      ],
+      "command": "turn_on_light",
+      "llm_output_format": {
+        "action": "turn_on",
+        "location": -1,
+        "color": "red",
+        "preset": -1
+      },
+      "prompt": "This is a command to manage the lights in a room. The action is the relevant action done to the lights i.e turn_on is on and turn_off is off change is change. color, preset, and location are optional."
+    },
+    {
+      "implemented": true,
+      "phrases": [
+        "play music",
+        "pause music",
+        "stop music",
+        "pause the music",
+        "stop the music",
+        "play the music",
+        "start the music",
+        "start music",
+        "play the song",
+        "play my playlist",
+        "play a song"
+      ],
+      "command": "manage_playback",
+      "llm_output_format": {
+        "action": "play",
+        "media": "album",
+        "artist": "Kid Cudi",
+        "song": "Pursuit of Happiness",
+        "playlist": "",
+        "repeat": "",
+        "shuffle": "",
+        "volume": 10
+      },
+      "prompt": "This command is for music playback: action is the relevant action taken all other fields are optional with all being strings with a blank default value and volume being an integer representation of volume percentage so it maxes at 100 and if the optional fields are provided it will initiate a search relevant media on a streaming services"
+    },
+    {
+      "implemented": true,
+      "phrases": [
+        "what song is this?",
+        "song name?",
+        "album name?",
+        "what album is this?",
+        "what artist is this?",
+        "artist name?"
+      ],
+      "command": "get_music_info",
+      "llm_input_format": {
+        "album": "Aja",
+        "artist": "Steely Dan",
+        "song": "Black Cow",
+        "playlist": ""
+      },
+      "prompt": "Given the incoming music data spit out a summary of song information playlist will not always come through as it is not required but if it does just mention which playlist came through very briefly"
+    },
+    {
+      "implemented": true,
+      "phrases": [
+        "set a timer",
+        "start a timer for",
+        "put on a timer for"
+      ],
+      "command": "set_timer",
+      "llm_output_format": {
+        "hour": 0,
+        "minute": 0,
+        "second": 30,
+        "note": "baking done"
+      },
+      "prompt": "Very simple making a timer where the at least one of any of the fields is required input but for safety reasons always provide at least seconds as 0 at the minimum to ensure no errors in processing the command. Note is a description the purpose of the timer which is not required"
+    },
+    {
+      "implemented": false,
+      "phrases": [
+        "set an alarm",
+        "set a alarm",
+        "set my alarm"
+      ],
+      "command": "set_alarmv1",
+      "llm_output_format": {
+        "hour": 2,
+        "meridian": "AM",
+        "minute": 30,
+        "second": 0,
+        "note": "wake up for work"
+      },
+      "prompt": "Very simple making an alarm. all inputs except note are required other wise the command process will error out. Note is just a description of the purpose of the alarm (i.e alarm to wake up for work)"
+    },
+    {
+      "implemented": true,
+      "phrases": [
+        "set an alarm",
+        "set a alarm",
+        "set my alarm"
+      ],
+      "command": "set_alarm",
+      "llm_output_format": {
+        "alarm_date": "03-22-2025 14:50:00",
+        "note": "wake up for work"
+      },
+      "prompt": "Very simple making an alarm. all inputs except note are required other wise the command process will error out. Note is just a description of the purpose of the alarm (i.e alarm to wake up for work)"
+    },
+    {
+      "implemented": false,
+      "phrases": [
+        "change the temp",
+        "set the temp",
+        "change the temperature",
+        "set the temperature",
+        "turn off the AC",
+        "It's cold in here turn it up a little"
+      ],
+      "command": "set_temp",
+      "llm_output_format": {
+        "room": -1,
+        "temperature": 72
+      },
+      "prompt": "Changing temperature the only required input is temperature the default room is set already and if -1 is provided it will default the room here are the room IDs"
+    },
+    {
+      "rooms_ids": {
+        "-1": "default",
+        "0": "my room",
+        "1": "master bedroom"
+      }
+    },
+    {
+      "implemented": true,
+      "phrases": [
+        "What's the weather",
+        "Is it gonna rain",
+        "is it gonna snow",
+        "What's the temperature outside today",
+        "What's the weather like in"
+      ],
+      "command": "weather",
+      "llm_output_format": {
+        "location": "",
+        "search_type": "zipcode",
+        "time_frame": "hourly"
+      },
+      "prompt": "Just polling current weather information time_frame (minutely, hourly, or daily) is required but location is not required the (minimum requirements for location search are zipcode and location code other valid formats are city name, state code, country code and full postal address as it would appear on mail to be sent to nominatim on open street maps)  but if provided the weather will be returned from the given location. In the event that the weather data is returned to you, you must generate a summary response."
+    },
+    {
+      "implemented": false,
+      "phrases": [
+        "how should I dress for this weather",
+        "what do you think I should wear"
+      ],
+      "command": "outfit_rec",
+      "llm_output_format": {
+        "event_type": "weather",
+        "jacket": false,
+        "top": "",
+        "bottom": "",
+        "shoes": "",
+        "coat": false,
+        "sweater": false,
+        "sweatshirt": false
+      },
+      "prompt": "This command is just for an outfit recommendation, you can ask the user if they would like your recommendation alongside our engine and if they agree and only if they agree fill out the extra fields with what you think is good. The only required output is the event type of which the types are"
+    },
+    {
+      "event_ids": [
+        "default",
+        "weather",
+        "interview",
+        "first date"
+      ]
+    },
+    {
+      "implemented": false,
+      "phrases": [
+        "what should I eat",
+        "whats a good recipe for",
+        "I feel like eating"
+      ],
+      "command": "lets_cook",
+      "llm_output_format": {
+        "num_people": 1,
+        "cuisine": "french",
+        "protein": -1,
+        "calories": -1,
+        "meat": "chicken"
+      },
+      "prompt": "This is a command for a food/recipe recommendation the only requirement for this is the cuisine all others are optional but help narrow the search in return you will be provided 3 options from a dataset of recipes which you will create a response using. IF AND ONLY IF THE USER ASKS FOR YOUR OPINION CAN YOU GIVE A RECOMMENDATION OR OFFER A RECIPE"
+    },
+    {
+      "implemented": false,
+      "phrases": [
+        "add this to my calendar",
+        "add an event to my calendar",
+        "put this event in my calendar",
+        "remove this from my calendar",
+        "remove an event from my calendar",
+        "I've got an appointment",
+        "I've got a reservation",
+        "record this day",
+        "remind me daily",
+        "remind me weekly",
+        "remind me monthly",
+        "remind me every weekend",
+        "remind me every Tuesday",
+        "cancel my event on"
+      ],
+      "command": "calendar",
+      "llm_output_format": {
+        "action": "add",
+        "title": "Workout",
+        "frequency": "daily",
+        "start date": "03-22-2025 14:50:00",
+        "end date": "03-22-2025 15:50:00",
+        "alert": 0,
+        "second alert": 0,
+        "dow": [
+          true,
+          false,
+          false,
+          false,
+          true,
+          false,
+          false
+        ],
+        "summary": "workout at equinox"
+      },
+      "prompt": "This command structure is to create events for a calendar. The action refers to either adding(add), editing(edit) or removing(remove) an event and is required if remove or edit is requested you will be provided with the names of all the current events to find the best match which you will return the title by itself. Alert and second alert are both optional and they both represent the number of minutes before the event of which the person wants to be alerted. Title field is required as you cannot enter an event with no name. The start_date is a datetime formatted string that refer to the first instance of the event and there for are required. All others fields are not required and if they are not provided it will be assumed it is a one time event. The end_date is a datetime format string that is the last known instance of the event if there is one if not and repeats is set it will continue virtually forever. Frequency defaults to none as it is not required and it sets the event to spawn until the end date if given forever if not based on daily, biweekly, trimonthly, etc... Each dow fields just refers to the day of the week on which the event will spawn with the list being 7 days long starting at sunday, for if someone wants more granular control like exercise every monday and thursday would make monday(1) and thursday(5) true bools with a the given frequency(defaults to weekly if none is given and list is filled out). summary field as always is just any description or additional notes the creator wants to add to his event to be repeated back to him upon the reminder"
+    },
+    {
+      "implemented": true,
+      "phrases": [
+        "write that down",
+        "write this down",
+        "take note",
+        "add a note",
+        "remove a note",
+        "remove my note",
+        "edit my note",
+        "add the note",
+        "remove the note",
+        "edit the note"
+      ],
+      "command": "notes",
+      "llm_output_format": {
+        "action": "add",
+        "title": "shower thoughts",
+        "content": "What the deal with plane food... is it food for planes?",
+        "extension": ".txt"
+      },
+      "prompt": "This command structure is to create, edit and remove notes. The action refers to either adding(add), editing(edit) or removing(remove) an event this is required if remove or edit is requested you will be provided with the names/titles of all the current notes to find the best match which you will return the title by itself. the notes field is just that the note itself to either be added or appended to an existing note and it is the only optional field but it is rare someone would create an empty note so keep asking questions about what to fill in"
+    }
+  ]
+}
