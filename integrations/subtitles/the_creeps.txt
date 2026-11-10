@@ -1,0 +1,1071 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00:01.971 --> 00:00:05.409 position:50%
+[ penguins chirp ]
+
+00:00:05.542 --> 00:00:09.580 position:50%
+[ all cheering ]
+
+00:00:09.713 --> 00:00:12.282 position:50%
+[ screeches ]
+
+00:00:12.415 --> 00:00:13.416 position:50%
+â™ª Adventure Time â™ª
+
+00:00:13.549 --> 00:00:15.452 position:50%
+â™ª Come on, grab your friends â™ª
+
+00:00:15.584 --> 00:00:17.521 position:50%
+â™ª We'll go to very
+distant lands â™ª
+
+00:00:17.653 --> 00:00:19.856 position:50%
+â™ª with Jake the dog
+and Finn the human â™ª
+
+00:00:19.989 --> 00:00:21.725 position:50%
+â™ª the fun will never end â™ª
+
+00:00:21.858 --> 00:00:23.860 position:50%
+â™ª It's Adventure Time â™ª
+
+00:00:30.833 --> 00:00:32.803 position:50%
+[ thunder crashing ]
+
+00:00:35.705 --> 00:00:38.108 position:50%
+[ wind gusts ]
+
+00:00:44.881 --> 00:00:46.750 position:50%
+This stanks.
+
+00:00:46.882 --> 00:00:50.420 position:50%
+Hey, how much longer 'til we
+get to the mysterious party?
+
+00:00:50.552 --> 00:00:51.755 position:50%
+Let me check
+the spooky invite
+
+00:00:51.887 --> 00:00:54.091 position:50%
+sent to us by
+our anonymous host.
+
+00:00:54.224 --> 00:00:56.626 position:50%
+Oh. We're here.
+
+00:00:56.759 --> 00:00:57.928 position:50%
+Party's in that castle.
+
+00:00:58.060 --> 00:01:00.197 position:50%
+[ thunder crashes ]
+
+00:01:06.469 --> 00:01:07.403 position:50%
+It's for us!
+
+00:01:07.536 --> 00:01:09.139 position:50%
+What's it say?
+
+00:01:09.272 --> 00:01:10.641 position:50%
+"Wear me."
+
+00:01:10.773 --> 00:01:12.442 position:50%
+BOTH:
+"Wear me"?
+
+00:01:12.575 --> 00:01:14.545 position:50%
+[ both whistle ]
+
+00:01:17.247 --> 00:01:18.248 position:50%
+Hello?
+
+00:01:18.380 --> 00:01:20.451 position:50%
+BUBBLEGUM:
+Yoo-hoo!
+
+00:01:20.584 --> 00:01:22.518 position:50%
+Hey, guys!
+
+00:01:22.651 --> 00:01:24.354 position:50%
+Princess Bubblegum,
+is that you?
+
+00:01:24.487 --> 00:01:25.956 position:50%
+Why, yes, indeed.
+
+00:01:26.088 --> 00:01:27.524 position:50%
+Although, according to
+the invitation,
+
+00:01:27.657 --> 00:01:29.559 position:50%
+we're supposed to use
+mystery names,
+
+00:01:29.692 --> 00:01:33.196 position:50%
+and mine is
+"Lady Quiet Bottom."
+
+00:01:33.329 --> 00:01:36.199 position:50%
+My name is
+"Duchess Gummybuns."
+
+00:01:36.332 --> 00:01:39.536 position:50%
+-I am "Professor Pants."
+-I'm "Cinnamon Bun."
+
+00:01:39.669 --> 00:01:41.871 position:50%
+What's the name on
+your invite?
+
+00:01:42.004 --> 00:01:43.340 position:50%
+Oh, yeah.
+
+00:01:43.473 --> 00:01:45.809 position:50%
+Uh, it's "Guy Farting."
+
+00:01:45.942 --> 00:01:48.144 position:50%
+"Prince Hotbod"
+at your service.
+
+00:01:48.277 --> 00:01:52.215 position:50%
+I'm "Randy Butternubs."
+
+00:01:52.348 --> 00:01:54.884 position:50%
+So, who's our host,
+anyways?
+
+00:01:55.017 --> 00:01:56.386 position:50%
+Nobody knows.
+
+00:01:56.518 --> 00:02:00.323 position:50%
+Maybe he'll be a steaming-hot
+babe with huge money.
+
+00:02:00.456 --> 00:02:02.626 position:50%
+Tut, tut,
+Lumpy Space Princess.
+
+00:02:02.759 --> 00:02:04.661 position:50%
+What would your boyfriend,
+Brad, say?
+
+00:02:04.794 --> 00:02:07.564 position:50%
+Brad and I broke up
+a long time ago. Duh!
+
+00:02:07.697 --> 00:02:08.498 position:50%
+[ all gasp ]
+
+00:02:08.631 --> 00:02:10.501 position:50%
+Now's my chance!
+
+00:02:10.634 --> 00:02:12.335 position:50%
+No... way!
+
+00:02:12.468 --> 00:02:14.504 position:50%
+But I can make you happy.
+
+00:02:14.637 --> 00:02:16.506 position:50%
+Puke off, you big doughnut!
+
+00:02:16.639 --> 00:02:18.275 position:50%
+Okay.
+
+00:02:20.810 --> 00:02:22.412 position:50%
+Excuse me,
+"Guy Farting,"
+
+00:02:22.544 --> 00:02:24.180 position:50%
+there's an envelope
+on your back.
+
+00:02:24.313 --> 00:02:26.617 position:50%
+[ grunting ]
+Where? Where?
+
+00:02:26.750 --> 00:02:28.084 position:50%
+Here -- let me.
+
+00:02:28.217 --> 00:02:30.020 position:50%
+Did<i> you</i> put that
+envelope on him?
+
+00:02:30.153 --> 00:02:30.920 position:50%
+-No. Nope.
+- Unh-unh.
+
+00:02:31.053 --> 00:02:31.922 position:50%
+I didn't do it.
+No.
+
+00:02:32.054 --> 00:02:33.991 position:50%
+What's it say,
+"Prince Hotbod"?
+
+00:02:34.124 --> 00:02:35.158 position:50%
+[ clears throat ]
+
+00:02:35.291 --> 00:02:37.994 position:50%
+"Esteemed Guests,
+I am your host.
+
+00:02:38.127 --> 00:02:38.995 position:50%
+I am a ghost."
+
+00:02:39.128 --> 00:02:40.397 position:50%
+[ all gasp ]
+
+00:02:40.529 --> 00:02:42.232 position:50%
+"By the time you finish
+reading this,
+
+00:02:42.364 --> 00:02:44.234 position:50%
+I will possess one of you
+and use your body
+
+00:02:44.366 --> 00:02:46.269 position:50%
+to murder every one
+in the house."
+
+00:02:46.402 --> 00:02:47.404 position:50%
+[ all gasp ]
+
+00:02:47.537 --> 00:02:49.973 position:50%
+Aah!
+We got to get out of here!
+
+00:02:50.106 --> 00:02:52.242 position:50%
+FINN:
+C.B., wait.
+
+00:02:52.374 --> 00:02:54.378 position:50%
+It says anyone who tries
+to leave will die!
+
+00:02:54.510 --> 00:02:56.213 position:50%
+No, no, no, no,
+no, no, no!
+
+00:02:56.346 --> 00:02:57.214 position:50%
+Ergh!
+
+00:02:57.346 --> 00:02:58.548 position:50%
+[ thunder crashes ]
+
+00:02:58.681 --> 00:02:59.683 position:50%
+[ all scream ]
+
+00:02:59.816 --> 00:03:01.518 position:50%
+He's dead!
+
+00:03:01.651 --> 00:03:03.386 position:50%
+Yeah, right.
+
+00:03:03.519 --> 00:03:05.789 position:50%
+What do you mean,
+"Yeah, right"?
+
+00:03:05.922 --> 00:03:06.990 position:50%
+Come on.
+
+00:03:07.122 --> 00:03:08.959 position:50%
+You don't remember when
+I pulled this same trick
+
+00:03:09.092 --> 00:03:10.360 position:50%
+on your birthday?
+
+00:03:10.493 --> 00:03:11.929 position:50%
+I used
+the fake skeletons
+
+00:03:12.061 --> 00:03:14.898 position:50%
+to make you think
+everyone was dead.
+
+00:03:15.030 --> 00:03:16.399 position:50%
+It looks real to me.
+
+00:03:16.532 --> 00:03:18.201 position:50%
+Psh! Classic move.
+
+00:03:18.334 --> 00:03:20.537 position:50%
+Dude, I swear
+I'm not pranking you.
+
+00:03:20.670 --> 00:03:22.439 position:50%
+Cinnamon Bun is dead.
+
+00:03:24.974 --> 00:03:27.411 position:50%
+The question is,
+who killed him?
+
+00:03:28.578 --> 00:03:30.581 position:50%
+One of us is possessed
+by a murderer,
+
+00:03:30.713 --> 00:03:32.615 position:50%
+and if we want
+to stay alive,
+
+00:03:32.748 --> 00:03:35.251 position:50%
+we have to figure out
+who's hiding a ghost
+
+00:03:35.384 --> 00:03:38.021 position:50%
+inside their mortal body.
+
+00:03:38.154 --> 00:03:39.322 position:50%
+Beemo!
+- Aah!
+
+00:03:39.454 --> 00:03:42.225 position:50%
+Use your ghost-detecting
+equipment to screen everyone.
+
+00:03:42.358 --> 00:03:43.893 position:50%
+[ high-pitched whining ]
+
+00:03:44.026 --> 00:03:44.928 position:50%
+[ camera shutter clicks ]
+
+00:03:45.060 --> 00:03:46.396 position:50%
+I blinked my balls --
+my eyeballs.
+
+00:03:46.529 --> 00:03:47.397 position:50%
+[ camera shutter clicks ]
+
+00:03:47.530 --> 00:03:49.265 position:50%
+[ giggles ]
+
+00:03:49.398 --> 00:03:50.167 position:50%
+[ camera shutter clicks ]
+
+00:03:50.300 --> 00:03:51.068 position:50%
+Hmm.
+
+00:03:51.201 --> 00:03:52.936 position:50%
+What do you mean, "Hmm"?
+
+00:03:53.069 --> 00:03:54.338 position:50%
+Nothing.
+
+00:03:54.471 --> 00:03:55.972 position:50%
+Did you just see that?
+
+00:03:56.105 --> 00:03:57.007 position:50%
+Oh, I knew it.
+
+00:03:57.139 --> 00:03:58.141 position:50%
+I knew it was Jake.
+
+00:03:58.274 --> 00:04:01.311 position:50%
+Processing data...
+
+00:04:01.444 --> 00:04:02.479 position:50%
+- Ew.
+- Huh?
+
+00:04:02.612 --> 00:04:04.248 position:50%
+So, who's the ghost, Beemo?
+
+00:04:04.381 --> 00:04:05.415 position:50%
+Oh.
+
+00:04:05.547 --> 00:04:08.685 position:50%
+Um, I don't have
+ghost-detecting equipment.
+
+00:04:08.818 --> 00:04:10.787 position:50%
+I just like taking
+nice pictures.
+
+00:04:10.920 --> 00:04:12.656 position:50%
+Let's find some candles.
+
+00:04:12.788 --> 00:04:13.923 position:50%
+If the lights
+go out again,
+
+00:04:14.056 --> 00:04:15.592 position:50%
+we'll be able
+to catch the murderer.
+
+00:04:15.725 --> 00:04:16.693 position:50%
+Good idea.
+
+00:04:16.826 --> 00:04:18.095 position:50%
+Jake and Beemo,
+you guys check downstairs,
+
+00:04:18.227 --> 00:04:19.963 position:50%
+and we'll
+take this floor.
+
+00:04:20.096 --> 00:04:22.166 position:50%
+Okay.
+
+00:04:22.298 --> 00:04:24.568 position:50%
+[ thunder rumbles ]
+
+00:04:24.701 --> 00:04:26.136 position:50%
+JAKE:
+Lay truth on me, Beemo.
+
+00:04:26.269 --> 00:04:28.671 position:50%
+Is Finn pulling some
+elaborate prank on me?
+
+00:04:28.804 --> 00:04:29.839 position:50%
+No, Jake.
+
+00:04:29.972 --> 00:04:31.174 position:50%
+When bad things happen,
+
+00:04:31.306 --> 00:04:34.178 position:50%
+I know you want to believe
+they are a joke.
+
+00:04:34.310 --> 00:04:38.682 position:50%
+But sometimes,
+life is scary and dark.
+
+00:04:38.815 --> 00:04:41.151 position:50%
+That is why we must
+find the light.
+
+00:04:41.284 --> 00:04:42.485 position:50%
+Aha!
+[ crack ]
+
+00:04:42.618 --> 00:04:44.387 position:50%
+Found it!
+-Ooh!
+
+00:04:44.520 --> 00:04:47.524 position:50%
+[ chuckles ]
+
+00:04:47.657 --> 00:04:49.426 position:50%
+Thanks, Beemo.
+
+00:04:49.559 --> 00:04:50.527 position:50%
+Beemo?
+
+00:04:50.660 --> 00:04:52.462 position:50%
+Help!
+
+00:04:52.595 --> 00:04:53.563 position:50%
+Jake, help!
+
+00:04:53.696 --> 00:04:54.731 position:50%
+Beemo?
+
+00:04:54.864 --> 00:04:55.632 position:50%
+Help!
+
+00:04:55.765 --> 00:04:57.334 position:50%
+Aaaaaaaaaah!
+
+00:04:57.466 --> 00:04:59.335 position:50%
+Oh, my crease!
+Ohhh, my crease!
+
+00:04:59.468 --> 00:05:00.270 position:50%
+Assemble!
+
+00:05:00.403 --> 00:05:01.304 position:50%
+Reassemble!
+
+00:05:01.437 --> 00:05:02.672 position:50%
+Come on, you guys!
+
+00:05:02.805 --> 00:05:03.840 position:50%
+Where's Beemo?
+
+00:05:03.973 --> 00:05:05.375 position:50%
+The ghost got him.
+
+00:05:05.508 --> 00:05:08.645 position:50%
+Don't you mean<i> you</i> got him ...
+Ghost?!
+
+00:05:08.778 --> 00:05:10.480 position:50%
+You guys, if there really
+is a ghost killer,
+
+00:05:10.613 --> 00:05:12.449 position:50%
+then we should stay
+in a group.
+
+00:05:12.581 --> 00:05:15.251 position:50%
+He can't take us<i> all</i> on
+if we're in a group.
+
+00:05:15.384 --> 00:05:19.056 position:50%
+[ screaming in distance ]
+
+00:05:19.188 --> 00:05:21.691 position:50%
+LSP, where are you?!
+
+00:05:21.824 --> 00:05:23.494 position:50%
+Are you okay?
+
+00:05:23.626 --> 00:05:25.495 position:50%
+It sounds
+like she's in there.
+
+00:05:25.628 --> 00:05:28.098 position:50%
+LSP:
+Aah! I'm dying!
+
+00:05:28.231 --> 00:05:30.000 position:50%
+[ toilet flushes ]
+
+00:05:30.133 --> 00:05:31.368 position:50%
+Whew!
+
+00:05:31.501 --> 00:05:33.303 position:50%
+Oh, gross. Ugh!
+
+00:05:33.436 --> 00:05:35.405 position:50%
+My Lumping body's
+all hollow now.
+
+00:05:35.538 --> 00:05:37.174 position:50%
+I got to put
+something in it.
+
+00:05:37.307 --> 00:05:38.775 position:50%
+So, where's the food?
+
+00:05:38.908 --> 00:05:40.743 position:50%
+What kind of castle
+is this?
+
+00:05:40.876 --> 00:05:42.846 position:50%
+It's like
+a poor people's castle,
+
+00:05:42.979 --> 00:05:46.182 position:50%
+with no lumping waffles
+for my dump truck!
+
+00:05:46.315 --> 00:05:47.518 position:50%
+Chill out, girl.
+
+00:05:47.650 --> 00:05:49.186 position:50%
+You find any candles
+upstairs?
+
+00:05:49.319 --> 00:05:50.287 position:50%
+No.
+
+00:05:50.420 --> 00:05:52.155 position:50%
+Well, I dropped a lighter
+downstairs,
+
+00:05:52.287 --> 00:05:55.225 position:50%
+but there's no way
+I'm going back for that.
+
+00:05:55.358 --> 00:05:56.426 position:50%
+Uh-huh.
+
+00:05:56.558 --> 00:05:58.762 position:50%
+Let me remind y'all
+that the invite says
+
+00:05:58.894 --> 00:06:00.597 position:50%
+"The ghost will possess
+one of our bods."
+
+00:06:00.730 --> 00:06:02.099 position:50%
+LSP:
+Not<i> my</i> bod.
+
+00:06:02.231 --> 00:06:06.636 position:50%
+Someone at this table isn't
+who they appear to be.
+
+00:06:06.769 --> 00:06:09.406 position:50%
+That's right...
+"Jake."
+
+00:06:09.538 --> 00:06:14.378 position:50%
+So let me ask you a question
+only the<i> real</i> Jake could answer.
+
+00:06:14.511 --> 00:06:16.379 position:50%
+Who is always next to me
+
+00:06:16.512 --> 00:06:20.216 position:50%
+in my recurring
+elevator dreams?
+
+00:06:20.349 --> 00:06:21.952 position:50%
+A half-orc Shaman.
+
+00:06:22.085 --> 00:06:24.054 position:50%
+Okay, you're Jake.
+
+00:06:24.186 --> 00:06:27.156 position:50%
+So, who else was absent
+when Beemo got nabbed?
+
+00:06:27.289 --> 00:06:28.758 position:50%
+Oh, yeah, right.
+
+00:06:28.891 --> 00:06:31.762 position:50%
+I'm not the ghost.
+I was in the potty house.
+
+00:06:31.894 --> 00:06:33.597 position:50%
+A convenient alibi.
+
+00:06:33.729 --> 00:06:34.965 position:50%
+But tell me this...
+
+00:06:35.098 --> 00:06:37.433 position:50%
+Why did you break
+up with Brad?
+
+00:06:37.566 --> 00:06:39.603 position:50%
+Only the<i> real</i> LSP
+would know that.
+
+00:06:39.735 --> 00:06:43.040 position:50%
+Pshaw! As if you even
+know the answer to that, Jake!
+
+00:06:43.172 --> 00:06:44.841 position:50%
+You're right,
+I'm just feeling gossipy,
+
+00:06:44.974 --> 00:06:46.509 position:50%
+and I want to know
+what happened.
+
+00:06:46.642 --> 00:06:48.845 position:50%
+That's none of your
+lumping business!
+
+00:06:48.978 --> 00:06:51.348 position:50%
+Sounds suspicious.
+
+00:06:51.480 --> 00:06:52.949 position:50%
+I bet<i> you're</i> the ghost!
+
+00:06:53.082 --> 00:06:54.951 position:50%
+<i>She</i> did it!
+She's possessed!
+
+00:06:55.084 --> 00:06:56.620 position:50%
+Tie her up!
+
+00:06:56.753 --> 00:06:58.288 position:50%
+Oh, she<i> is,</i> huh?
+
+00:06:58.420 --> 00:07:02.926 position:50%
+Well, before we tie up LSP,
+answer me this...
+
+00:07:03.059 --> 00:07:05.829 position:50%
+LSP:
+Brad --
+He kissed me on the mouth,
+
+00:07:05.961 --> 00:07:08.231 position:50%
+and I was like, "Bleh!
+Bleh! Bleh!"
+
+00:07:08.364 --> 00:07:11.501 position:50%
+And then I was like,
+"Oh, gross! Go away, Brad!"
+
+00:07:11.634 --> 00:07:13.671 position:50%
+And he was like, "Obvi,
+you're not ready for me."
+
+00:07:13.803 --> 00:07:16.172 position:50%
+But what does that even mean,
+you guys?
+
+00:07:16.305 --> 00:07:19.242 position:50%
+[ sobs ]
+What does it lumping mean?
+
+00:07:19.375 --> 00:07:21.344 position:50%
+[ whimpers ]
+
+00:07:21.477 --> 00:07:23.680 position:50%
+But answer me this,
+Princess...
+
+00:07:23.813 --> 00:07:25.782 position:50%
+What do you want from me,
+Brad?!
+
+00:07:25.914 --> 00:07:27.484 position:50%
+You said I was
+the hottest one!
+
+00:07:27.616 --> 00:07:29.820 position:50%
+Isn't that enough?!
+Why'd you have to --
+
+00:07:29.953 --> 00:07:34.058 position:50%
+[ sobbing ]
+
+00:07:34.190 --> 00:07:36.293 position:50%
+What did I write to you
+on your "Happy Birthday" card
+
+00:07:36.425 --> 00:07:39.796 position:50%
+two years ago --
+word for word.
+
+00:07:39.929 --> 00:07:42.198 position:50%
+Finn, there's no way
+I would remember that.
+
+00:07:42.331 --> 00:07:44.033 position:50%
+I remember that.
+
+00:07:44.166 --> 00:07:46.536 position:50%
+You're not PB!
+Tie you up!
+
+00:07:46.669 --> 00:07:47.871 position:50%
+[ gasps ]
+
+00:07:48.003 --> 00:07:50.073 position:50%
+What?!
+Wait, you guys!
+
+00:07:50.206 --> 00:07:52.442 position:50%
+[ gasps ]
+Look!
+
+00:07:52.575 --> 00:07:54.344 position:50%
+[ wails ]
+
+00:07:54.477 --> 00:07:55.979 position:50%
+A<i> real</i> ghost?!
+
+00:07:56.112 --> 00:07:58.782 position:50%
+Aah! Don't touch me!
+Don't touch me!
+
+00:07:58.915 --> 00:08:00.918 position:50%
+[ hollow thud ]
+
+00:08:01.051 --> 00:08:03.153 position:50%
+Da-a-a-a-a-a-g!
+
+00:08:03.285 --> 00:08:05.989 position:50%
+This wasn't supposed
+to h-h-happen!
+
+00:08:06.122 --> 00:08:07.024 position:50%
+Aha!
+
+00:08:07.156 --> 00:08:09.560 position:50%
+I knew you were
+pranking me back, you!
+
+00:08:09.692 --> 00:08:12.162 position:50%
+Yeah, i-it was
+all a setup --
+
+00:08:12.294 --> 00:08:14.231 position:50%
+the doors,
+Cinnamon Bun and Beemo.
+
+00:08:14.364 --> 00:08:15.665 position:50%
+Oh, Striz!
+
+00:08:15.797 --> 00:08:18.602 position:50%
+Beemo and Cinnamon Bun should
+be in the closet over there.
+
+00:08:18.735 --> 00:08:20.771 position:50%
+Guys! Guys, guys!
+
+00:08:20.904 --> 00:08:23.774 position:50%
+Come on, you gu--
+Aaaaaaah!
+
+00:08:23.907 --> 00:08:26.143 position:50%
+Aaaaaaaaaaaaah!
+
+00:08:26.276 --> 00:08:27.143 position:50%
+Oh, my Glob!
+
+00:08:27.276 --> 00:08:28.645 position:50%
+I can't take this,
+you guys.
+
+00:08:28.777 --> 00:08:30.914 position:50%
+I'm calling my
+lumping parents right now.
+
+00:08:31.047 --> 00:08:31.815 position:50%
+[ thunk! ]
+
+00:08:31.947 --> 00:08:33.250 position:50%
+Aaaaah! Aaaaaaaaaah!
+
+00:08:33.383 --> 00:08:35.185 position:50%
+FINN:
+LSP, what's happening?!
+
+00:08:35.318 --> 00:08:36.152 position:50%
+Aaaaah!
+
+00:08:36.285 --> 00:08:38.288 position:50%
+Oh, my glob!
+I'm not ready!
+
+00:08:38.421 --> 00:08:39.590 position:50%
+Get away!
+
+00:08:39.723 --> 00:08:40.757 position:50%
+Oh, gross!
+
+00:08:40.890 --> 00:08:43.159 position:50%
+Aaaaaaah!
+
+00:08:43.292 --> 00:08:45.796 position:50%
+Where did she go?!
+
+00:08:45.929 --> 00:08:47.664 position:50%
+Look!
+
+00:08:47.797 --> 00:08:49.733 position:50%
+I'm scared, Bro.
+
+00:08:49.866 --> 00:08:52.603 position:50%
+[ evil laughter ]
+
+00:08:55.838 --> 00:08:58.242 position:50%
+Run, homey! Run!
+
+00:09:00.543 --> 00:09:01.678 position:50%
+FINN:
+Open it!
+
+00:09:01.811 --> 00:09:02.846 position:50%
+[ grunts ]
+
+00:09:02.979 --> 00:09:04.080 position:50%
+It won't open!
+
+00:09:04.213 --> 00:09:07.350 position:50%
+Muh! Aah!
+
+00:09:07.483 --> 00:09:09.452 position:50%
+Whoooooo!
+
+00:09:09.585 --> 00:09:10.354 position:50%
+BOTH:
+Aaaaah!
+
+00:09:10.487 --> 00:09:12.589 position:50%
+Oof!
+
+00:09:12.722 --> 00:09:15.792 position:50%
+-Come on!
+-Okay.
+
+00:09:15.925 --> 00:09:17.093 position:50%
+Oh! Jake!
+
+00:09:17.226 --> 00:09:18.529 position:50%
+Ow! Ow! Ow!
+
+00:09:18.662 --> 00:09:19.763 position:50%
+I got a splinter!
+
+00:09:19.896 --> 00:09:20.931 position:50%
+Jakey!
+
+00:09:21.064 --> 00:09:22.332 position:50%
+Whaaa!
+
+00:09:22.465 --> 00:09:23.934 position:50%
+Don't let go, man!
+
+00:09:24.067 --> 00:09:25.368 position:50%
+FINN:
+Oh, no!
+
+00:09:25.501 --> 00:09:26.970 position:50%
+Your fancy glo-o-o-o-ves!
+
+00:09:27.103 --> 00:09:28.571 position:50%
+Aaaaaaah!
+
+00:09:28.704 --> 00:09:31.075 position:50%
+[ plop! ]
+
+00:09:31.208 --> 00:09:31.975 position:50%
+Unh!
+
+00:09:32.108 --> 00:09:33.243 position:50%
+Jake!
+
+00:09:33.376 --> 00:09:34.845 position:50%
+Princess!
+
+00:09:34.978 --> 00:09:37.447 position:50%
+[ warbling ]
+
+00:09:40.617 --> 00:09:41.752 position:50%
+Ugh!
+
+00:09:41.885 --> 00:09:43.220 line:79% position:50%
+Ugh!
+
+00:09:43.353 --> 00:09:44.188 position:50%
+Ugh!
+
+00:09:44.321 --> 00:09:46.457 line:79% position:50%
+Unh!
+
+00:09:46.589 --> 00:09:48.692 position:50%
+[ crows squawking ]
+
+00:09:57.800 --> 00:10:01.104 position:50%
+[ panting ]
+
+00:10:01.237 --> 00:10:03.373 position:50%
+Yaaaaaaaaaaaaaah!
+
+00:10:04.407 --> 00:10:06.009 position:50%
+Ha-haaa!
+
+00:10:06.142 --> 00:10:07.410 position:50%
+Gotcha, dude!
+
+00:10:07.543 --> 00:10:08.578 position:50%
+Two for two.
+
+00:10:08.711 --> 00:10:10.046 position:50%
+What?!
+
+00:10:10.179 --> 00:10:12.282 position:50%
+I figured out your plan
+months ago,
+
+00:10:12.415 --> 00:10:13.983 position:50%
+so I flipped the script.
+
+00:10:14.116 --> 00:10:15.652 position:50%
+Oh, yeah!
+
+00:10:15.785 --> 00:10:18.721 position:50%
+So everyone's okay --
+Beemo, Cinnamon Bun?
+
+00:10:18.854 --> 00:10:21.391 position:50%
+- Yeah. See?
+- Whoa! Sick!
+
+00:10:21.524 --> 00:10:23.761 position:50%
+You can phase people
+into your body?
+
+00:10:23.893 --> 00:10:26.163 position:50%
+[ speaking Korean ]
+
+00:10:26.295 --> 00:10:28.498 position:50%
+I'm ready for you now,
+Brad.
+
+00:10:28.631 --> 00:10:30.300 position:50%
+Isn't that Obvi?
+
+00:10:30.433 --> 00:10:31.601 position:50%
+I'm so ready.
+
+00:10:31.734 --> 00:10:34.405 position:50%
+But, PB,
+you melted.
+
+00:10:34.537 --> 00:10:36.373 position:50%
+It was a wax dummy, Dummy.
+
+00:10:36.505 --> 00:10:39.843 position:50%
+Jake switched me out
+while lady was distracting you.
+
+00:10:39.976 --> 00:10:41.177 position:50%
+Wow. You got me again.
+
+00:10:41.310 --> 00:10:42.913 position:50%
+I can't believe that --
+
+00:10:43.045 --> 00:10:45.248 position:50%
+With the hair and the house
+coming alive and stuff.
+
+00:10:45.381 --> 00:10:46.549 position:50%
+The what?
+
+00:10:46.682 --> 00:10:48.685 position:50%
+The walls and chairs trying
+to eat me and stuff.
+
+00:10:48.818 --> 00:10:50.220 position:50%
+Eh, no.
+
+00:10:50.352 --> 00:10:52.989 position:50%
+You must have been so scared,
+you imagined that part.
+
+00:10:53.122 --> 00:10:54.858 position:50%
+Um...no, I didn't.
+
+00:10:54.991 --> 00:10:57.127 position:50%
+Ha ha. Nice try, Finn.
+
+00:10:57.260 --> 00:10:59.496 position:50%
+Let's get out of here.
+
+00:11:03.299 --> 00:11:05.335 position:50%
+[ warbling ]
+
+00:11:05.467 --> 00:11:08.171 position:50%
+That one's going
+in the vault.
+
+00:11:08.304 --> 00:11:10.340 position:50%
+And...
+
+00:11:11.374 --> 00:11:12.409 position:50%
+It's gone.
+
+00:11:14.210 --> 00:11:18.114 position:50%
+â™ª Come along with me â™ª
+
+00:11:18.247 --> 00:11:22.085 position:50%
+â™ª And the
+butterflies and bees â™ª
+
+00:11:22.218 --> 00:11:26.089 position:50%
+â™ª We can wander
+through the forest â™ª
+
+00:11:26.222 --> 00:11:30.093 position:50%
+â™ª And do so as we please â™ª
+
+00:11:30.226 --> 00:11:34.130 position:50%
+â™ª Come along with me â™ª
+
+00:11:34.263 --> 00:11:36.634 position:50%
+â™ª To a cliff under a tree â™ª
+
+00:11:39.903 --> 00:11:42.840 position:50%
+This party is so crazy!
+

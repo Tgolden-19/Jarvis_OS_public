@@ -1,0 +1,1302 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00:00.000 --> 00:00:01.605 align:left position:10%
+[ MOUSE SQUEAKS ]
+
+00:00:01.737 --> 00:00:04.908 align:left position:10%
+[ PENGUINS CHIRP ]
+
+00:00:05.041 --> 00:00:09.045 align:left position:10%
+[ ALL CHEERING ]
+
+00:00:09.178 --> 00:00:10.948 align:left position:10%
+>> [ SCREECHES ]
+
+00:00:11.080 --> 00:00:13.116 align:left position:10%
+>> ♪ ADVENTURE TIME ♪
+
+00:00:13.249 --> 00:00:14.818 align:left position:10%
+♪ COME ON, GRAB YOUR FRIENDS ♪
+
+00:00:14.951 --> 00:00:16.754 align:left position:10%
+♪ WE'LL GO TO VERY DISTANT
+
+00:00:16.887 --> 00:00:17.454 align:left position:10%
+LANDS ♪
+
+00:00:17.587 --> 00:00:18.621 align:left position:10%
+♪ WITH JAKE THE DOG
+
+00:00:18.754 --> 00:00:19.823 align:left position:10%
+AND FINN THE HUMAN ♪
+
+00:00:19.956 --> 00:00:21.291 align:left position:10%
+♪ THE FUN WILL NEVER END ♪
+
+00:00:21.424 --> 00:00:23.593 align:left position:10%
+♪ IT'S ADVENTURE TIME ♪
+
+00:00:31.400 --> 00:00:33.336 align:left position:10%
+[ BOTH LAUGHING ]
+
+00:00:33.469 --> 00:00:35.271 align:left position:10%
+>> Jake: DON'T FORGET LSP's DIET
+
+00:00:35.404 --> 00:00:36.907 align:left position:10%
+COLA.
+
+00:00:37.040 --> 00:00:38.108 align:left position:10%
+>> Finn: I WON'T.
+
+00:00:38.241 --> 00:00:38.708 align:left position:10%
+I REALLY DO LOVE
+
+00:00:38.841 --> 00:00:41.177 align:left position:10%
+"FINN AND JAKE MOVIE CLUB."
+
+00:00:41.310 --> 00:00:42.012 align:left position:10%
+OKAY, EVERYBODY.
+
+00:00:42.144 --> 00:00:43.380 align:left position:10%
+APPLE JUICE FOR TREE TRUNKS...
+
+00:00:43.513 --> 00:00:46.016 align:left position:10%
+DIET SODA FOR LSP...
+
+00:00:46.149 --> 00:00:46.716 align:left position:10%
+>> EH...
+
+00:00:46.849 --> 00:00:48.585 align:left position:10%
+>> Finn: WHAT DID YOU ORDER, PB?
+
+00:00:48.717 --> 00:00:49.986 align:left position:10%
+>> Bubblegum: OH, I BROUGHT MY
+
+00:00:50.119 --> 00:00:51.655 align:left position:10%
+OWN.
+
+00:00:51.788 --> 00:00:52.689 align:left position:10%
+[ POP! ]
+
+00:00:52.822 --> 00:00:54.057 align:left position:10%
+>> Finn: HUH.
+
+00:00:54.190 --> 00:00:56.359 align:left position:10%
+>> Jake: ICED LATTé FOR M'LADY.
+
+00:00:56.492 --> 00:00:57.694 align:left position:10%
+>> Finn: TOMATO JUICE FOR
+
+00:00:57.827 --> 00:00:58.128 align:left position:10%
+MARCELINE.
+
+00:00:58.261 --> 00:00:59.263 align:left position:10%
+>> THANKS, FINN.
+
+00:00:59.395 --> 00:01:00.264 align:left position:10%
+>> Finn: HOT COCOA FOR BEEMO.
+
+00:01:00.396 --> 00:01:02.399 align:left position:10%
+>> THIS<i> DOES</i> COMPUTE.
+
+00:01:02.532 --> 00:01:03.333 align:left position:10%
+>> Finn: AND, FINALLY, A THIMBLE
+
+00:01:03.466 --> 00:01:06.102 align:left position:10%
+OF MILK FOR SHELBY, THE WORM WHO
+
+00:01:06.235 --> 00:01:06.637 align:left position:10%
+LIVES IN JAKE'S VIOLA.
+
+00:01:06.769 --> 00:01:08.238 align:left position:10%
+>> YOU CAN JUST CALL ME
+
+00:01:08.371 --> 00:01:09.006 align:left position:10%
+"SHELBY."
+
+00:01:09.139 --> 00:01:09.640 align:left position:10%
+>> Finn: JAKE?
+
+00:01:09.772 --> 00:01:10.440 align:left position:10%
+>> Jake: WE'RE SO EXCITED THAT
+
+00:01:10.572 --> 00:01:12.409 align:left position:10%
+YOU COULD BE HERE TONIGHT FOR
+
+00:01:12.541 --> 00:01:14.011 align:left position:10%
+"FINN AND JAKE'S MOVIE CLUB'S"
+
+00:01:14.143 --> 00:01:16.012 align:left position:10%
+FEATURE PRESENTATION...
+
+00:01:16.145 --> 00:01:17.647 align:left position:10%
+>> Both: "HEAT SIGNATURE 3."
+
+00:01:17.780 --> 00:01:18.648 align:left position:10%
+>> OH, WITH THE SUBMARINE?
+
+00:01:18.781 --> 00:01:19.849 align:left position:10%
+>> Bubblegum: SOUNDS GREAT.
+
+00:01:19.982 --> 00:01:20.551 align:left position:10%
+>> [ SPEAKING KOREAN ]
+
+00:01:20.683 --> 00:01:21.251 align:left position:10%
+>> GET ON WITH IT!
+
+00:01:21.384 --> 00:01:23.420 align:left position:10%
+[ WHIRRING ]
+
+00:01:23.553 --> 00:01:25.322 align:left position:10%
+[ BEEP! ]
+
+00:01:25.455 --> 00:01:27.290 align:left position:10%
+PRINCESS BUBBLEGUM'S IN MY SEAT.
+
+00:01:27.423 --> 00:01:28.358 align:left position:10%
+>> Finn: WE DECIDED LAST TIME NO
+
+00:01:28.491 --> 00:01:31.161 align:left position:10%
+RESERVED SEATING -- FIRST COME,
+
+00:01:31.294 --> 00:01:33.497 align:left position:10%
+FIRST SERVED.
+
+00:01:33.630 --> 00:01:34.664 align:left position:10%
+>> [ GROWLS ]
+
+00:01:34.797 --> 00:01:38.201 align:left position:10%
+[ SLURPS ]
+
+00:01:38.334 --> 00:01:39.036 align:left position:10%
+>> Bubblegum: WHAT'S THAT?
+
+00:01:39.168 --> 00:01:40.303 align:left position:10%
+>> Finn: JUST STUFF THAT COMES
+
+00:01:40.436 --> 00:01:41.538 align:left position:10%
+AT THE BEGINNING OF THE MOVIES.
+
+00:01:41.671 --> 00:01:42.906 align:left position:10%
+>> Jake: YEAH, IT'S ON ALL THE
+
+00:01:43.039 --> 00:01:43.506 align:left position:10%
+MOVIES WE DIG UP.
+
+00:01:43.639 --> 00:01:44.608 align:left position:10%
+>> Bubblegum: I DON'T KNOW.
+
+00:01:44.741 --> 00:01:45.409 align:left position:10%
+IT SEEMS PRETTY IMPORTANT, FINN.
+
+00:01:45.542 --> 00:01:47.278 align:left position:10%
+>> Finn: ALL RIGHT.
+
+00:01:47.411 --> 00:01:48.278 align:left position:10%
+LET'S TAKE A LOOK.
+
+00:01:48.411 --> 00:01:50.180 align:left position:10%
+>> Jake: PAUSE, BEEMO.
+
+00:01:50.313 --> 00:01:51.314 align:left position:10%
+>> Both: "WARNING -- FEDERAL LAW
+
+00:01:51.447 --> 00:01:53.250 align:left position:10%
+PROVIDES SEVERE AND CRIMINAL
+
+00:01:53.383 --> 00:01:56.520 align:left position:10%
+PENALTIES FOR THE UNAUTHORIZED
+
+00:01:56.653 --> 00:01:58.221 align:left position:10%
+EXHIBITION OF COPYRIGHTED MOTION
+
+00:01:58.354 --> 00:02:01.425 align:left position:10%
+PICTURES."
+
+00:02:01.558 --> 00:02:02.693 align:left position:10%
+>> Finn: ALL RIGHT, WELL,
+
+00:02:02.826 --> 00:02:03.393 align:left position:10%
+GOODBYE!
+
+00:02:03.526 --> 00:02:04.461 align:left position:10%
+>> Jake: SORRY WE HAD TO CANCEL.
+
+00:02:04.594 --> 00:02:05.662 align:left position:10%
+>> Finn: WE'VE BEEN SHOWING
+
+00:02:05.795 --> 00:02:06.463 align:left position:10%
+THESE FILMS UNAUTHORIZED!
+
+00:02:06.596 --> 00:02:08.599 align:left position:10%
+>> Jake: BUT THESE MOVIES ARE
+
+00:02:08.732 --> 00:02:10.267 align:left position:10%
+BEFORE THE GREAT MUSHROOM WAR.
+
+00:02:10.400 --> 00:02:12.102 align:left position:10%
+>> Finn: WE SHOULD STILL RESPECT
+
+00:02:12.235 --> 00:02:12.636 align:left position:10%
+AUTHORITY, MANG.
+
+00:02:12.769 --> 00:02:15.238 align:left position:10%
+[ INDISTINCT SHOUTING ]
+
+00:02:15.372 --> 00:02:17.140 align:left position:10%
+YEAH?
+
+00:02:17.273 --> 00:02:18.475 align:left position:10%
+>> Bubblegum: ARE WE MEETING
+
+00:02:18.608 --> 00:02:20.110 align:left position:10%
+NEXT WEEK TO WATCH A MOVIE?
+
+00:02:20.243 --> 00:02:21.011 align:left position:10%
+>> Finn: UH...
+
+00:02:21.144 --> 00:02:23.012 align:left position:10%
+UH, YEAH, MAYBE. I-I THINK SO.
+
+00:02:23.145 --> 00:02:24.247 align:left position:10%
+>> FINN, DON'T CANCEL MOVIE
+
+00:02:24.381 --> 00:02:26.083 align:left position:10%
+CLUB!
+
+00:02:26.215 --> 00:02:28.151 align:left position:10%
+I'VE LITERALLY BEEN HAVING THE
+
+00:02:28.284 --> 00:02:29.219 align:left position:10%
+TIME OF MY LIFE.
+
+00:02:29.353 --> 00:02:30.120 align:left position:10%
+>> [ SIGHS ]
+
+00:02:30.253 --> 00:02:31.121 align:left position:10%
+[ SPEAKING KOREAN ]
+
+00:02:31.254 --> 00:02:31.755 align:left position:10%
+>> Finn: CALM DOWN, Y'ALL.
+
+00:02:31.888 --> 00:02:33.056 align:left position:10%
+WE'RE GONNA HAVE
+
+00:02:33.189 --> 00:02:34.124 align:left position:10%
+"FINN AND JAKE MOVIE CLUB" NEXT
+
+00:02:34.257 --> 00:02:34.992 align:left position:10%
+WEEK FOR SURE.
+
+00:02:35.125 --> 00:02:36.259 align:left position:10%
+JAKE AND I JUST HAVE TO FIND A
+
+00:02:36.392 --> 00:02:37.761 align:left position:10%
+MOVIE WITHOUT THAT WARNING.
+
+00:02:37.894 --> 00:02:38.028 align:left position:10%
+>> GOOD!
+
+00:02:38.161 --> 00:02:38.729 align:left position:10%
+>> OKAY.
+
+00:02:38.862 --> 00:02:39.463 align:left position:10%
+>> Bubblegum: ALL RIGHT, WELL,
+
+00:02:39.596 --> 00:02:41.364 align:left position:10%
+WE'LL SEE YOU NEXT TIME!
+
+00:02:41.498 --> 00:02:42.299 align:left position:10%
+>> BYE-BYE!
+
+00:02:42.432 --> 00:02:43.433 align:left position:10%
+>> Jake: DUDE, WE'VE NEVER FOUND
+
+00:02:43.566 --> 00:02:46.236 align:left position:10%
+A MOVIE WITHOUT THAT WARNING.
+
+00:02:46.369 --> 00:02:47.303 align:left position:10%
+>> Finn: WE'RE NOT GONNA<i> FIND</i> A
+
+00:02:47.437 --> 00:02:50.174 align:left position:10%
+MOVIE, JAKE.
+
+00:02:50.307 --> 00:02:51.007 align:left position:10%
+[ ZAP! ]
+
+00:02:51.140 --> 00:02:52.542 align:left position:10%
+>> Jake: WELL, WHAT ARE WE GONNA
+
+00:02:52.675 --> 00:02:53.043 align:left position:10%
+DO?
+
+00:02:53.176 --> 00:02:54.144 align:left position:10%
+>> Finn: [ GASPS ]
+
+00:02:54.277 --> 00:02:55.312 align:left position:10%
+WE'RE GONNA MAKE ONE!
+
+00:02:55.445 --> 00:02:58.481 align:left position:10%
+>> Jake: WOW-P!
+
+00:02:58.614 --> 00:03:01.985 align:left position:10%
+>> Both: MOVIE FILMING TIME!
+
+00:03:02.118 --> 00:03:02.585 align:left position:10%
+>> Finn: OKAY, BEEMO.
+
+00:03:02.718 --> 00:03:04.955 align:left position:10%
+TURN TO YOUR RIGHT AND START
+
+00:03:05.088 --> 00:03:05.588 align:left position:10%
+FILMING.
+
+00:03:05.721 --> 00:03:06.256 align:left position:10%
+>> Jake: START TO TRUCK IN.
+
+00:03:06.390 --> 00:03:07.291 align:left position:10%
+KEEP GOING.
+
+00:03:07.424 --> 00:03:09.793 align:left position:10%
+KEEP TRUCKING IN, BEEMO.
+
+00:03:09.926 --> 00:03:11.161 align:left position:10%
+>> Both: HUH?
+
+00:03:11.294 --> 00:03:11.795 align:left position:10%
+>> Finn: THAT WAS AWESOME,
+
+00:03:11.929 --> 00:03:12.562 align:left position:10%
+BEEMO!
+
+00:03:12.695 --> 00:03:14.164 align:left position:10%
+>> Jake: YEAH. FANTASTIC. SUPER.
+
+00:03:14.297 --> 00:03:15.332 align:left position:10%
+DON'T LOSE HER, BEEMO.
+
+00:03:15.465 --> 00:03:17.834 align:left position:10%
+>> Finn: FRONT SHOT! FRONT SHOT!
+
+00:03:17.967 --> 00:03:20.203 align:left position:10%
+FILM THE CLOUDS!
+
+00:03:20.336 --> 00:03:21.304 align:left position:10%
+DON'T FORGET THE LITTLE ONE!
+
+00:03:21.437 --> 00:03:22.172 align:left position:10%
+[ CAMERA SHUTTER CLICKING,
+
+00:03:22.305 --> 00:03:24.007 align:left position:10%
+WHIRRING ]
+
+00:03:24.140 --> 00:03:24.941 align:left position:10%
+>> Jake: BEEMO!
+
+00:03:25.074 --> 00:03:25.442 align:left position:10%
+BEEMO, YOU'RE GONNA MISS IT!
+
+00:03:25.575 --> 00:03:27.811 align:left position:10%
+OVER THERE, TO YOUR RIGHT!
+
+00:03:27.944 --> 00:03:30.347 align:left position:10%
+>> [ LAUGHS ]
+
+00:03:30.480 --> 00:03:32.582 align:left position:10%
+>> Finn: OH, WE'RE GONNA MISS
+
+00:03:32.715 --> 00:03:32.983 align:left position:10%
+IT!
+
+00:03:33.116 --> 00:03:35.118 align:left position:10%
+HURRY, BEEMO!
+
+00:03:35.251 --> 00:03:36.186 align:left position:10%
+DON'T LOSE IT!
+
+00:03:36.319 --> 00:03:36.920 align:left position:10%
+OH, LOOKS LIKE IT'S GONNA FALL!
+
+00:03:37.053 --> 00:03:39.189 align:left position:10%
+FOLLOW IT!
+
+00:03:39.322 --> 00:03:39.890 align:left position:10%
+>> Jake: LOOK OVER THERE --
+
+00:03:40.023 --> 00:03:41.157 align:left position:10%
+ACROSS THE RIVER!
+
+00:03:41.290 --> 00:03:41.825 align:left position:10%
+>> Finn: BEEMO, FORGET ABOUT THE
+
+00:03:41.959 --> 00:03:42.559 align:left position:10%
+COIN!
+
+00:03:42.692 --> 00:03:44.194 align:left position:10%
+FILM THAT OVER THERE!
+
+00:03:44.327 --> 00:03:45.228 align:left position:10%
+ZOOM IN.
+
+00:03:45.361 --> 00:03:47.363 align:left position:10%
+[ CAMERA WHIRS ]
+
+00:03:47.497 --> 00:03:48.198 align:left position:10%
+WEIRD.
+
+00:03:48.331 --> 00:03:49.466 align:left position:10%
+LET'S GET SOME MORE FOOTAGE.
+
+00:03:55.505 --> 00:03:58.208 align:left position:10%
+>> [ WHISTLING ]
+
+00:03:58.341 --> 00:03:58.742 align:left position:10%
+>> WHEE!
+
+00:03:58.875 --> 00:03:59.142 align:left position:10%
+[ LAUGHS ]
+
+00:03:59.276 --> 00:04:01.177 align:left position:10%
+WHEE!
+
+00:04:01.311 --> 00:04:03.346 align:left position:10%
+[ CLAPPING ]
+
+00:04:03.479 --> 00:04:05.315 align:left position:10%
+>> NOM! NOM! NOM! NOM!
+
+00:04:05.448 --> 00:04:08.685 align:left position:10%
+[ WHACK! ]
+
+00:04:08.818 --> 00:04:09.520 align:left position:10%
+>> LIKE THAT?
+
+00:04:09.653 --> 00:04:10.220 align:left position:10%
+>> Both: YEAH! PERFECT!
+
+00:04:10.353 --> 00:04:11.387 align:left position:10%
+>><i> ARE Y-YOU SURE?</i>
+
+00:04:11.520 --> 00:04:13.990 align:left position:10%
+>> Both:<i> YEAH! LOOKS GREAT!</i>
+
+00:04:14.123 --> 00:04:14.992 align:left position:10%
+>><i> WAIT, WHAT ABOUT THIS?</i>
+
+00:04:15.125 --> 00:04:16.226 align:left position:10%
+>> Both:<i> THAT'S EVEN BETTER!</i>
+
+00:04:16.359 --> 00:04:17.962 align:left position:10%
+>> Finn: UH...
+
+00:04:18.095 --> 00:04:19.096 align:left position:10%
+WHAT DO YOU THINK?
+
+00:04:19.229 --> 00:04:20.263 align:left position:10%
+>> Jake: I DON'T GET IT.
+
+00:04:20.396 --> 00:04:21.931 align:left position:10%
+IT'S JUST A BUNCH OF RANDOM
+
+00:04:22.065 --> 00:04:22.666 align:left position:10%
+JUNK.
+
+00:04:22.799 --> 00:04:24.200 align:left position:10%
+>> Finn: YEAH, I'M NOT ENGAGED.
+
+00:04:24.333 --> 00:04:25.402 align:left position:10%
+I NEED TO SEE SOMETHING THAT
+
+00:04:25.535 --> 00:04:27.137 align:left position:10%
+REFLECTS LIFE AS IT IS, BUT, YOU
+
+00:04:27.270 --> 00:04:28.172 align:left position:10%
+KNOW, ENTERTAINING.
+
+00:04:28.304 --> 00:04:29.606 align:left position:10%
+>> Jake: YEAH, LIKE A ROMANTIC
+
+00:04:29.739 --> 00:04:30.274 align:left position:10%
+COMEDY.
+
+00:04:30.407 --> 00:04:31.341 align:left position:10%
+>> Finn: EXACTLY -- AN ACTION
+
+00:04:31.474 --> 00:04:32.275 align:left position:10%
+ADVENTURE.
+
+00:04:32.408 --> 00:04:32.842 align:left position:10%
+>> Jake: WAIT, THAT'S NOT WHAT I
+
+00:04:32.976 --> 00:04:33.577 align:left position:10%
+SAID.
+
+00:04:33.710 --> 00:04:34.978 align:left position:10%
+>> Finn: LET'S GET TO FILMING!
+
+00:04:35.111 --> 00:04:36.313 align:left position:10%
+OKAY, SLIME PRINCESS!
+
+00:04:36.446 --> 00:04:38.949 align:left position:10%
+IN THIS SCENE, YOU'RE GONNA LEAP
+
+00:04:39.082 --> 00:04:40.450 align:left position:10%
+OVER TO THAT VINE...
+
+00:04:40.583 --> 00:04:42.652 align:left position:10%
+SWING OVER THE CROCODILES...
+
+00:04:42.785 --> 00:04:44.454 align:left position:10%
+DO A TRIPLE FLIP WITH A FULL
+
+00:04:44.587 --> 00:04:46.189 align:left position:10%
+TWIST, AND LAND CLEAN!
+
+00:04:46.322 --> 00:04:47.291 align:left position:10%
+DON'T FALL IN THE WATER, OR
+
+00:04:47.424 --> 00:04:48.358 align:left position:10%
+YOU'LL GET EATEN ALIVE!
+
+00:04:48.491 --> 00:04:50.761 align:left position:10%
+ACTION!
+
+00:04:56.333 --> 00:04:57.067 align:left position:10%
+>> [ GROWLS ]
+
+00:04:57.200 --> 00:04:58.935 align:left position:10%
+>> [ SMOOCHING ]
+
+00:04:59.068 --> 00:05:00.670 align:left position:10%
+>> Finn: NO! NO SMOOCHING!
+
+00:05:00.803 --> 00:05:01.571 align:left position:10%
+CUT!
+
+00:05:01.704 --> 00:05:02.372 align:left position:10%
+>> Jake: I THOUGHT IT WAS GREAT.
+
+00:05:02.505 --> 00:05:04.741 align:left position:10%
+>> Finn: NO, WE CAN'T USE ANY OF
+
+00:05:04.874 --> 00:05:05.409 align:left position:10%
+IT.
+
+00:05:05.541 --> 00:05:06.343 align:left position:10%
+>> Jake: I THINK WE SHOULD USE
+
+00:05:06.476 --> 00:05:07.077 align:left position:10%
+ALL OF IT.
+
+00:05:07.210 --> 00:05:07.711 align:left position:10%
+>> Finn: NO, NOT ALL.
+
+00:05:07.844 --> 00:05:09.613 align:left position:10%
+WE SHOULD THROW AWAY THE PARTS
+
+00:05:09.746 --> 00:05:10.947 align:left position:10%
+WHERE SLIME PRINCESS WAS
+
+00:05:11.080 --> 00:05:11.381 align:left position:10%
+SMOOCHING.
+
+00:05:11.514 --> 00:05:12.215 align:left position:10%
+THAT WAS DUMB.
+
+00:05:12.348 --> 00:05:13.050 align:left position:10%
+>> Jake: WHAT?!
+
+00:05:13.183 --> 00:05:15.285 align:left position:10%
+>> Finn: DU-U-U-U-U-U-U-MBAH!
+
+00:05:15.418 --> 00:05:17.988 align:left position:10%
+>> Jake: OKAY, YOU'RE HAVING A
+
+00:05:18.121 --> 00:05:18.655 align:left position:10%
+PICNIC.
+
+00:05:18.788 --> 00:05:20.157 align:left position:10%
+YOU'RE IN LOVE, BUT YOU CAN'T
+
+00:05:20.290 --> 00:05:21.124 align:left position:10%
+ADMIT IT.
+
+00:05:21.257 --> 00:05:22.892 align:left position:10%
+SO YOU'RE HAVING A PLAYFUL FOOD
+
+00:05:23.026 --> 00:05:23.259 align:left position:10%
+FIGHT.
+
+00:05:23.393 --> 00:05:24.795 align:left position:10%
+AND ACTION!
+
+00:05:24.928 --> 00:05:25.863 align:left position:10%
+[ SPLAT! ]
+
+00:05:25.996 --> 00:05:28.131 align:left position:10%
+>> WHY DID YOU DO THAT?!
+
+00:05:28.264 --> 00:05:31.134 align:left position:10%
+[ SPLAT! ]
+
+00:05:31.267 --> 00:05:33.170 align:left position:10%
+[ SPLAT! ]
+
+00:05:33.303 --> 00:05:34.971 align:left position:10%
+>> Jake: CUT, CUT, CUT!
+
+00:05:35.104 --> 00:05:35.238 align:left position:10%
+[ CLANK! ]
+
+00:05:35.371 --> 00:05:36.106 align:left position:10%
+CUT!
+
+00:05:36.239 --> 00:05:37.574 align:left position:10%
+THAT WAS NOT WHAT I WANTED!
+
+00:05:37.707 --> 00:05:39.342 align:left position:10%
+>> Finn: THAT WAS AWESOME!
+
+00:05:39.475 --> 00:05:40.343 align:left position:10%
+WE NEED TO SHOOT MORE STUFF LIKE
+
+00:05:40.477 --> 00:05:41.845 align:left position:10%
+THAT.
+
+00:05:41.978 --> 00:05:42.979 align:left position:10%
+>> Jake: [ SIGHS ]
+
+00:05:43.113 --> 00:05:46.350 align:left position:10%
+WHAT'S NEXT?
+
+00:05:46.483 --> 00:05:48.385 align:left position:10%
+>> Finn: OKAY, PB.
+
+00:05:48.518 --> 00:05:51.287 align:left position:10%
+MOVE BACK A LITTLE.
+
+00:05:51.421 --> 00:05:52.856 align:left position:10%
+STOP!
+
+00:05:52.989 --> 00:05:53.824 align:left position:10%
+>> Bubblegum: FINN?
+
+00:05:53.957 --> 00:05:54.491 align:left position:10%
+>> Finn: YEAH?
+
+00:05:54.624 --> 00:05:55.925 align:left position:10%
+>> Bubblegum: HOW DOES THIS
+
+00:05:56.059 --> 00:05:56.360 align:left position:10%
+WORK?
+
+00:05:56.493 --> 00:05:57.260 align:left position:10%
+>> Finn: UM...
+
+00:05:57.393 --> 00:05:58.395 align:left position:10%
+JAKE'S GONNA GET THE FROG TO HOP
+
+00:05:58.528 --> 00:05:59.696 align:left position:10%
+TOWARD HIM, AND WHEN HE DOES,
+
+00:05:59.829 --> 00:06:00.463 align:left position:10%
+YOU'RE GONNA RUN ALONGSIDE THE
+
+00:06:00.596 --> 00:06:02.332 align:left position:10%
+CHARIOT, AND IT'S GONNA LOOK
+
+00:06:02.465 --> 00:06:03.400 align:left position:10%
+LIKE YOU'RE DRIVING IT.
+
+00:06:03.533 --> 00:06:04.334 align:left position:10%
+>> Bubblegum: OKAY.
+
+00:06:04.467 --> 00:06:05.235 align:left position:10%
+>> Jake: HEY, FINN.
+
+00:06:05.368 --> 00:06:06.069 align:left position:10%
+>> Finn: YEAH?
+
+00:06:06.202 --> 00:06:07.270 align:left position:10%
+>> Jake: HOW ABOUT WHEN THE
+
+00:06:07.403 --> 00:06:08.505 align:left position:10%
+CHARIOT TAKES OFF, SHE SAYS
+
+00:06:08.638 --> 00:06:10.274 align:left position:10%
+SOMETHING LIKE, "MM, CHECK,
+
+00:06:10.407 --> 00:06:11.174 align:left position:10%
+PLEASE!"
+
+00:06:11.307 --> 00:06:12.542 align:left position:10%
+>> Finn: WHAT?!
+
+00:06:12.675 --> 00:06:15.078 align:left position:10%
+NO, THAT'S TERRIBLE.
+
+00:06:15.211 --> 00:06:18.415 align:left position:10%
+AND...ACTION!
+
+00:06:21.051 --> 00:06:21.919 align:left position:10%
+>> [ CROAKS ]
+
+00:06:22.052 --> 00:06:23.220 align:left position:10%
+[ WHACK! CRASH! ]
+
+00:06:23.353 --> 00:06:24.287 align:left position:10%
+[ CROAKS ]
+
+00:06:24.420 --> 00:06:26.924 align:left position:10%
+>> Bubblegum: CHECK, PLEASE?
+
+00:06:27.057 --> 00:06:28.025 align:left position:10%
+>> Finn: AW, JAKE!
+
+00:06:28.157 --> 00:06:29.359 align:left position:10%
+YOU -- YOU BROUGHT THE FLY IN
+
+00:06:29.492 --> 00:06:30.127 align:left position:10%
+TOO CLOSE!
+
+00:06:30.260 --> 00:06:31.027 align:left position:10%
+>> Jake: I'M SORRY.
+
+00:06:31.160 --> 00:06:32.095 align:left position:10%
+>> Finn: WELL, HELP ME CATCH
+
+00:06:32.228 --> 00:06:32.729 align:left position:10%
+HIM.
+
+00:06:32.862 --> 00:06:35.665 align:left position:10%
+>> [ CROAKING ]
+
+00:06:35.798 --> 00:06:36.566 align:left position:10%
+>> Jake: WELL, I THOUGHT IT WAS
+
+00:06:36.700 --> 00:06:37.468 align:left position:10%
+FUNNY.
+
+00:06:37.601 --> 00:06:39.002 align:left position:10%
+>> Finn: THIS ISN'T A COMEDY!
+
+00:06:39.135 --> 00:06:39.669 align:left position:10%
+>> Jake: NOT THE WAY YOU'RE
+
+00:06:39.803 --> 00:06:40.670 align:left position:10%
+SHOOTING IT.
+
+00:06:40.803 --> 00:06:42.072 align:left position:10%
+>> Finn: LOOK, JUST HELP ME
+
+00:06:42.205 --> 00:06:42.706 align:left position:10%
+CATCH THIS GUY.
+
+00:06:42.839 --> 00:06:44.174 align:left position:10%
+>> Jake: ALL RIGHT, BUT AFTER
+
+00:06:44.307 --> 00:06:46.209 align:left position:10%
+THIS, WE DO MY PART.
+
+00:06:46.342 --> 00:06:47.310 align:left position:10%
+OKAY, EVERYONE, IT'S BEEN A LONG
+
+00:06:47.443 --> 00:06:48.845 align:left position:10%
+DAY.
+
+00:06:48.978 --> 00:06:49.345 align:left position:10%
+LOT OF...
+
+00:06:49.479 --> 00:06:50.380 align:left position:10%
+[ CHUCKLES ]
+
+00:06:50.513 --> 00:06:52.082 align:left position:10%
+...A LOT OF RUNNING AROUND,
+
+00:06:52.215 --> 00:06:53.049 align:left position:10%
+CHASING FROGS.
+
+00:06:53.183 --> 00:06:53.984 align:left position:10%
+[ CHUCKLES ]
+
+00:06:54.117 --> 00:06:55.419 align:left position:10%
+BUT WE ARE MAKING A MOVIE, AND
+
+00:06:55.552 --> 00:06:56.252 align:left position:10%
+THIS IS THE BIG WEDDING SCENE.
+
+00:06:56.385 --> 00:06:58.956 align:left position:10%
+MR. CUPCAKE, YOU'RE PLAYING
+
+00:06:59.089 --> 00:06:59.957 align:left position:10%
+TODD JOHNSON.
+
+00:07:00.090 --> 00:07:00.657 align:left position:10%
+>> YES.
+
+00:07:00.790 --> 00:07:01.291 align:left position:10%
+>> Jake: AND, LADY, YOU CONFESS
+
+00:07:01.424 --> 00:07:03.293 align:left position:10%
+THAT YOU NEVER LOVED
+
+00:07:03.426 --> 00:07:05.062 align:left position:10%
+TODD JOHNSON AND THAT YOU WERE
+
+00:07:05.195 --> 00:07:06.430 align:left position:10%
+JUST TRYING TO WIN A BET WITH
+
+00:07:06.563 --> 00:07:07.197 align:left position:10%
+YOUR SNOOTY SOCIALITE FRIENDS.
+
+00:07:07.330 --> 00:07:08.231 align:left position:10%
+>> [ SPEAKING KOREAN ]
+
+00:07:08.364 --> 00:07:10.967 align:left position:10%
+>> Jake: AND THEN YOU BOTH
+
+00:07:11.100 --> 00:07:13.003 align:left position:10%
+REALIZE YOU DO LOVE EACH OTHER,
+
+00:07:13.136 --> 00:07:14.504 align:left position:10%
+AND YOU BOTH SAY, "I DO."
+
+00:07:14.637 --> 00:07:16.473 align:left position:10%
+AND THEN, SHELBY, YOU SAY...
+
+00:07:16.606 --> 00:07:17.273 align:left position:10%
+>> "CHECK, PLEASE!"
+
+00:07:17.406 --> 00:07:20.009 align:left position:10%
+>> Jake: [ CHUCKLES ]
+
+00:07:20.143 --> 00:07:20.677 align:left position:10%
+YEAH.
+
+00:07:20.810 --> 00:07:22.012 align:left position:10%
+DON'T FORGET TO LOOK RIGHT IN
+
+00:07:22.145 --> 00:07:22.779 align:left position:10%
+THE CAMERA AND SLAP YOUR CHEEKS
+
+00:07:22.913 --> 00:07:23.881 align:left position:10%
+LIKE THIS...
+
+00:07:24.014 --> 00:07:26.683 align:left position:10%
+[ POP! ]
+
+00:07:26.817 --> 00:07:27.551 align:left position:10%
+AND...
+
+00:07:27.684 --> 00:07:29.119 align:left position:10%
+ONE, TWO, THREE, ACTION!
+
+00:07:29.252 --> 00:07:30.287 align:left position:10%
+>> DO YOU, TODD JOHNSON, TAKE
+
+00:07:30.420 --> 00:07:32.956 align:left position:10%
+THIS RAINICORN TO BE YOUR
+
+00:07:33.089 --> 00:07:36.192 align:left position:10%
+LAWFULLY MARRIED WIFE?
+
+00:07:36.326 --> 00:07:37.193 align:left position:10%
+>> OH.
+
+00:07:37.327 --> 00:07:38.195 align:left position:10%
+[ GIGGLES ]
+
+00:07:38.328 --> 00:07:40.096 align:left position:10%
+[ CREAK! ]
+
+00:07:40.229 --> 00:07:45.102 align:left position:10%
+[ STRETCH! STRETCH! ]
+
+00:07:45.235 --> 00:07:46.236 align:left position:10%
+>> Jake: LADY!
+
+00:07:46.369 --> 00:07:49.139 align:left position:10%
+CUT! CUT, CUT, CUT!
+
+00:07:49.272 --> 00:07:51.207 align:left position:10%
+I DIDN'T TELL YOU TO FLEX OUT!
+
+00:07:51.340 --> 00:07:52.175 align:left position:10%
+>> [ SPEAKING KOREAN ]
+
+00:07:52.309 --> 00:07:54.111 align:left position:10%
+>> Jake: NO!
+
+00:07:54.244 --> 00:07:55.445 align:left position:10%
+I DON'T LIKE THE WAY HE'S
+
+00:07:55.578 --> 00:07:56.513 align:left position:10%
+FLEXING AT YOU!
+
+00:07:56.646 --> 00:07:58.415 align:left position:10%
+>> I DON'T HEAR HER COMPLAINING.
+
+00:07:58.548 --> 00:07:59.749 align:left position:10%
+>> Jake: WHY, YOU --
+
+00:07:59.883 --> 00:08:01.418 align:left position:10%
+[ SCREAMS ]
+
+00:08:01.551 --> 00:08:05.455 align:left position:10%
+>> CHECK, PLEASE!
+
+00:08:05.588 --> 00:08:06.256 align:left position:10%
+>> Finn: HOW MUCH LONGER TILL
+
+00:08:06.389 --> 00:08:08.726 align:left position:10%
+YOU FINISH EDITING, BEEMO?
+
+00:08:08.859 --> 00:08:09.793 align:left position:10%
+>> ABOUT 20 HOURS.
+
+00:08:09.926 --> 00:08:10.894 align:left position:10%
+>> Finn: 20 HOURS?!
+
+00:08:11.027 --> 00:08:11.461 align:left position:10%
+>> YEAH.
+
+00:08:11.594 --> 00:08:12.696 align:left position:10%
+YOU GUYS SHOT A LOT OF
+
+00:08:12.829 --> 00:08:14.064 align:left position:10%
+FOOTAGE...
+
+00:08:14.197 --> 00:08:16.099 align:left position:10%
+ABOUT 20 HOURS.
+
+00:08:16.232 --> 00:08:17.167 align:left position:10%
+>> Finn: JAKE, LET'S TALK ABOUT
+
+00:08:17.300 --> 00:08:18.035 align:left position:10%
+OUR MOVIE.
+
+00:08:18.168 --> 00:08:18.669 align:left position:10%
+>> Jake: OKAY.
+
+00:08:18.801 --> 00:08:19.403 align:left position:10%
+>> Finn: I THINK WE SHOT A LOT
+
+00:08:19.536 --> 00:08:20.203 align:left position:10%
+OF GREAT STUFF...
+
+00:08:20.336 --> 00:08:22.138 align:left position:10%
+>> Jake: UH-HUH.
+
+00:08:22.271 --> 00:08:23.273 align:left position:10%
+>> Finn: ...BUT I'M THINKING
+
+00:08:23.406 --> 00:08:24.774 align:left position:10%
+ONLY HALF OF IT IS USABLE.
+
+00:08:24.907 --> 00:08:25.442 align:left position:10%
+>> Jake: ME TOO.
+
+00:08:25.574 --> 00:08:26.410 align:left position:10%
+>> Finn: REALLY?!
+
+00:08:26.543 --> 00:08:27.811 align:left position:10%
+>> Jake: YEAH, I WAS JUST
+
+00:08:27.944 --> 00:08:28.411 align:left position:10%
+THINKING THAT.
+
+00:08:28.544 --> 00:08:29.713 align:left position:10%
+>> Finn: THAT'S GREAT!
+
+00:08:29.846 --> 00:08:30.447 align:left position:10%
+>> Jake: I KNOW!
+
+00:08:30.580 --> 00:08:31.181 align:left position:10%
+>> Finn: YOU ACTUALLY AGREE IT'S
+
+00:08:31.314 --> 00:08:32.249 align:left position:10%
+AN ACTION-ADVENTURE!
+
+00:08:32.381 --> 00:08:35.352 align:left position:10%
+>> Jake: YEP, IT -- WAIT! NO!
+
+00:08:35.485 --> 00:08:36.286 align:left position:10%
+>> Finn: WHAT?!
+
+00:08:36.419 --> 00:08:37.854 align:left position:10%
+>> Jake: ROMANTIC COMEDY!
+
+00:08:37.987 --> 00:08:38.889 align:left position:10%
+>> Finn: WHAT?!
+
+00:08:39.022 --> 00:08:39.323 align:left position:10%
+>> Jake: WHAT DO YOU MEAN,
+
+00:08:39.456 --> 00:08:40.924 align:left position:10%
+"WHAT?!"
+
+00:08:41.057 --> 00:08:42.292 align:left position:10%
+>> Finn: WHO'S RIGHT, BEEMO?
+
+00:08:42.425 --> 00:08:43.927 align:left position:10%
+>> Jake: YEAH! ME OR FINN?!
+
+00:08:44.060 --> 00:08:47.164 align:left position:10%
+[ BEEPING ]
+
+00:08:47.297 --> 00:08:48.365 align:left position:10%
+>> Finn: WE'LL ASK HIM WHEN HE
+
+00:08:48.498 --> 00:08:49.166 align:left position:10%
+WAKES UP.
+
+00:08:49.299 --> 00:08:50.100 align:left position:10%
+>> Jake: WHY WAIT?
+
+00:08:50.233 --> 00:08:52.002 align:left position:10%
+"DEAR BEEMO...
+
+00:08:52.135 --> 00:08:54.338 align:left position:10%
+PLEASE USE ONLY THE BEST FOOTAGE
+
+00:08:54.471 --> 00:08:57.774 align:left position:10%
+WHEN CUTTING THE MOVIE.
+
+00:08:57.907 --> 00:08:59.142 align:left position:10%
+LOVE, JAKE."
+
+00:08:59.275 --> 00:09:02.012 align:left position:10%
+>> Finn: "AND FINN."
+
+00:09:02.145 --> 00:09:03.613 align:left position:10%
+>> Jake: SEE YOU AT THE MOVIE
+
+00:09:03.747 --> 00:09:04.247 align:left position:10%
+CLUB, THEN!
+
+00:09:04.380 --> 00:09:05.949 align:left position:10%
+>> Finn: OH, I'LL BE THERE!
+
+00:09:06.082 --> 00:09:07.151 align:left position:10%
+>> Jake: AS WILL I.
+
+00:09:07.283 --> 00:09:10.287 align:left position:10%
+>> Finn: AS WILL I...AS WELL.
+
+00:09:10.420 --> 00:09:14.324 align:left position:10%
+>> [ BEEPING ]
+
+00:09:14.457 --> 00:09:17.427 align:left position:10%
+[ INDISTINCT CONVERSATIONS ]
+
+00:09:17.560 --> 00:09:18.328 align:left position:10%
+>> YES. OH, YES.
+
+00:09:18.461 --> 00:09:21.231 align:left position:10%
+UGH! I CAN'T WAIT! OH!
+
+00:09:21.364 --> 00:09:22.198 align:left position:10%
+I CAN'T WAIT!
+
+00:09:22.331 --> 00:09:23.700 align:left position:10%
+>> Jake: [ CHUCKLES ]
+
+00:09:23.833 --> 00:09:24.334 align:left position:10%
+ALL RIGHT.
+
+00:09:24.467 --> 00:09:25.168 align:left position:10%
+THANKS AGAIN, EVERYONE, FOR
+
+00:09:25.301 --> 00:09:27.004 align:left position:10%
+COMING TO...
+
+00:09:27.137 --> 00:09:29.372 align:left position:10%
+♪ MOVIE NIGHT! ♪
+
+00:09:29.505 --> 00:09:30.940 align:left position:10%
+I HOPE Y'ALL ARE IN THE MOOD TO
+
+00:09:31.074 --> 00:09:31.641 align:left position:10%
+LAUGH!
+
+00:09:31.774 --> 00:09:32.709 align:left position:10%
+>> Finn: I HOPE Y'ALL ARE READY
+
+00:09:32.842 --> 00:09:33.477 align:left position:10%
+TO BE ON THE EDGE OF YOUR SEATS
+
+00:09:33.609 --> 00:09:35.678 align:left position:10%
+FOR TONIGHT'S ACTION-ADVENTURE
+
+00:09:35.812 --> 00:09:36.346 align:left position:10%
+FILM!
+
+00:09:36.479 --> 00:09:38.348 align:left position:10%
+>> Jake: IT'S, UH, MORE OF A
+
+00:09:38.480 --> 00:09:41.017 align:left position:10%
+ROMANTIC COMEDY, RIGHT, BEEMO?
+
+00:09:41.150 --> 00:09:42.385 align:left position:10%
+>> EEEEE.
+
+00:09:42.518 --> 00:09:43.520 align:left position:10%
+>> Finn: WELL, I GUESS WE'LL
+
+00:09:43.653 --> 00:09:44.688 align:left position:10%
+SEE!
+
+00:09:44.821 --> 00:09:47.024 align:left position:10%
+>> Jake: YEAH, I GUESS WE WILL!
+
+00:09:47.157 --> 00:09:48.992 align:left position:10%
+START THE MOVIE, BEEMO!
+
+00:09:49.126 --> 00:09:51.995 align:left position:10%
+[ APPLAUSE ]
+
+00:09:52.128 --> 00:09:52.562 align:left position:10%
+[ BOTH SCOFF ]
+
+00:09:52.695 --> 00:09:54.831 align:left position:10%
+>> It's a little awkward.
+
+00:09:54.965 --> 00:09:55.665 align:left position:10%
+>> [ SIGHS ]
+
+00:09:55.798 --> 00:09:56.099 align:left position:10%
+[ BEAM! ]
+
+00:09:56.232 --> 00:09:58.835 align:left position:10%
+[ CROWD GASPS ]
+
+00:09:58.969 --> 00:09:59.169 align:left position:10%
+[ ZAPPING ]
+
+00:09:59.302 --> 00:10:00.003 align:left position:10%
+>> OOH!
+
+00:10:00.136 --> 00:10:02.005 align:left position:10%
+>> AHH!
+
+00:10:02.139 --> 00:10:03.006 align:left position:10%
+[ WARBLE! ]
+
+00:10:03.139 --> 00:10:03.406 align:left position:10%
+[ MUSIC PLAYS ]
+
+00:10:03.539 --> 00:10:05.441 align:left position:10%
+>> Oh, my gosh!
+
+00:10:05.574 --> 00:10:08.378 align:left position:10%
+>> ♪ FINN, WHY ARE YOU FIGHTING
+
+00:10:08.511 --> 00:10:11.081 align:left position:10%
+WITH YOUR FRIEND? ♪
+
+00:10:11.214 --> 00:10:13.183 align:left position:10%
+♪ JAKE, YOU KNOW THIS CAN'T BE
+
+00:10:13.316 --> 00:10:14.418 align:left position:10%
+THE END ♪
+
+00:10:14.551 --> 00:10:18.688 align:left position:10%
+♪ ROMANCE OR ACTION DOES NOT
+
+00:10:18.821 --> 00:10:20.090 align:left position:10%
+MATTER ♪
+
+00:10:20.223 --> 00:10:22.859 align:left position:10%
+♪ HURTING YOUR FRIEND WILL MAKE
+
+00:10:22.992 --> 00:10:23.527 align:left position:10%
+YOU SADDER ♪
+
+00:10:23.659 --> 00:10:26.230 align:left position:10%
+♪ GUYS, YOU KNOW YOU'RE MUCH
+
+00:10:26.363 --> 00:10:28.264 align:left position:10%
+MORE THAN THIS ♪
+
+00:10:28.397 --> 00:10:30.400 align:left position:10%
+♪ YOU TWO, PLEASE STOP, OR
+
+00:10:30.533 --> 00:10:33.436 align:left position:10%
+YOU'LL UNDO ♪
+
+00:10:33.569 --> 00:10:36.206 align:left position:10%
+♪ ALL THAT YOU'VE BEEN THROUGH ♪
+
+00:10:36.339 --> 00:10:37.307 align:left position:10%
+♪ OOH ♪
+
+00:10:37.440 --> 00:10:42.579 align:left position:10%
+♪ JUST HUG, AND IT'S AGREED ♪
+
+00:10:42.712 --> 00:10:47.584 align:left position:10%
+♪ YOUR LOVE WILL NOT DELETE ♪
+
+00:10:47.717 --> 00:10:49.019 align:left position:10%
+[ CHEERS AND APPLAUSE ]
+
+00:10:49.152 --> 00:10:49.620 align:left position:10%
+>> YES! YEAH!
+
+00:10:49.753 --> 00:10:51.121 align:left position:10%
+>> Finn: BEEMO'S RIGHT.
+
+00:10:51.254 --> 00:10:52.689 align:left position:10%
+FIGHTING OVER THIS MOVIE JUNK IS
+
+00:10:52.823 --> 00:10:53.123 align:left position:10%
+DUMB.
+
+00:10:53.256 --> 00:10:54.124 align:left position:10%
+I'M SORRY, MAN.
+
+00:10:54.257 --> 00:10:55.292 align:left position:10%
+>> Jake: ME TOO, DUDE.
+
+00:10:55.425 --> 00:10:58.529 align:left position:10%
+>> OH, MY GOSH, YOU GUYS.
+
+00:10:58.662 --> 00:11:00.330 align:left position:10%
+I CAN'T WAIT TILL NEXT WEEK'S
+
+00:11:00.464 --> 00:11:01.231 align:left position:10%
+MOVIE CLUB!
+
+00:11:01.364 --> 00:11:02.966 align:left position:10%
+>> CHECK, PLEASE.
+
+00:11:03.099 --> 00:11:03.533 align:left position:10%
+[ LAUGHTER AND APPLAUSE ]
+
+00:11:03.666 --> 00:11:05.702 align:left position:10%
+>> Jake: THAT'S A GOOD ONE,
+
+00:11:05.836 --> 00:11:06.637 align:left position:10%
+BEEMO!
+
+00:11:08.538 --> 00:11:12.409 align:left line:10% position:10%
+>> ♪ COME ALONG WITH ME ♪
+
+00:11:12.542 --> 00:11:16.413 align:left line:10% position:10%
+♪ AND THE BUTTERFLIES AND BEES ♪
+
+00:11:16.546 --> 00:11:18.715 align:left line:10% position:10%
+♪ WE CAN WANDER THROUGH THE
+
+00:11:18.848 --> 00:11:20.417 align:left line:10% position:10%
+FOREST ♪
+
+00:11:20.550 --> 00:11:24.387 align:left line:10% position:10%
+♪ AND DO SO AS WE PLEASE ♪
+
+00:11:24.520 --> 00:11:28.424 align:left line:10% position:10%
+♪ COME ALONG WITH ME ♪
+
+00:11:28.557 --> 00:11:29.592 align:left line:10% position:10%
+♪ TO A CLIFF UNDER A TREE ♪
+

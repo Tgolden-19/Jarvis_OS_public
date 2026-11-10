@@ -1,0 +1,1012 @@
+WEBVTT
+X-TIMESTAMP-MAP=LOCAL:00:00:00.000,MPEGTS:0
+
+00:00:00.603 --> 00:00:01.802 position:50%
+[ mouse squeaks ]
+
+00:00:01.871 --> 00:00:03.273 position:50%
+[ penguins chirp ]
+
+00:00:05.141 --> 00:00:06.576 position:50%
+[ all cheering ]
+
+00:00:09.713 --> 00:00:10.714 position:50%
+[ screeches ]
+
+00:00:12.148 --> 00:00:13.313 position:50%
+♪ Adventure Time
+
+00:00:13.382 --> 00:00:14.815 position:50%
+♪ Come on, grab your friends
+
+00:00:14.884 --> 00:00:17.351 position:47%
+♪ We'll go to very
+distant lands ♪
+
+00:00:17.420 --> 00:00:19.820 align:left position:25%
+♪ With Jake the dog
+and Finn the human ♪
+
+00:00:19.889 --> 00:00:21.288 position:50%
+♪ the fun will never end
+
+00:00:21.357 --> 00:00:23.493 position:46%
+♪ It's Adventure Time
+
+00:00:24.660 --> 00:00:28.064 position:50%
+[ bells jingling ]
+
+00:00:34.770 --> 00:00:36.970 position:47%
+Jake, you made this?
+Yeah.
+
+00:00:37.039 --> 00:00:39.340 position:50%
+And you buried
+the treasure right here?
+
+00:00:39.409 --> 00:00:40.441 position:50%
+Uh-huh.
+
+00:00:40.510 --> 00:00:42.579 position:50%
+Jake, you're awesome!
+
+00:00:44.813 --> 00:00:47.948 position:50%
+[ grunts ]
+This is so cool.
+
+00:00:48.017 --> 00:00:50.854 position:50%
+BOTH: [ grunting ]
+
+00:00:53.589 --> 00:00:55.089 position:50%
+FINN: A suitcase?
+
+00:00:55.158 --> 00:00:56.590 position:50%
+Oh, man!
+
+00:00:56.659 --> 00:00:57.991 position:50%
+I found it in the dump
+
+00:00:58.060 --> 00:01:00.194 position:46%
+and then buried it
+without looking inside.
+
+00:01:00.263 --> 00:01:01.828 position:50%
+Whoa.
+
+00:01:01.897 --> 00:01:04.764 position:46%
+Wait a second, man.
+I know this case.
+
+00:01:04.833 --> 00:01:07.401 position:46%
+One night, while you were
+away at Lady's house,
+
+00:01:07.470 --> 00:01:09.269 position:50%
+I was dancing in the woods.
+
+00:01:09.338 --> 00:01:11.104 position:46%
+ICE KING:
+Evil tapes. Evil!
+
+00:01:11.173 --> 00:01:14.341 position:46%
+Perchance, I saw the Ice King
+doing something suspicious.
+
+00:01:14.410 --> 00:01:16.543 position:50%
+So I trailed him to the dump,
+
+00:01:16.612 --> 00:01:19.213 position:46%
+where he buried this case
+in the ground.
+
+00:01:19.282 --> 00:01:21.215 line:79% position:50%
+You're evil tapes!
+
+00:01:21.284 --> 00:01:23.517 position:50%
+Full of evil secrets!
+
+00:01:23.586 --> 00:01:24.751 position:47%
+That's why I'm going
+to bury you
+
+00:01:24.820 --> 00:01:27.688 position:47%
+where no one will ever
+find you...
+
+00:01:27.757 --> 00:01:29.657 position:50%
+under all these boogers!
+
+00:01:29.726 --> 00:01:31.291 position:47%
+Whee!
+[ laughs ]
+
+00:01:31.360 --> 00:01:33.427 line:74% position:47%
+Whee!
+[ laughs ]
+
+00:01:33.496 --> 00:01:35.896 position:47%
+FINN: I waited for him
+to leave.
+
+00:01:35.965 --> 00:01:38.098 position:50%
+But he played in those boogers
+for hours.
+
+00:01:38.167 --> 00:01:41.535 position:47%
+I decided to come back later
+for the case.
+
+00:01:41.604 --> 00:01:42.936 position:50%
+But I lost track of it.
+
+00:01:43.005 --> 00:01:46.140 position:46%
+- Whoa! And I found it?
+- Mm-hmm.
+
+00:01:46.209 --> 00:01:47.441 position:50%
+[ laughs ]
+
+00:01:47.510 --> 00:01:49.610 position:46%
+Let's have a secret
+screening.
+
+00:01:49.679 --> 00:01:51.848 position:50%
+I'll make some fliers for it.
+
+00:01:57.019 --> 00:01:59.653 position:50%
+There, now nobody will
+bother us.
+
+00:01:59.722 --> 00:02:02.259 position:50%
+Jake! Jake, come on!
+
+00:02:07.062 --> 00:02:10.898 position:47%
+Okay, you can play this,
+right, Beemo?
+
+00:02:10.967 --> 00:02:12.032 position:50%
+Yes, Finn.
+
+00:02:12.101 --> 00:02:13.334 position:50%
+It goes in my butt.
+
+00:02:13.403 --> 00:02:14.604 position:50%
+Oh.
+
+00:02:16.072 --> 00:02:17.908 position:50%
+This is so exciting!
+
+00:02:21.010 --> 00:02:22.777 line:79% position:50%
+Hello, dear diary.
+
+00:02:22.846 --> 00:02:24.645 position:50%
+Pretty good day so far.
+
+00:02:24.714 --> 00:02:26.347 position:50%
+Got up bright and early,
+
+00:02:26.416 --> 00:02:28.782 position:50%
+had a healthy and slimming
+breakfast,
+
+00:02:28.851 --> 00:02:30.551 position:50%
+did 14 minutes of cardio.
+
+00:02:30.620 --> 00:02:32.919 position:50%
+Dude, what are
+we watching?
+
+00:02:32.988 --> 00:02:35.589 position:46%
+I think it's
+the Ice King's diary.
+
+00:02:35.658 --> 00:02:37.491 position:50%
+I mean, I'm not gonna win
+
+00:02:37.560 --> 00:02:39.059 position:46%
+carpenter of the year
+or anything,
+
+00:02:39.128 --> 00:02:42.296 position:50%
+but it's a place
+to hang up the old toothbrush.
+
+00:02:42.365 --> 00:02:43.567 position:50%
+Wenk.
+
+00:02:45.134 --> 00:02:48.035 position:47%
+Gunter.
+Hey, Gunter.
+
+00:02:48.104 --> 00:02:50.003 position:46%
+Get -- get away
+from the camera, sweetie.
+
+00:02:50.072 --> 00:02:52.572 position:46%
+Papa's recording
+his innermost thoughts.
+
+00:02:52.641 --> 00:02:55.409 position:47%
+Remember, I explained this
+to you?
+
+00:02:55.478 --> 00:02:56.947 position:50%
+Hey, Gunter.
+
+00:02:59.048 --> 00:03:01.348 position:46%
+Gunter!
+- Wenk.
+
+00:03:01.417 --> 00:03:04.084 position:46%
+Well, anyway, as you can see,
+I'm not wearing<i> my --</i>
+
+00:03:04.153 --> 00:03:05.619 position:50%
+Wenk.
+
+00:03:05.688 --> 00:03:07.254 position:46%
+I'm not wearing
+<i>my --</i>
+
+00:03:07.323 --> 00:03:08.188 position:50%
+Wenk, wenk.
+
+00:03:08.257 --> 00:03:10.089 position:50%
+Sweetie, I raised my voice
+
+00:03:10.158 --> 00:03:13.127 position:46%
+because youwere giving me
+the silent treatment.
+
+00:03:13.196 --> 00:03:15.229 position:46%
+You understand?
+- Wenk.
+
+00:03:15.298 --> 00:03:16.496 position:50%
+I love you.
+
+00:03:16.565 --> 00:03:17.731 position:50%
+Can we fast-forward?
+
+00:03:17.800 --> 00:03:20.100 position:46%
+N-No, man, we might
+miss something.
+
+00:03:20.169 --> 00:03:21.502 position:50%
+[ sighs]
+
+00:03:21.571 --> 00:03:23.571 position:50%
+There must be more to life
+than this.
+
+00:03:23.640 --> 00:03:24.637 position:50%
+Wenk.
+
+00:03:24.706 --> 00:03:27.674 position:47%
+I know, you don't
+like when I'm contemplative.
+
+00:03:27.743 --> 00:03:29.143 position:50%
+C-Contemplative? No.
+
+00:03:29.212 --> 00:03:32.880 position:50%
+Con-tem-plat--
+C-- let's put on a play!
+
+00:03:32.949 --> 00:03:33.847 position:50%
+What?!
+
+00:03:33.916 --> 00:03:37.384 position:50%
+Con-tem-plat--
+C-- let's put on a play!
+
+00:03:37.453 --> 00:03:39.754 position:46%
+You take such good care
+of yourself!
+
+00:03:39.823 --> 00:03:42.189 position:50%
+I want to be with you!
+
+00:03:42.258 --> 00:03:43.790 position:50%
+Wenk, wenk, wenk!
+
+00:03:43.859 --> 00:03:45.259 position:46%
+[<i> normal voice</i>  ]
+No, Gunter, beard stays on.
+
+00:03:45.328 --> 00:03:45.929 position:50%
+Wenk.
+
+00:03:47.129 --> 00:03:48.262 position:46%
+[<i> normal voice</i>  ]
+No, Gunter, beard stays on.
+
+00:03:48.331 --> 00:03:49.597 position:46%
+- Wenk.
+- Gunter!
+
+00:03:49.666 --> 00:03:50.930 position:50%
+Hey, pause it, Beemo.
+
+00:03:50.999 --> 00:03:54.101 align:left position:22%
+There's got to be some
+evil secrets in here.
+
+00:03:54.170 --> 00:03:55.903 position:50%
+I want to keep watching.
+
+00:03:55.972 --> 00:03:56.870 position:50%
+Okay.
+
+00:03:56.939 --> 00:03:59.473 position:46%
+Well, why don't I make us
+some snacks?
+
+00:03:59.542 --> 00:04:01.242 position:47%
+So I don't have to
+watch this.
+
+00:04:01.311 --> 00:04:02.943 position:50%
+Can we sit on the floor?
+
+00:04:03.012 --> 00:04:05.248 position:50%
+I feel so far away
+from you guys.
+
+00:04:07.617 --> 00:04:08.381 position:50%
+Wenk.
+
+00:04:08.450 --> 00:04:10.284 position:50%
+[ knuckles crack ]
+Aha!
+
+00:04:10.353 --> 00:04:11.886 position:50%
+Now hold still.
+
+00:04:11.955 --> 00:04:12.353 position:50%
+[ zap! ]
+
+00:04:12.422 --> 00:04:13.487 position:50%
+[ dink! ]
+
+00:04:13.556 --> 00:04:14.688 position:50%
+You moved!
+
+00:04:14.757 --> 00:04:16.126 position:50%
+Ooh, what's this?
+
+00:04:18.494 --> 00:04:20.093 position:50%
+[ mumbling ]
+
+00:04:20.162 --> 00:04:21.762 position:50%
+Secret tapes?!
+
+00:04:21.831 --> 00:04:22.830 position:50%
+I wanna watch!
+
+00:04:22.899 --> 00:04:25.166 position:50%
+Catch you later, Gunter.
+
+00:04:25.235 --> 00:04:26.033 position:50%
+Wenk.
+
+00:04:26.102 --> 00:04:28.835 position:50%
+[ laughs]
+
+00:04:28.904 --> 00:04:32.309 position:50%
+[ dance music plays]
+
+00:04:38.381 --> 00:04:39.683 position:50%
+Gunter, no!
+
+00:04:41.617 --> 00:04:43.050 position:50%
+Gunter!
+
+00:04:43.119 --> 00:04:44.118 position:50%
+Dance p--
+
+00:04:44.187 --> 00:04:45.185 position:50%
+Gunter!
+
+00:04:45.254 --> 00:04:46.456 position:50%
+Dance party!
+
+00:04:50.159 --> 00:04:51.895 position:50%
+[ munching ]
+
+00:04:53.596 --> 00:04:55.229 position:50%
+Thanks, Gunter.
+
+00:04:55.298 --> 00:04:56.564 position:50%
+[ laughs ]
+
+00:04:56.633 --> 00:04:57.834 position:50%
+Mmm!
+
+00:04:58.735 --> 00:05:00.601 position:50%
+You're Gunter.
+
+00:05:00.670 --> 00:05:01.769 position:50%
+[ both laugh ]
+
+00:05:01.838 --> 00:05:03.403 position:50%
+Wenk, wenk, wenk, wenk.
+
+00:05:03.472 --> 00:05:05.906 position:47%
+Oh, fine,
+who needs you?
+
+00:05:05.975 --> 00:05:07.474 position:50%
+More dance party for us.
+
+00:05:07.543 --> 00:05:10.044 position:50%
+Right, Gunter?
+
+00:05:10.113 --> 00:05:11.011 position:50%
+Oh! Uh...
+
+00:05:11.080 --> 00:05:13.514 position:50%
+[ chuckles nervously]
+
+00:05:13.583 --> 00:05:15.449 position:50%
+May I have this dance?
+
+00:05:15.518 --> 00:05:17.183 position:50%
+[ chuckles]
+
+00:05:17.252 --> 00:05:20.654 align:right position:75%
+There's<i> probably</i>  some
+evil secrets coming up.
+
+00:05:20.723 --> 00:05:22.856 position:50%
+[ knock on door ]
+
+00:05:22.925 --> 00:05:25.292 position:47%
+Someone wants to see
+the secret tapes!
+
+00:05:25.361 --> 00:05:26.560 position:50%
+What?!
+
+00:05:26.629 --> 00:05:28.996 position:50%
+Oh, but I was so clear
+in my flier.
+
+00:05:29.065 --> 00:05:31.866 position:46%
+Let's peek through the window
+and check who it is.
+
+00:05:31.935 --> 00:05:33.667 position:50%
+Maybe it's just a pizza.
+
+00:05:33.736 --> 00:05:34.969 position:50%
+Right!
+
+00:05:35.038 --> 00:05:36.971 position:47%
+- Hey, hey!
+- BOTH: What?!
+
+00:05:37.040 --> 00:05:39.506 position:46%
+You guys are checking
+too loud!
+
+00:05:39.575 --> 00:05:42.209 position:50%
+Oh, you're right.
+
+00:05:42.278 --> 00:05:43.477 position:50%
+More quietly.
+
+00:05:43.546 --> 00:05:45.412 position:50%
+[ clicking ]
+
+00:05:45.481 --> 00:05:47.114 position:50%
+I'm quieter now.
+
+00:05:47.183 --> 00:05:49.219 position:50%
+Cool.
+
+00:05:55.558 --> 00:05:56.957 position:50%
+[ knocking continues ]
+
+00:05:57.026 --> 00:05:59.059 line:79% position:50%
+Hey, guys, it's me.
+
+00:05:59.128 --> 00:06:01.896 position:47%
+Can I come in and watch
+the secret tapes with you?
+
+00:06:01.965 --> 00:06:03.731 position:50%
+I brought some gifts.
+
+00:06:03.800 --> 00:06:05.933 position:50%
+BOTH: Aah!
+
+00:06:06.002 --> 00:06:07.967 position:50%
+Okay, if we're quiet
+long enough,
+
+00:06:08.036 --> 00:06:11.238 position:47%
+Ice King will think
+no one's home and go away.
+
+00:06:11.307 --> 00:06:14.274 position:50%
+[ knocking continues ]
+
+00:06:14.343 --> 00:06:16.376 line:79% position:50%
+Ah, no one's home.
+
+00:06:16.445 --> 00:06:18.381 position:50%
+Guess I'll go away.
+
+00:06:20.750 --> 00:06:21.515 position:50%
+[ alarm blares ]
+
+00:06:21.584 --> 00:06:22.617 position:50%
+Aah! Aah! Ohh!
+
+00:06:22.686 --> 00:06:23.551 position:50%
+Huh?
+
+00:06:23.620 --> 00:06:24.418 position:50%
+[ blaring continues ]
+
+00:06:24.487 --> 00:06:25.752 position:50%
+Just turn your alarm
+off!
+
+00:06:25.821 --> 00:06:28.124 position:47%
+Hmm, that sounds
+like Beemo.
+
+00:06:30.827 --> 00:06:34.227 position:50%
+[ blaring continues ]
+
+00:06:34.296 --> 00:06:37.297 position:46%
+My alarm says it's time
+for Finn's bath.
+
+00:06:37.366 --> 00:06:38.232 position:50%
+Finn, get naked.
+
+00:06:38.301 --> 00:06:41.035 position:46%
+No, just hit your
+snooze button!
+
+00:06:41.104 --> 00:06:42.703 position:50%
+I cannot self-snooze.
+
+00:06:42.772 --> 00:06:44.571 position:50%
+It's against my programming.
+
+00:06:44.640 --> 00:06:46.907 position:46%
+Well, then, tell<i> me</i>
+how to do it!
+
+00:06:46.976 --> 00:06:48.642 position:50%
+[ blaring continues ]
+
+00:06:48.711 --> 00:06:54.214 position:46%
+Press and hold, then press
+the button on top of my head.
+
+00:06:54.283 --> 00:06:55.583 position:50%
+[ blaring stops ]
+
+00:06:55.652 --> 00:06:57.118 position:50%
+BOTH: Phew!
+
+00:06:57.187 --> 00:06:58.018 position:50%
+I'm sorry.
+
+00:06:58.087 --> 00:07:00.388 position:50%
+We can still take a bath.
+
+00:07:00.457 --> 00:07:01.822 position:50%
+[ knocking continues ]
+
+00:07:01.891 --> 00:07:03.924 position:46%
+He must know
+we're watching his tapes.
+
+00:07:03.993 --> 00:07:06.894 position:46%
+We need to find
+his secrets faster.
+
+00:07:06.963 --> 00:07:08.928 position:50%
+[ crying]
+
+00:07:08.997 --> 00:07:13.300 position:50%
+Oh, diary, thank you for
+listening to me.
+
+00:07:13.369 --> 00:07:14.301 position:50%
+[ cries]
+
+00:07:14.370 --> 00:07:15.335 position:50%
+Fast-forward, Beemo.
+
+00:07:15.404 --> 00:07:17.604 position:50%
+[ high-pitched ]
+
+00:07:17.673 --> 00:07:18.839 position:50%
+But darest I?
+
+00:07:18.908 --> 00:07:20.241 position:50%
+I love to...
+[ grunts ]
+
+00:07:20.310 --> 00:07:21.809 position:50%
+...fill my bathtub
+full of milk
+
+00:07:21.878 --> 00:07:23.344 position:46%
+and sit in it
+like I'm a magic angel.
+
+00:07:23.413 --> 00:07:24.144 position:50%
+There, I said it.
+
+00:07:24.213 --> 00:07:25.145 position:46%
+The white of the milk
+is so dense,
+
+00:07:25.214 --> 00:07:26.813 position:50%
+There, I said it.
+
+00:07:26.882 --> 00:07:27.915 position:46%
+they startle me
+and I giggle.
+
+00:07:27.984 --> 00:07:28.916 position:50%
+I giggle, diary.
+They're my own toes,
+
+00:07:28.985 --> 00:07:30.284 position:46%
+yet I giggle,
+and then I fall asleep.
+
+00:07:30.353 --> 00:07:32.018 position:50%
+And the milk curdles and I get
+all stinky and sticky.
+
+00:07:32.087 --> 00:07:33.854 position:50%
+Disgusting, diary.
+I am disgusting.
+
+00:07:33.923 --> 00:07:34.988 position:50%
+I'm disgusting.
+
+00:07:35.057 --> 00:07:37.157 position:50%
+I'm disgusting and I smell
+like curdled milk.
+
+00:07:37.226 --> 00:07:39.226 position:47%
+Anyway, back to
+the Turtle Princess.
+
+00:07:39.295 --> 00:07:39.927 position:50%
+Play, Beemo.
+
+00:07:39.996 --> 00:07:41.595 position:50%
+So, there we are.
+
+00:07:41.664 --> 00:07:42.996 position:50%
+Turtle Princess is frozen
+
+00:07:43.065 --> 00:07:44.998 position:50%
+and in my little ice
+wheelbarrow,
+
+00:07:45.067 --> 00:07:47.435 position:46%
+and there was magic
+in the air.
+
+00:07:47.504 --> 00:07:49.503 position:50%
+We were both feeling it.
+
+00:07:49.572 --> 00:07:51.204 position:50%
+[ chuckles ]
+
+00:07:51.273 --> 00:07:53.340 position:50%
+But before I can leave
+the library,
+
+00:07:53.409 --> 00:07:55.108 position:50%
+Finn and Jake show up!
+
+00:07:55.177 --> 00:07:57.712 position:46%
+You know how Jake is.
+Stretch this, stretch that.
+
+00:07:57.781 --> 00:07:58.746 position:50%
+Bah!
+
+00:07:58.815 --> 00:08:00.113 position:50%
+He knocks off my crown,
+
+00:08:00.182 --> 00:08:02.583 position:50%
+and then Finn bonks me
+on the nose!
+
+00:08:02.652 --> 00:08:03.851 position:50%
+Still hurts, too.
+
+00:08:03.920 --> 00:08:05.152 position:50%
+The worst part is,
+
+00:08:05.221 --> 00:08:08.456 position:46%
+Turtle Princess took away
+my library card.
+
+00:08:08.525 --> 00:08:09.823 position:50%
+[ sighs ]
+
+00:08:09.892 --> 00:08:12.525 position:46%
+You know, dear diary,
+I'm starting to worry
+
+00:08:12.594 --> 00:08:15.362 position:47%
+that all these entries sound
+exactly the same,
+
+00:08:15.431 --> 00:08:18.165 position:46%
+and that my life is just me
+running in place
+
+00:08:18.234 --> 00:08:21.067 position:50%
+on some giant hamster wheel.
+
+00:08:21.136 --> 00:08:23.536 position:50%
+Ugh, fast-forward,
+Beemo.
+
+00:08:23.605 --> 00:08:25.372 position:46%
+This reminds me of the time
+I got stuck in my bathroom.
+
+00:08:25.441 --> 00:08:27.073 position:46%
+There was a squirrel.
+Don't ask.
+
+00:08:27.142 --> 00:08:29.076 align:right position:78%
+Anyway, long story short,
+imagine me crouched down
+
+00:08:29.145 --> 00:08:31.077 position:50%
+on the kitchen floor
+talking to the toilet paper.
+
+00:08:31.146 --> 00:08:32.746 position:50%
+Ha ha! I'm like,"Who wants
+to go on an adventure?
+
+00:08:32.815 --> 00:08:34.214 position:47%
+And the toilet paper's
+like, "What?"
+
+00:08:34.283 --> 00:08:36.083 position:45%
+<i>You're my best friend,</i>
+<i>diary.</i>
+
+00:08:36.152 --> 00:08:38.118 position:50%
+I'm gonna take a nap.
+
+00:08:38.187 --> 00:08:39.186 position:47%
+No!
+These tapes are important.
+
+00:08:39.255 --> 00:08:41.155 position:50%
+We just don't know why yet.
+
+00:08:41.224 --> 00:08:43.324 position:46%
+Beemo, fast-forward
+to triple speed.
+
+00:08:43.393 --> 00:08:45.259 position:50%
+Okay.
+
+00:08:45.328 --> 00:08:49.299 position:46%
+[<i> speaking</i>
+<i>indistinctly</i>  ]
+
+00:09:13.155 --> 00:09:15.522 position:46%
+FINN:
+Beemo, play normal speed.
+
+00:09:15.591 --> 00:09:18.124 position:46%
+[<i> normal voice</i>  ]
+<i>Come on, baby, in the pocket!</i>
+
+00:09:18.193 --> 00:09:19.626 position:50%
+[<i> breathing heavily</i>  ]
+
+00:09:19.695 --> 00:09:21.128 position:50%
+<i>I can't do it. I can't do it.</i>
+
+00:09:21.197 --> 00:09:23.097 position:46%
+Maybe he's talking in
+secret code.
+
+00:09:23.166 --> 00:09:27.034 position:46%
+Telling evil secrets in
+secret code...
+
+00:09:27.103 --> 00:09:28.035 position:50%
+He's brilliant!
+
+00:09:28.104 --> 00:09:30.737 position:50%
+Well, how do we decode
+the secrets?
+
+00:09:30.806 --> 00:09:32.973 position:47%
+Why don't we call others
+for help?
+
+00:09:33.042 --> 00:09:34.542 position:46%
+Beemo,
+you're brilliant!
+
+00:09:34.611 --> 00:09:36.343 position:50%
+Well, who do we call?
+
+00:09:36.412 --> 00:09:38.879 align:left position:27%
+Um... the smartest
+person we know --
+
+00:09:38.948 --> 00:09:40.647 position:50%
+Princess Bubblegum.
+
+00:09:40.716 --> 00:09:43.684 position:50%
+She's brilliant.
+
+00:09:43.753 --> 00:09:45.752 position:50%
+[ dialing ]
+
+00:09:45.821 --> 00:09:50.791 position:50%
+[ laughs evilly]
+
+00:09:50.860 --> 00:09:52.926 position:46%
+- Hi, Princess Bubblegum.
+- Hey, Finn.
+
+00:09:52.995 --> 00:09:54.994 position:50%
+Jake and I found
+a bunch of secret tapes.
+
+00:09:55.063 --> 00:09:57.231 position:50%
+We were wondering if you'd
+help us decode them.
+
+00:09:57.300 --> 00:09:59.566 position:50%
+- Codes?
+- Yeah, they're really stupid,
+
+00:09:59.635 --> 00:10:02.469 position:50%
+but, you know, maybe
+they're encoded or whatevah.
+
+00:10:02.538 --> 00:10:04.671 position:46%
+Oh, you called
+the right person.
+
+00:10:04.740 --> 00:10:06.773 position:50%
+I know a lot about codes.
+
+00:10:06.842 --> 00:10:08.509 position:50%
+Let's start with --
+
+00:10:08.578 --> 00:10:10.411 align:left position:42%
+- Huh?
+- Oh!
+
+00:10:10.480 --> 00:10:12.112 position:50%
+[ dialing ]
+
+00:10:12.181 --> 00:10:14.581 position:46%
+Hey, Princess, we got
+disconnected.
+
+00:10:14.650 --> 00:10:18.085 position:46%
+[ as Bubblegum ]
+Hello, Finny. [ giggles ]
+
+00:10:18.154 --> 00:10:20.187 position:50%
+BOTH: You sound weird.
+
+00:10:20.256 --> 00:10:22.222 position:46%
+Must be a bad
+connection.
+
+00:10:22.291 --> 00:10:25.859 position:49%
+That's why we were disconnected
+earlier on the telephone.
+
+00:10:25.928 --> 00:10:30.297 position:50%
+Ice King is on the phone
+outside.
+
+00:10:30.366 --> 00:10:32.733 position:46%
+So, how's the weather
+in Candy Kingdom?
+
+00:10:32.802 --> 00:10:34.100 position:50%
+Oh, the usual.
+
+00:10:34.169 --> 00:10:37.337 position:47%
+There's ice everywhere,
+and it smells like penguins.
+
+00:10:37.406 --> 00:10:40.040 position:50%
+The only thing that smells
+like penguins is you, Ice King!
+
+00:10:40.109 --> 00:10:41.708 position:47%
+[ gasps ]
+How did you --
+
+00:10:41.777 --> 00:10:43.276 position:50%
+What are you doing?!
+
+00:10:43.345 --> 00:10:45.379 position:46%
+I want to watch
+secret tapes with you guys.
+
+00:10:45.448 --> 00:10:46.480 position:50%
+It'll be nice.
+
+00:10:46.549 --> 00:10:47.548 position:50%
+No, man.
+
+00:10:47.617 --> 00:10:49.449 position:50%
+But --
+
+00:10:49.518 --> 00:10:52.085 position:46%
+He doesn't know that
+we're watching his tapes.
+
+00:10:52.154 --> 00:10:53.387 position:47%
+We gotta find these evil
+secrets
+
+00:10:53.456 --> 00:10:55.656 position:46%
+before he uses them
+against us!
+
+00:10:55.725 --> 00:10:57.824 position:50%
+Ohhhh, fine!
+
+00:10:57.893 --> 00:10:59.559 position:50%
+No more nice!
+
+00:10:59.628 --> 00:11:01.661 position:50%
+Now you'll get ice!
+
+00:11:01.730 --> 00:11:05.699 position:47%
+Try watching those tapes
+with frozen eyeballs!
+
+00:11:05.768 --> 00:11:08.703 position:50%
+[ laughs evilly ]
+
+00:11:08.772 --> 00:11:11.675 position:50%
+Aaaaaaaah!
+
+00:11:14.377 --> 00:11:18.312 line:10% position:50%
+♪ Come along with me
+
+00:11:18.381 --> 00:11:22.382 align:left line:10% position:10%
+♪ and the butterflies and bees
+
+00:11:22.451 --> 00:11:26.353 line:10% position:47%
+♪ We can wander
+through the forest ♪
+
+00:11:26.422 --> 00:11:29.893 line:10% position:50%
+♪ and do so as we please
+
+00:11:34.463 --> 00:11:36.900 line:10% position:46%
+♪ to a cliff under a tree
+
+00:11:40.603 --> 00:11:42.739 position:50%
+<i>This party is so crazy!</i>
+
