@@ -1,0 +1,17 @@
+version: '3.9'
+
+services:
+  bmo:
+    build: .
+    container_name: BMOS
+    restart: unless-stopped
+    ports: 
+      - "8000:8000"
+    env_file:
+      - ".env"
+    volumes:
+      - .:/jarvis_bmos
+    devices:
+      - "/dev/snd:/dev/snd"
+      - "/dev/gpiomem:/dev/gpiomem"
+    priveleged: true
