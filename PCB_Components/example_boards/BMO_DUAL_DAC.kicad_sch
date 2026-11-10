@@ -1,0 +1,9830 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "9b471168-0dcb-450a-a7af-ad312d9c43a0")
+	(paper "A4")
+	(lib_symbols
+		(symbol "AP2127K-3.3TRG1:AP2127K-3.3TRG1"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 25.4 10.16 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "AP2127K-3.3TRG1"
+				(at 25.4 7.62 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "SOT-23-5_AP2127K-3.3TRG1_DIO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "AP2127K-3.3TRG1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "AP2127K-3.3TRG1"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT-23-5_AP2127K-3.3TRG1_DIO SOT-23-5_AP2127K-3.3TRG1_DIO-M SOT-23-5_AP2127K-3.3TRG1_DIO-L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "AP2127K-3.3TRG1_0_1"
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy 7.62 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -10.16) (xy 43.18 -10.16)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 43.18 5.08) (xy 7.62 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 43.18 -10.16) (xy 43.18 5.08)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 7.62)
+					(name "VIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 0 -2.54 0)
+					(length 7.62)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 50.8 0 180)
+					(length 7.62)
+					(name "VOUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 50.8 -2.54 180)
+					(length 7.62)
+					(name "NC/ADJ"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 50.8 -5.08 180)
+					(length 7.62)
+					(name "*Shutdown"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "PCM5102APW:PCM5102APW"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Value" "PCM5102APW"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.524 1.524)
+					)
+				)
+			)
+			(property "Footprint" "PW0020A_N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/lit/gpn/pcm5102a"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "PCM5102APW"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "PW0020A_N PW0020A_M PW0020A_L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "PCM5102APW_0_1"
+				(polyline
+					(pts
+						(xy -15.24 27.94) (xy -15.24 -27.94)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -15.24 -27.94) (xy 15.24 -27.94)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 27.94) (xy -15.24 27.94)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 15.24 -27.94) (xy 15.24 27.94)
+					)
+					(stroke
+						(width 0.2032)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at -20.32 22.86 0)
+					(length 5.08)
+					(name "CPVDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -20.32 17.78 0)
+					(length 5.08)
+					(name "AVDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -20.32 12.7 0)
+					(length 5.08)
+					(name "DVDD"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 5.08 0)
+					(length 5.08)
+					(name "DIN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 2.54 0)
+					(length 5.08)
+					(name "BCK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 0 0)
+					(length 5.08)
+					(name "SCK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 -2.54 0)
+					(length 5.08)
+					(name "LRCK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 -7.62 0)
+					(length 5.08)
+					(name "FLT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 -12.7 0)
+					(length 5.08)
+					(name "DEMP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 -20.32 0)
+					(length 5.08)
+					(name "FMT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -20.32 -25.4 0)
+					(length 5.08)
+					(name "XSMT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 20.32 22.86 180)
+					(length 5.08)
+					(name "LDOO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 20.32 15.24 180)
+					(length 5.08)
+					(name "OUTL"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 20.32 10.16 180)
+					(length 5.08)
+					(name "OUTR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 20.32 2.54 180)
+					(length 5.08)
+					(name "CAPP"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 20.32 -5.08 180)
+					(length 5.08)
+					(name "CAPM"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 20.32 -12.7 180)
+					(length 5.08)
+					(name "VNEG"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 20.32 -20.32 180)
+					(length 5.08)
+					(name "AGND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 20.32 -22.86 180)
+					(length 5.08)
+					(name "DGND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 20.32 -25.4 180)
+					(length 5.08)
+					(name "CPGND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "test_space-eagle-import:3.3V"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" ""
+				(at -1.524 1.016 0)
+				(effects
+					(font
+						(size 1.27 1.0795)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "3.3V Supply"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "3.3V_1_0"
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy 0 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "3.3V"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "test_space-eagle-import:AGND"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#AGND"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" ""
+				(at -2.54 -5.08 90)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "SUPPLY SYMBOL"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "AGND_1_0"
+				(polyline
+					(pts
+						(xy -1.905 0) (xy 1.905 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.0922 -0.508) (xy 1.0922 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 2.54 270)
+					(length 2.54)
+					(name "AGND"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "test_space-eagle-import:AVDD"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" ""
+				(at -1.524 1.016 0)
+				(effects
+					(font
+						(size 1.27 1.0795)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Analog VDD"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "AVDD_1_0"
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy 0 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "AVDD"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "test_space-eagle-import:CAP_CERAMIC0603_NO"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at -2.29 1.25 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 2.3 1.25 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "test_space:0603-NO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Ceramic Capacitors\n\nFor new designs, use the packages preceded by an '_' character since they are more reliable:\n\nThe following footprints should be used on most boards:\n\n• _0402 - Standard footprint for regular board layouts\n• _0603 - Standard footprint for regular board layouts\n• _0805 - Standard footprint for regular board layouts\n• _1206 - Standard footprint for regular board layouts\n\nFor extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):\n\n• _0402MP - Micro-pitch footprint for very dense/compact boards\n• _0603MP - Micro-pitch footprint for very dense/compact boards\n• _0805MP - Micro-pitch footprint for very dense/compact boards\n• _1206MP - Micro-pitch footprint for very dense/compact boards"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CAP_CERAMIC0603_NO_1_0"
+				(rectangle
+					(start -1.27 1.524)
+					(end 1.27 2.032)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -1.27 0.508)
+					(end 1.27 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 1.778)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0.762) (xy 0 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "test_space-eagle-import:CAP_CERAMIC0805-NOOUTLINE"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at -2.29 1.25 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 2.3 1.25 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "test_space:0805-NO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Ceramic Capacitors\n\nFor new designs, use the packages preceded by an '_' character since they are more reliable:\n\nThe following footprints should be used on most boards:\n\n• _0402 - Standard footprint for regular board layouts\n• _0603 - Standard footprint for regular board layouts\n• _0805 - Standard footprint for regular board layouts\n• _1206 - Standard footprint for regular board layouts\n\nFor extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):\n\n• _0402MP - Micro-pitch footprint for very dense/compact boards\n• _0603MP - Micro-pitch footprint for very dense/compact boards\n• _0805MP - Micro-pitch footprint for very dense/compact boards\n• _1206MP - Micro-pitch footprint for very dense/compact boards"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "CAP_CERAMIC0805-NOOUTLINE_1_0"
+				(rectangle
+					(start -1.27 1.524)
+					(end 1.27 2.032)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start -1.27 0.508)
+					(end 1.27 1.016)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 1.778)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0.762) (xy 0 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 0 5.08 270)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "test_space-eagle-import:FERRITE-0603NO"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FB"
+				(at -1.27 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.0795)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at -1.27 -3.175 0)
+				(effects
+					(font
+						(size 1.27 1.0795)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "test_space:0603-NO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Ferrite Bead\n\n0603\n\n• MMZ1608B121C - 120 Ohm @ 100MHz, 600mA, 0.15 Ohm DC Resistance - Digikey: 445-2164-1-ND\n• BK1608HW121-T - 120 Ohm, 600mA Ferrite Chip - Digikey: 587-1876-2-ND\n\n0805\n\n• HZ0805B272R-10 - 2.7K Ohm @ 100MHz, 200mA, 0.8 Ohm DC Resistance - Digikey: 240-2504-1-ND (see also Murata BLM21BD272SN1L)\n• MMZ2012Y152B - 1.5K Ohm @ 100MHz, 500mA, 0.4 Ohm DC Resistance - Digikey: 445-1560-1-ND - Mainly for high frequency (80-400MHz)\n• MMZ2012R102A - 1K Ohm @ 100MHz, 500mA, 0.3 Ohm DC Resistance - Digikey: 445-1555-2-ND - More general purpose (10-200MHz)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "FERRITE-0603NO_1_0"
+				(polyline
+					(pts
+						(xy -1.27 0.9525) (xy 1.27 0.9525)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -0.9525) (xy -1.27 0.9525)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0.9525) (xy 1.27 -0.9525)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -0.9525) (xy -1.27 -0.9525)
+					)
+					(stroke
+						(width 0.4064)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -2.54 0 0)
+					(length 2.54)
+					(name "P$1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 0 180)
+					(length 2.54)
+					(name "P$2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "test_space-eagle-import:PCM510XA"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "X"
+				(at -12.7 29.21 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" ""
+				(at -12.7 -30.48 0)
+				(effects
+					(font
+						(size 1.778 1.5113)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "test_space:TSSOP20"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "PCM510XA_1_0"
+				(polyline
+					(pts
+						(xy -12.7 27.94) (xy 12.7 27.94)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -12.7 22.86) (xy -12.7 27.94)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -12.7 22.86) (xy 12.7 22.86)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -12.7 -22.86) (xy -12.7 22.86)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -12.7 -22.86) (xy -12.7 -27.94)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -12.7 -27.94) (xy 12.7 -27.94)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 27.94) (xy 12.7 22.86)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 22.86) (xy 12.7 -22.86)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -22.86) (xy -12.7 -22.86)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 -27.94) (xy 12.7 -22.86)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(text "PCM510xA\nI2C Audio DAC"
+					(at 0 25.4 0)
+					(effects
+						(font
+							(size 1.27 1.0795)
+							(thickness 0.2159)
+							(bold yes)
+						)
+					)
+				)
+				(text "VDDA/D: 2.4-3.6V\nOp. Temp: -40~~85°C"
+					(at 0 -25.4 0)
+					(effects
+						(font
+							(size 1.27 1.0795)
+						)
+					)
+				)
+				(pin power_in line
+					(at -15.24 20.32 0)
+					(length 2.54)
+					(name "AVDD"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -15.24 17.78 0)
+					(length 2.54)
+					(name "DVDD"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "20"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -15.24 10.16 0)
+					(length 2.54)
+					(name "LDOO"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "18"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -15.24 2.54 0)
+					(length 2.54)
+					(name "SCK"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -15.24 0 0)
+					(length 2.54)
+					(name "BCLK"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -15.24 -2.54 0)
+					(length 2.54)
+					(name "LRCK"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "15"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -15.24 -5.08 0)
+					(length 2.54)
+					(name "DIN"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -15.24 -17.78 0)
+					(length 2.54)
+					(name "AGND"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -15.24 -20.32 0)
+					(length 2.54)
+					(name "DGND"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "19"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 20.32 180)
+					(length 2.54)
+					(name "FLT"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 17.78 180)
+					(length 2.54)
+					(name "FMT"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "16"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 15.24 15.24 180)
+					(length 2.54)
+					(name "XSMT"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "17"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin bidirectional line
+					(at 15.24 12.7 180)
+					(length 2.54)
+					(name "DEMP"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 15.24 2.54 180)
+					(length 2.54)
+					(name "OUTL"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 15.24 -2.54 180)
+					(length 2.54)
+					(name "OUTR"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -10.16 180)
+					(length 2.54)
+					(name "CPVDD"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 15.24 -12.7 180)
+					(length 2.54)
+					(name "CAP+"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 15.24 -15.24 180)
+					(length 2.54)
+					(name "CAP-"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 15.24 -17.78 180)
+					(length 2.54)
+					(name "VNEG"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 15.24 -20.32 180)
+					(length 2.54)
+					(name "CPGND"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.524 1.524)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "test_space-eagle-import:RESISTOR_0603_NOOUT"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.016 1.016)
+						(thickness 0.2032)
+						(bold yes)
+					)
+				)
+			)
+			(property "Footprint" "test_space:0603-NO"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistors\n\nFor new designs, use the packages preceded by an '_' character since they are more reliable:\n\nThe following footprints should be used on most boards:\n\n• _0402 - Standard footprint for regular board layouts\n• _0603 - Standard footprint for regular board layouts\n• _0805 - Standard footprint for regular board layouts\n• _1206 - Standard footprint for regular board layouts\n\nFor extremely tight-pitch boards where space is at a premium, the following 'micro-pitch' footprints can be used (smaller pads, no silkscreen outline, etc.):\n\n• _0402MP - Micro-pitch footprint for very dense/compact boards\n• _0603MP - Micro-pitch footprint for very dense/compact boards\n• _0805MP - Micro-pitch footprint for very dense/compact boards\n• _1206MP - Micro-pitch footprint for very dense/compact boards"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RESISTOR_0603_NOOUT_1_0"
+				(polyline
+					(pts
+						(xy -2.54 1.27) (xy 2.54 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 -1.27) (xy -2.54 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 1.27) (xy 2.54 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -1.27) (xy -2.54 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "test_space-eagle-import:VIN"
+			(power)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" ""
+				(at -1.524 1.016 0)
+				(effects
+					(font
+						(size 1.27 1.0795)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "VIN Supply Symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "VIN_1_0"
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy 0 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin power_in line
+					(at 0 -2.54 90)
+					(length 2.54)
+					(name "VIN"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(text "MUTE:\nLOW = Mute Off\nHIGH = Mute On"
+		(exclude_from_sim no)
+		(at 25.4 165.1 0)
+		(effects
+			(font
+				(size 1.778 1.5113)
+			)
+			(justify left bottom)
+		)
+		(uuid "4c3e0692-9b05-40c5-ad1d-4796aeda339d")
+	)
+	(text "SFOR0   SFOR1   Function\nLOW     LOW     I2S-Bus Input\nLOW     HIGH    LSB-justified 16 bits input\nHIGH     LOW    LSB-justified 20 bits input\nHIGH     HIGH   LSB-justified 24 bits input"
+		(exclude_from_sim no)
+		(at 25.4 152.4 0)
+		(effects
+			(font
+				(size 1.778 1.5113)
+			)
+			(justify left bottom)
+		)
+		(uuid "85effec9-13d4-4272-bc30-1853e49cd76a")
+	)
+	(text "GENERIC PCM510xA DAC WIRING"
+		(exclude_from_sim no)
+		(at 71.628 51.308 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c1988e83-fc48-489e-8e72-3f96b405a6af")
+	)
+	(text "DAC in use"
+		(exclude_from_sim no)
+		(at 201.676 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d5c607f0-a7fa-44f9-bf2b-7652a251a29d")
+	)
+	(text "DEEM:\nLOW = De-emphasis off\nHIGH = De-emphasis on"
+		(exclude_from_sim no)
+		(at 25.4 177.8 0)
+		(effects
+			(font
+				(size 1.778 1.5113)
+			)
+			(justify left bottom)
+		)
+		(uuid "eee686b3-a71c-4dbd-a4d6-99db741f84b2")
+	)
+	(junction
+		(at 48.26 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "03f73754-f9d5-42c6-92a0-5f94458ef645")
+	)
+	(junction
+		(at 208.28 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "09453b54-4d36-4779-bb50-40904ab5901e")
+	)
+	(junction
+		(at 158.75 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0b04627e-3b76-4073-9e44-783bc4c96fe6")
+	)
+	(junction
+		(at 273.05 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1667f212-bf29-4e7c-8a34-e8738a8d859a")
+	)
+	(junction
+		(at 25.4 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f134773-ca49-4772-9122-db04e51f5c41")
+	)
+	(junction
+		(at 160.02 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "25aea54b-c7c4-416a-b874-130afb438566")
+	)
+	(junction
+		(at 55.88 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2bab3a95-21c6-46d4-b473-e5d8451884b3")
+	)
+	(junction
+		(at 167.64 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d158f19-b64f-4563-9e68-dc110ac093f6")
+	)
+	(junction
+		(at 40.64 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "341aa5db-4732-4f45-b99e-fa4b4474095a")
+	)
+	(junction
+		(at 151.13 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "40797f9a-99ef-4ac4-b4f7-c678b0f95742")
+	)
+	(junction
+		(at 134.62 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "42b74bcf-25ae-4d44-9873-4b7ca568d821")
+	)
+	(junction
+		(at 204.47 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "49e506b9-a11a-4ad9-9073-e89d1127f749")
+	)
+	(junction
+		(at 182.88 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4a81be82-85be-496f-9beb-e77d9cb49ed7")
+	)
+	(junction
+		(at 182.88 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4eb0c2cd-e210-4d9e-b3bd-e1709a2d12cc")
+	)
+	(junction
+		(at 143.51 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "59614a1b-1a94-4e8a-a5f7-5a20b6fc0074")
+	)
+	(junction
+		(at 22.86 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5e5b90eb-6208-43cc-8b08-25fb4206f4d4")
+	)
+	(junction
+		(at 104.14 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "69c5b180-b07c-4858-8127-d2ad32c17978")
+	)
+	(junction
+		(at 111.76 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7a1f591f-35f2-4fd9-bdd0-5c87a958ecf7")
+	)
+	(junction
+		(at 134.62 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ee5338d-3b5a-4a73-9748-03ae399f9d97")
+	)
+	(junction
+		(at 133.35 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "98777955-176e-4c46-91c4-79dbfadf6bff")
+	)
+	(junction
+		(at 25.4 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "988147df-9629-4572-b2a1-08f1bd18da30")
+	)
+	(junction
+		(at 119.38 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a6b8b688-78fd-41f8-a9f4-382d90dbe203")
+	)
+	(junction
+		(at 38.1 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bf923e1e-3688-45f1-b991-804a6a8387f4")
+	)
+	(junction
+		(at 157.48 102.87)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d0beafbb-0614-448d-9742-4c3efdca2a3d")
+	)
+	(junction
+		(at 242.57 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d2bfe521-4172-482b-9674-ea006ff7cd10")
+	)
+	(junction
+		(at 175.26 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd18bcbd-239d-46fd-bd60-2bfbf1e7e8dc")
+	)
+	(junction
+		(at 48.26 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dfa69cb1-1f4b-457c-8306-183ecfd661c8")
+	)
+	(junction
+		(at 43.18 74.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f5b73023-2db0-4892-8f9e-3b257be9392c")
+	)
+	(junction
+		(at 232.41 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f611babc-8778-42a1-b16b-3fbdea1e0dcf")
+	)
+	(junction
+		(at 195.58 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fd909736-bdb0-4894-861b-ee3132da3448")
+	)
+	(wire
+		(pts
+			(xy 254 67.31) (xy 231.14 67.31)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "00175861-2097-432c-8df2-0f4226896e08")
+	)
+	(wire
+		(pts
+			(xy 273.05 104.14) (xy 283.21 104.14)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "007b41e0-491a-43b0-99b2-d631f65ac4f2")
+	)
+	(wire
+		(pts
+			(xy 224.79 102.87) (xy 213.36 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "008afdbc-5647-4ae5-aca8-4fc916d78b41")
+	)
+	(wire
+		(pts
+			(xy 96.52 97.79) (xy 86.36 97.79)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "00cc711a-6701-48d9-8716-0eca845226cc")
+	)
+	(wire
+		(pts
+			(xy 55.88 87.63) (xy 35.56 87.63)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "00d13b2f-7129-4b45-afc7-7e41c4bd0ece")
+	)
+	(wire
+		(pts
+			(xy 184.15 129.54) (xy 163.83 129.54)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "03cde9c6-7e7b-45d1-b74e-2c14487b81d9")
+	)
+	(wire
+		(pts
+			(xy 132.08 69.85) (xy 134.62 69.85)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "04b94e42-abee-4288-8ca3-67a8285a6f9a")
+	)
+	(wire
+		(pts
+			(xy 129.54 157.48) (xy 104.14 157.48)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "04df12ea-d6ad-4e24-ac50-1b58b6df6b03")
+	)
+	(wire
+		(pts
+			(xy 121.92 87.63) (xy 121.92 90.17)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "051e3737-460d-4e45-be99-47306a90f829")
+	)
+	(wire
+		(pts
+			(xy 88.9 170.18) (xy 88.9 172.72)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "05d6e409-b8d6-41bd-a2a6-17380f1faf5d")
+	)
+	(wire
+		(pts
+			(xy 160.02 95.25) (xy 167.64 95.25)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "0bc9ec7d-5d89-4ebc-8644-7c7f7d03d4d2")
+	)
+	(wire
+		(pts
+			(xy 119.38 95.25) (xy 119.38 97.79)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "0c834c4e-fad0-4f39-a72c-a91d2228d685")
+	)
+	(wire
+		(pts
+			(xy 251.46 35.56) (xy 226.06 35.56)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "0c8be22a-1e15-493e-be60-471665c4d9d9")
+	)
+	(wire
+		(pts
+			(xy 109.22 170.18) (xy 109.22 172.72)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "0d0784ce-3964-4742-93d4-e8436e90b460")
+	)
+	(wire
+		(pts
+			(xy 40.64 54.61) (xy 48.26 54.61)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "0eebd156-4a59-4e23-b1f4-86fb9868d027")
+	)
+	(wire
+		(pts
+			(xy 260.35 121.92) (xy 260.35 124.46)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "1379dc98-2591-4eec-bbbc-635255bea8dd")
+	)
+	(wire
+		(pts
+			(xy 86.36 100.33) (xy 104.14 100.33)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "1427423e-cf25-4258-a2b7-2c2ba4d092b3")
+	)
+	(wire
+		(pts
+			(xy 129.54 160.02) (xy 109.22 160.02)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "14e79fc7-d410-4aec-b8b7-0b049adb2a63")
+	)
+	(wire
+		(pts
+			(xy 200.66 91.44) (xy 195.58 91.44)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "17832d36-aa99-478a-9490-f0a7bc5cb23e")
+	)
+	(wire
+		(pts
+			(xy 93.98 149.86) (xy 93.98 160.02)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "17867c85-793b-4f8b-95a6-b67ff4b13f1e")
+	)
+	(wire
+		(pts
+			(xy 134.62 69.85) (xy 144.78 69.85)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "180fd770-d9d2-457d-b66a-9b9ae2c49b0f")
+	)
+	(wire
+		(pts
+			(xy 184.15 127) (xy 163.83 127)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "194cce9e-466b-40bd-a56f-1436d203cbd8")
+	)
+	(wire
+		(pts
+			(xy 86.36 105.41) (xy 104.14 105.41)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "19db8bd3-e41a-40db-b31b-cef9b0637ee2")
+	)
+	(wire
+		(pts
+			(xy 104.14 100.33) (xy 104.14 97.79)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "1a153608-9bd7-4834-bbd2-afa4ceea959d")
+	)
+	(wire
+		(pts
+			(xy 86.36 82.55) (xy 121.92 82.55)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "1bad7aa6-086b-484a-a371-91c934260187")
+	)
+	(wire
+		(pts
+			(xy 242.57 157.48) (xy 242.57 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bc662c6-46fa-4bcd-99aa-357357f44024")
+	)
+	(wire
+		(pts
+			(xy 196.85 45.72) (xy 196.85 36.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c7b0e95-4a6e-4ff0-9e11-fd1174e38da3")
+	)
+	(wire
+		(pts
+			(xy 55.88 64.77) (xy 48.26 64.77)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "1d4994f8-5ad2-4c8c-b58a-d60aa6b58eea")
+	)
+	(wire
+		(pts
+			(xy 138.43 34.29) (xy 146.05 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f458548-1275-435e-959f-3d5302b21105")
+	)
+	(wire
+		(pts
+			(xy 129.54 147.32) (xy 88.9 147.32)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "21460a9f-8932-4d6a-8c76-28676b2cc3a7")
+	)
+	(wire
+		(pts
+			(xy 254 64.77) (xy 231.14 64.77)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2266e105-68a1-4cde-92bb-71e8473b7177")
+	)
+	(wire
+		(pts
+			(xy 242.57 144.78) (xy 242.57 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2466e806-6338-43b4-a06d-310fa3b3fa25")
+	)
+	(wire
+		(pts
+			(xy 204.47 31.75) (xy 204.47 36.83)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "25f028c7-c54a-4a3a-9001-d46d29d0d747")
+	)
+	(wire
+		(pts
+			(xy 270.51 124.46) (xy 283.21 124.46)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2754bef6-e8eb-4243-b726-2a945fd9f7bf")
+	)
+	(wire
+		(pts
+			(xy 152.4 102.87) (xy 157.48 102.87)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2b7a9fbd-3328-4362-a7eb-671cef49fa2f")
+	)
+	(wire
+		(pts
+			(xy 273.05 104.14) (xy 273.05 106.68)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2d333472-96ab-445a-9293-b79a57f90322")
+	)
+	(wire
+		(pts
+			(xy 182.88 90.17) (xy 182.88 95.25)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "2d6ad2a4-c5de-4c9f-bab5-a3039f894168")
+	)
+	(wire
+		(pts
+			(xy 143.51 31.75) (xy 146.05 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30756e30-4a18-4526-95c3-8f0b45409dc0")
+	)
+	(wire
+		(pts
+			(xy 25.4 67.31) (xy 17.78 67.31)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "329a7e9b-6bee-4b53-a41c-64f180b7956c")
+	)
+	(wire
+		(pts
+			(xy 190.5 99.06) (xy 190.5 93.98)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "34c85f0c-f980-410d-9a77-b69535df0916")
+	)
+	(wire
+		(pts
+			(xy 251.46 40.64) (xy 226.06 40.64)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3696abab-f0e6-4809-aea9-c74392f834eb")
+	)
+	(wire
+		(pts
+			(xy 254 72.39) (xy 226.06 72.39)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3918a956-a97f-4d36-8b31-88990655bcfc")
+	)
+	(wire
+		(pts
+			(xy 106.68 69.85) (xy 86.36 69.85)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "39ad3caf-ef5d-4b01-97a3-07b4b8b24a2c")
+	)
+	(wire
+		(pts
+			(xy 224.79 137.16) (xy 242.57 137.16)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "39e23add-447f-419f-81b0-cec1f52c43dc")
+	)
+	(wire
+		(pts
+			(xy 55.88 85.09) (xy 35.56 85.09)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3b133f99-c7ea-4d91-8210-2b9a3ceeed2d")
+	)
+	(wire
+		(pts
+			(xy 184.15 132.08) (xy 163.83 132.08)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3bd2c909-4d03-4c06-ae2f-6aec0cce2695")
+	)
+	(wire
+		(pts
+			(xy 134.62 69.85) (xy 134.62 72.39)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3c88c835-1d2c-4379-a87a-6497af97cad5")
+	)
+	(wire
+		(pts
+			(xy 175.26 119.38) (xy 184.15 119.38)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3d47d9d9-b15c-43c9-85e8-4b7014368773")
+	)
+	(wire
+		(pts
+			(xy 111.76 95.25) (xy 119.38 95.25)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3d919810-4894-407f-9e67-2e0318b767f9")
+	)
+	(wire
+		(pts
+			(xy 184.15 109.22) (xy 158.75 109.22)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "3f5b2a61-ff2a-4839-b6ee-5189ce7b91a9")
+	)
+	(wire
+		(pts
+			(xy 184.15 144.78) (xy 163.83 144.78)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "40a421e9-238b-44ab-9728-471c6a02e796")
+	)
+	(wire
+		(pts
+			(xy 175.26 97.79) (xy 175.26 90.17)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "425c3375-c905-4a18-82a9-852f340ebf7d")
+	)
+	(wire
+		(pts
+			(xy 167.64 95.25) (xy 167.64 114.3)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "438de987-6985-46b7-a8ae-94a089add6bd")
+	)
+	(wire
+		(pts
+			(xy 236.22 57.15) (xy 236.22 52.07)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "44accb70-fab8-4ea3-88d8-ae765d4d46e0")
+	)
+	(wire
+		(pts
+			(xy 254 69.85) (xy 231.14 69.85)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "46077559-5038-4649-ae63-47e5f728fd28")
+	)
+	(wire
+		(pts
+			(xy 234.95 129.54) (xy 224.79 129.54)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "46f8b409-20f8-4d30-baf8-494bf8981ed0")
+	)
+	(wire
+		(pts
+			(xy 133.35 34.29) (xy 133.35 29.21)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4a604db5-5c10-406f-a08a-004ba8188d01")
+	)
+	(wire
+		(pts
+			(xy 33.02 62.23) (xy 38.1 62.23)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4d47d658-0251-4258-b7b8-fadde9dff883")
+	)
+	(wire
+		(pts
+			(xy 182.88 99.06) (xy 190.5 99.06)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "4f965e52-c61d-4dd1-99b3-bc72bd7e3426")
+	)
+	(wire
+		(pts
+			(xy 224.79 121.92) (xy 260.35 121.92)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "50add57f-587c-472b-8367-fc4f57d39ec6")
+	)
+	(wire
+		(pts
+			(xy 133.35 41.91) (xy 133.35 44.45)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "52de16b0-770e-4e06-af9d-312fb46337ba")
+	)
+	(wire
+		(pts
+			(xy 55.88 90.17) (xy 35.56 90.17)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "56021667-3ad2-4673-86ca-bdeb9c7dba1d")
+	)
+	(wire
+		(pts
+			(xy 121.92 82.55) (xy 121.92 69.85)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "574a99d0-8d21-4188-8333-1ea5bb606544")
+	)
+	(wire
+		(pts
+			(xy 158.75 109.22) (xy 158.75 111.76)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "59802a62-19d7-4152-afed-a7f68c02db7a")
+	)
+	(wire
+		(pts
+			(xy 213.36 93.98) (xy 208.28 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59d164b0-901b-4c92-9c08-ba5b9258cca7")
+	)
+	(wire
+		(pts
+			(xy 208.28 91.44) (xy 208.28 93.98)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5aefcc9f-5b31-402d-b41c-a5cd55a8f2a3")
+	)
+	(wire
+		(pts
+			(xy 232.41 152.4) (xy 224.79 152.4)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5b516556-7055-48fc-a958-ea364b4bd131")
+	)
+	(wire
+		(pts
+			(xy 33.02 54.61) (xy 40.64 54.61)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5d0919b2-d7c2-4e15-8d2c-a53ba1ae4b43")
+	)
+	(wire
+		(pts
+			(xy 138.43 34.29) (xy 138.43 44.45)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "615a9213-1a11-4ff3-ad21-4f0a3bb764cc")
+	)
+	(wire
+		(pts
+			(xy 196.85 31.75) (xy 204.47 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63f1620e-77e9-447d-bdc9-305654e01207")
+	)
+	(wire
+		(pts
+			(xy 224.79 157.48) (xy 242.57 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6892f8e9-7106-4f71-9278-ecda08402270")
+	)
+	(wire
+		(pts
+			(xy 109.22 33.02) (xy 106.68 35.56)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "696f08d9-9f25-4044-9792-b9d5d74902c5")
+	)
+	(wire
+		(pts
+			(xy 184.15 134.62) (xy 163.83 134.62)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "6d2adead-fcd0-457a-84ba-a14d97e4b160")
+	)
+	(wire
+		(pts
+			(xy 254 62.23) (xy 231.14 62.23)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "6eebb1d6-c2de-439f-9c26-be2cced42030")
+	)
+	(wire
+		(pts
+			(xy 224.79 109.22) (xy 224.79 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7124d240-c6ca-4118-87e5-e5fa36af7c01")
+	)
+	(wire
+		(pts
+			(xy 96.52 102.87) (xy 86.36 102.87)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "72a7920d-4699-43ee-983e-ed06ec0d7755")
+	)
+	(wire
+		(pts
+			(xy 138.43 31.75) (xy 138.43 29.21)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "7571a2dd-469f-4874-9b6a-22f198f94a7a")
+	)
+	(wire
+		(pts
+			(xy 132.08 90.17) (xy 134.62 90.17)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "7d7ca686-110f-40f2-b216-31d5d5ebf92f")
+	)
+	(wire
+		(pts
+			(xy 195.58 93.98) (xy 195.58 96.52)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "7f451101-a165-46fa-b68c-9c191e2743f6")
+	)
+	(wire
+		(pts
+			(xy 25.4 74.93) (xy 43.18 74.93)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "8136ea63-dcf9-4025-a126-b09256a0c73f")
+	)
+	(wire
+		(pts
+			(xy 22.86 74.93) (xy 25.4 74.93)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "83bded53-1907-40f2-891f-3ec3046f53cb")
+	)
+	(wire
+		(pts
+			(xy 38.1 62.23) (xy 40.64 62.23)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "87f61c88-0b6d-40cf-a4f8-99d1015c887b")
+	)
+	(wire
+		(pts
+			(xy 254 57.15) (xy 236.22 57.15)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "88c593b8-a47f-44de-acbd-37884398a200")
+	)
+	(wire
+		(pts
+			(xy 93.98 170.18) (xy 93.98 172.72)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "8a202bf1-9195-4f61-afdf-1bbb9d7804e8")
+	)
+	(wire
+		(pts
+			(xy 55.88 82.55) (xy 35.56 82.55)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "8adfdb4f-d0fe-4b86-a83a-767608f1c86c")
+	)
+	(wire
+		(pts
+			(xy 237.49 152.4) (xy 232.41 152.4)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "8b9c3cdd-9c28-4e8a-a80f-b9cf8a72cc1c")
+	)
+	(wire
+		(pts
+			(xy 204.47 26.67) (xy 204.47 31.75)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "8beabea5-a086-487e-844e-b13327acb1a1")
+	)
+	(wire
+		(pts
+			(xy 55.88 72.39) (xy 55.88 74.93)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "91f8ca6e-a882-433d-9b9b-ddd4f0420e06")
+	)
+	(wire
+		(pts
+			(xy 86.36 95.25) (xy 111.76 95.25)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "93191c75-3ef9-4907-bb13-f61afaa752bb")
+	)
+	(wire
+		(pts
+			(xy 254 74.93) (xy 231.14 74.93)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "938330ca-a7f7-4b67-8774-acb96497dc81")
+	)
+	(wire
+		(pts
+			(xy 163.83 139.7) (xy 184.15 139.7)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "96cfb003-df08-4053-a680-58b7181e7850")
+	)
+	(wire
+		(pts
+			(xy 251.46 33.02) (xy 226.06 33.02)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "99a6cdb0-d3dc-48ec-ad91-0408ef80f7f7")
+	)
+	(wire
+		(pts
+			(xy 50.8 72.39) (xy 55.88 72.39)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "9d51f20b-84f2-400e-8c17-f5b91d773b7d")
+	)
+	(wire
+		(pts
+			(xy 242.57 137.16) (xy 242.57 129.54)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "9fdf1841-6961-42d7-beb2-976ec10de414")
+	)
+	(wire
+		(pts
+			(xy 134.62 90.17) (xy 144.78 90.17)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a10cc2ea-0b87-474c-9a0e-b97d7aacd6cd")
+	)
+	(wire
+		(pts
+			(xy 251.46 30.48) (xy 226.06 30.48)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a1fd7df4-005d-4550-93ba-b7df6ba6c97b")
+	)
+	(wire
+		(pts
+			(xy 213.36 102.87) (xy 213.36 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a21da140-2759-4e78-91df-aa64af359760")
+	)
+	(wire
+		(pts
+			(xy 260.35 116.84) (xy 260.35 104.14)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a40610a3-6637-4b2f-93de-b7264712d351")
+	)
+	(wire
+		(pts
+			(xy 208.28 93.98) (xy 208.28 96.52)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a5211dce-d62b-4236-82e8-7fe3ed0e4298")
+	)
+	(wire
+		(pts
+			(xy 204.47 44.45) (xy 204.47 46.99)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a5bcd420-9485-4bff-997c-c943b5a7deff")
+	)
+	(wire
+		(pts
+			(xy 251.46 43.18) (xy 226.06 43.18)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a7c0c2e1-0347-4abd-8c07-78687550be9e")
+	)
+	(wire
+		(pts
+			(xy 129.54 149.86) (xy 93.98 149.86)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a7c81e9a-9d57-4822-bac2-d918429b7a1a")
+	)
+	(wire
+		(pts
+			(xy 104.14 157.48) (xy 104.14 160.02)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a8b0a881-e763-4720-b76c-7431999a041b")
+	)
+	(wire
+		(pts
+			(xy 48.26 105.41) (xy 48.26 102.87)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "a9970e9d-a451-4aa8-a0ac-e5bca267bd03")
+	)
+	(wire
+		(pts
+			(xy 163.83 157.48) (xy 184.15 157.48)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ab510e0a-c7d7-452d-81f9-c8e7c921d339")
+	)
+	(wire
+		(pts
+			(xy 129.54 154.94) (xy 99.06 154.94)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ab72f509-4ef4-40b2-9ca4-9fdc02d0939a")
+	)
+	(wire
+		(pts
+			(xy 254 59.69) (xy 226.06 59.69)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ad2d4c88-e464-4718-a23e-bee1689f841d")
+	)
+	(wire
+		(pts
+			(xy 190.5 93.98) (xy 195.58 93.98)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ad4d5086-53a2-4df2-8973-aec5e8b23483")
+	)
+	(wire
+		(pts
+			(xy 273.05 134.62) (xy 273.05 139.7)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "b0a40416-d370-42a8-8819-ab734d6046cc")
+	)
+	(wire
+		(pts
+			(xy 99.06 154.94) (xy 99.06 160.02)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "b24ee3f2-96a2-42e7-9f1d-1df7debabc32")
+	)
+	(wire
+		(pts
+			(xy 134.62 100.33) (xy 134.62 105.41)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "b258239e-96ed-4a29-b0a0-ea4f1f1c6350")
+	)
+	(wire
+		(pts
+			(xy 184.15 152.4) (xy 163.83 152.4)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "b7f0682a-1e12-4935-bd93-0a264ea58a66")
+	)
+	(wire
+		(pts
+			(xy 43.18 77.47) (xy 43.18 74.93)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ba982542-7f1d-44e2-9f76-96e76034f4e5")
+	)
+	(wire
+		(pts
+			(xy 151.13 109.22) (xy 151.13 111.76)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "bdc372de-d0f2-423c-a5ef-7d9f0e8e9324")
+	)
+	(wire
+		(pts
+			(xy 43.18 102.87) (xy 48.26 102.87)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c2d53acf-77b1-406b-8af5-54a17a0f1f9b")
+	)
+	(wire
+		(pts
+			(xy 224.79 116.84) (xy 260.35 116.84)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c3c3188f-8a22-4269-96a6-2947ffeaf018")
+	)
+	(wire
+		(pts
+			(xy 270.51 104.14) (xy 273.05 104.14)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c605d4d8-8150-4e84-8992-4ad6101b4eaa")
+	)
+	(wire
+		(pts
+			(xy 175.26 97.79) (xy 175.26 119.38)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c6f68b63-1883-4d58-963a-135159730306")
+	)
+	(wire
+		(pts
+			(xy 134.62 90.17) (xy 134.62 92.71)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c706d4a6-5bc9-4390-91f7-cb655c781328")
+	)
+	(wire
+		(pts
+			(xy 55.88 77.47) (xy 55.88 74.93)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c72531c2-d8db-425c-9085-30d09b1cfa48")
+	)
+	(wire
+		(pts
+			(xy 99.06 170.18) (xy 99.06 172.72)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c7c41705-a67c-482e-a65b-d55ce99543aa")
+	)
+	(wire
+		(pts
+			(xy 133.35 29.21) (xy 133.35 24.13)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "c991dcd7-bdb1-40c1-83f4-5654118e7410")
+	)
+	(wire
+		(pts
+			(xy 232.41 154.94) (xy 232.41 152.4)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "cccff694-ae2b-4510-b89c-8c06c9ad9e9b")
+	)
+	(wire
+		(pts
+			(xy 88.9 147.32) (xy 88.9 160.02)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "cd0822ce-acc8-4049-8458-2308b37f2423")
+	)
+	(wire
+		(pts
+			(xy 195.58 91.44) (xy 195.58 93.98)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "cd71d0ff-4b17-4718-848a-0e0c2fa60b2a")
+	)
+	(wire
+		(pts
+			(xy 48.26 105.41) (xy 55.88 105.41)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "cddd2b2b-8ea2-4f42-a2a9-e394c4f02452")
+	)
+	(wire
+		(pts
+			(xy 104.14 170.18) (xy 104.14 172.72)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ceb9a881-c36f-451a-8803-b9e199596efd")
+	)
+	(wire
+		(pts
+			(xy 101.6 35.56) (xy 99.06 33.02)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "d03a3a7c-fa65-4598-b9c5-d5be80df3773")
+	)
+	(wire
+		(pts
+			(xy 138.43 31.75) (xy 143.51 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2060222-d688-4d05-a84f-56211b03d3b6")
+	)
+	(wire
+		(pts
+			(xy 251.46 38.1) (xy 226.06 38.1)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "d2a6ea5f-afe8-4ac2-a210-13e77be2318c")
+	)
+	(wire
+		(pts
+			(xy 106.68 64.77) (xy 86.36 64.77)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "d3187197-9c27-47a9-92b6-17d85556c71c")
+	)
+	(wire
+		(pts
+			(xy 104.14 105.41) (xy 104.14 102.87)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "d3206816-f4ef-4c32-be41-3e47c646587e")
+	)
+	(wire
+		(pts
+			(xy 157.48 102.87) (xy 160.02 102.87)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "d5da9ed4-49c6-419f-af2b-0ba825658e53")
+	)
+	(wire
+		(pts
+			(xy 138.43 29.21) (xy 133.35 29.21)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "d99ad21f-6f43-40f7-9426-7d192c1edd12")
+	)
+	(wire
+		(pts
+			(xy 86.36 67.31) (xy 106.68 67.31)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "dbeaf9f8-27d2-4b64-9027-58dc6987c0ea")
+	)
+	(wire
+		(pts
+			(xy 152.4 95.25) (xy 160.02 95.25)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ddd74158-7bf3-4a04-a2ef-02ba32159cc7")
+	)
+	(wire
+		(pts
+			(xy 182.88 95.25) (xy 182.88 97.79)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "df274ded-45fc-4958-8e44-daeacea45716")
+	)
+	(wire
+		(pts
+			(xy 182.88 97.79) (xy 182.88 99.06)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e0560533-f32f-433d-96b0-5e95e2625350")
+	)
+	(wire
+		(pts
+			(xy 226.06 72.39) (xy 226.06 77.47)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e59fc91a-a12c-4857-b419-8ba5a0b76201")
+	)
+	(wire
+		(pts
+			(xy 43.18 74.93) (xy 43.18 72.39)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e5c9ee21-6ebb-4f41-aa0f-be94ac6d3819")
+	)
+	(wire
+		(pts
+			(xy 232.41 154.94) (xy 224.79 154.94)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e78dafe2-4fa6-44c9-a7c6-9c12f60a949c")
+	)
+	(wire
+		(pts
+			(xy 86.36 87.63) (xy 121.92 87.63)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e8ceea5b-6b33-4e1d-bc1c-19c9b0c991b7")
+	)
+	(wire
+		(pts
+			(xy 158.75 109.22) (xy 151.13 109.22)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "e8f795cf-b3f5-4d28-a48a-0030b202d5f5")
+	)
+	(wire
+		(pts
+			(xy 55.88 67.31) (xy 25.4 67.31)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "eadfbf1c-0a36-4a65-a837-3b4aa9e42501")
+	)
+	(wire
+		(pts
+			(xy 48.26 77.47) (xy 43.18 77.47)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "eafc7602-294f-46fc-a45d-782d530eb139")
+	)
+	(wire
+		(pts
+			(xy 86.36 72.39) (xy 106.68 72.39)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ec30b10b-399f-4f1a-bccd-b4f22e5b846f")
+	)
+	(wire
+		(pts
+			(xy 143.51 31.75) (xy 143.51 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5871260-4d91-4e5f-9526-0ea708d0ac09")
+	)
+	(wire
+		(pts
+			(xy 111.76 95.25) (xy 111.76 97.79)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "f7f1000e-86b4-4ccd-8c66-4d44fcd9367d")
+	)
+	(wire
+		(pts
+			(xy 203.2 96.52) (xy 208.28 96.52)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "f87ea24d-e9f3-4874-9e69-f35a409b1710")
+	)
+	(wire
+		(pts
+			(xy 48.26 102.87) (xy 55.88 102.87)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "f926c0eb-f49e-450f-9661-157133a09e33")
+	)
+	(wire
+		(pts
+			(xy 234.95 144.78) (xy 224.79 144.78)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "f9ef2e74-e584-42d3-8f3c-dc594659194a")
+	)
+	(wire
+		(pts
+			(xy 143.51 45.72) (xy 196.85 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa8d6306-1fe7-4973-8a8f-18a5c94581de")
+	)
+	(wire
+		(pts
+			(xy 167.64 114.3) (xy 184.15 114.3)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fbc8216a-4c5d-46c9-ae0a-03b9ddeb27cc")
+	)
+	(wire
+		(pts
+			(xy 17.78 74.93) (xy 22.86 74.93)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fc9385ad-414e-4dd2-a608-877fa6d11c96")
+	)
+	(wire
+		(pts
+			(xy 48.26 64.77) (xy 48.26 54.61)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "fea0f91c-f1fc-46c5-8b15-5201441213ef")
+	)
+	(wire
+		(pts
+			(xy 226.06 59.69) (xy 226.06 64.77)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "ff631585-043e-4b6e-9a49-ebf3c78da6aa")
+	)
+	(label "SCK_IN"
+		(at 163.83 127 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "004a47aa-f2da-41ce-bf76-a298a4f3b883")
+	)
+	(label "FORMAT"
+		(at 226.06 33.02 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "0193c9e6-c51f-428b-9582-6fcd556395f1")
+	)
+	(label "DATA_IN"
+		(at 163.83 134.62 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "0298c430-8355-4846-afd2-5421b14b0e0e")
+	)
+	(label "WORDSEL_IN"
+		(at 35.56 87.63 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "0371204e-36f0-41ee-b556-2780dc707e83")
+	)
+	(label "WORDSEL_IN"
+		(at 163.83 132.08 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "0b0395fe-d97a-4b23-af1e-f840f7691a9b")
+	)
+	(label "AGND"
+		(at 229.87 157.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0b6ac49d-cfb6-4692-8644-75e2daa2eb43")
+	)
+	(label "BITCLK_IN"
+		(at 163.83 129.54 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "0e31fd1e-fdf8-4bad-9463-413db6b8c963")
+	)
+	(label "AVDD"
+		(at 181.61 109.22 180)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify right bottom)
+		)
+		(uuid "1418f93c-6669-4d9b-881b-0c0228a0b0af")
+	)
+	(label "WORDSEL_IN"
+		(at 231.14 62.23 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "227ceab4-c58e-4d47-b952-76da1a079862")
+	)
+	(label "3.3V"
+		(at 226.06 30.48 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "22e9017e-40bb-4b8a-be6e-52589800ad25")
+	)
+	(label "MUTE"
+		(at 226.06 35.56 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "249ee929-cb0c-445a-ae43-65bd26f1099b")
+	)
+	(label "MUTE"
+		(at 96.52 69.85 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "2be0f78c-53c2-45d3-8c27-254b2a69e231")
+	)
+	(label "CAP+"
+		(at 88.9 97.79 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "2f108f4e-6338-426d-b4ff-7fc0fe3169fd")
+	)
+	(label "FILTER"
+		(at 96.52 64.77 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "3375883a-371d-451b-a3f4-7fe76f85651a")
+	)
+	(label "DEMPH"
+		(at 226.06 43.18 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "3b9dd731-c506-4ee8-9d38-106ec626dd43")
+	)
+	(label "OUTR"
+		(at 231.14 74.93 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "3f3c1ad8-86a4-47fa-b007-c68f85fc2bc8")
+	)
+	(label "OUTL"
+		(at 275.59 104.14 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "3f956139-e99b-45bd-8135-1efefc175195")
+	)
+	(label "OUTL"
+		(at 137.16 69.85 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "41f0c744-d420-4cf7-b28f-badda117d3b0")
+	)
+	(label "OUTR"
+		(at 275.59 124.46 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "4411062e-bce5-4bf2-bba1-1dd456b470e8")
+	)
+	(label "FILTER"
+		(at 226.06 40.64 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "5d8f8044-6065-43ae-baba-ce70eefcc2fd")
+	)
+	(label "SCK_IN"
+		(at 226.06 38.1 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "5fb629ec-cc3d-4283-8f08-4fe7df77b091")
+	)
+	(label "FILTER"
+		(at 109.22 147.32 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "74603841-0e3c-4286-89c1-50b7ed71892a")
+	)
+	(label "MUTE"
+		(at 109.22 154.94 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "774f353d-32c5-4e7a-83c6-4fbf871960d9")
+	)
+	(label "DATA_IN"
+		(at 35.56 90.17 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "7a7fb400-b3d6-45c4-b2d8-65dc13c71155")
+	)
+	(label "CAP+"
+		(at 227.33 129.54 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "7c79ad3d-2e62-4861-ab41-73e2a63d826b")
+	)
+	(label "BITCLK_IN"
+		(at 35.56 85.09 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "7fbb88b6-1377-4625-b2d0-63e3a657523a")
+	)
+	(label "DATA_IN"
+		(at 231.14 64.77 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "86c7da75-bb11-4b16-a162-b1a0cda4e84c")
+	)
+	(label "VNEG"
+		(at 227.33 144.78 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "9519eff0-130b-43be-813b-3f1a2e6affec")
+	)
+	(label "OUTR"
+		(at 137.16 90.17 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "95cdccfb-c00f-49cc-bcfb-4ec944ecd2ae")
+	)
+	(label "MUTE"
+		(at 173.99 157.48 180)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify right bottom)
+		)
+		(uuid "9917ce53-c887-4180-8a38-907a9cf27df4")
+	)
+	(label "SCK_IN"
+		(at 109.22 160.02 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "9dcfe30a-88a1-4599-9b02-a64518433273")
+	)
+	(label "CAP-"
+		(at 88.9 100.33 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "9f48cc73-5f7b-4b56-a302-3c7dadfae7a6")
+	)
+	(label "VNEG"
+		(at 88.9 102.87 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "b1c403bf-d3e0-4215-bba3-7867b0fe766e")
+	)
+	(label "AGND"
+		(at 88.9 105.41 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "b3b9e823-ee6d-4631-bc55-b46332e7fe43")
+	)
+	(label "FILTER"
+		(at 173.99 139.7 180)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify right bottom)
+		)
+		(uuid "bff2bd40-f4a2-4000-a589-4ff624faa134")
+	)
+	(label "AVDD"
+		(at 88.9 95.25 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "c3835c7b-12b2-47b4-a9f2-46307cc3d42a")
+	)
+	(label "FORMAT"
+		(at 109.22 149.86 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "c6a5c0ec-b798-40c2-94f3-6221d73e42d6")
+	)
+	(label "DEMPH"
+		(at 96.52 72.39 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "c801f774-52e8-4325-9ba8-f484daf39fa7")
+	)
+	(label "FORMAT"
+		(at 96.52 67.31 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "c876fdcd-ce00-452f-8538-fa02db9b91e8")
+	)
+	(label "DEMPH"
+		(at 109.22 157.48 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "dd4d8f6e-0ab6-4d2f-ae85-5e69507c204f")
+	)
+	(label "DEMPH"
+		(at 173.99 144.78 180)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify right bottom)
+		)
+		(uuid "e2cdaacb-0958-4095-8878-6639347f595b")
+	)
+	(label "CAP-"
+		(at 227.33 137.16 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "e9d00ee3-1861-495e-a4e2-9fe565fb716b")
+	)
+	(label "BITCLK_IN"
+		(at 231.14 67.31 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "eaf9f0e6-d284-46d7-ad94-69aa00f82f63")
+	)
+	(label "FORMAT"
+		(at 173.99 152.4 180)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify right bottom)
+		)
+		(uuid "ee9f6890-683c-441b-82f9-9933611ad029")
+	)
+	(label "OUTL"
+		(at 231.14 69.85 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "f7976b8f-6518-48a9-a3d6-7de247b523f2")
+	)
+	(label "SCK_IN"
+		(at 35.56 82.55 0)
+		(effects
+			(font
+				(size 1.2446 1.2446)
+			)
+			(justify left bottom)
+		)
+		(uuid "fd8548bf-53eb-46de-961c-0c1f6fa29a59")
+	)
+	(hierarchical_label "D_IN"
+		(shape input)
+		(at 254 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0bd5bf9b-ca54-4bbb-b378-2d79f0fedbf8")
+	)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 254 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3dcc7532-c2c2-4fb5-a544-f290be615745")
+	)
+	(hierarchical_label "GND"
+		(shape input)
+		(at 254 59.69 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "59060fac-b3ec-4ecf-9271-98a55847c34a")
+	)
+	(hierarchical_label "BTCLK_IN"
+		(shape input)
+		(at 254 67.31 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "728f0f10-7bfd-4cdc-9209-1b15175c80fe")
+	)
+	(hierarchical_label "OUTR"
+		(shape input)
+		(at 254 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7b61522d-7688-47a1-b748-9a57ee18738d")
+	)
+	(hierarchical_label "OUTL"
+		(shape input)
+		(at 254 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a3503959-b38f-42d0-b7ed-62f8a9421d04")
+	)
+	(hierarchical_label "VIN"
+		(shape input)
+		(at 254 57.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c501b494-b7d8-4cee-ad24-6d2ebf160454")
+	)
+	(hierarchical_label "3V3_OUT"
+		(shape input)
+		(at 251.46 30.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d53644fa-8ff1-469f-a5d6-8bf8c17b3345")
+	)
+	(hierarchical_label "WORDSEL_IN"
+		(shape input)
+		(at 254 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e0b0f647-58ae-44f7-9cdd-230f5b8d7dde")
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 88.9 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "037c3f45-e4fe-43b7-9d8d-352f4b8158a8")
+		(property "Reference" "#AGND7"
+			(at 88.9 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 81.28 180.34 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4fa7cf92-fbd6-48c6-87ef-1bca9b4b337f")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 109.22 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0619b0e9-e7da-4303-aa4a-e86bd26a5682")
+		(property "Reference" "#AGND17"
+			(at 109.22 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 109.22 180.34 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "43ce8cfe-01ac-472f-b8f1-49b3beaca0b2")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:RESISTOR_0603_NOOUT")
+		(at 93.98 165.1 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "14fffd01-ac31-4b08-a3b1-950959d6d199")
+		(property "Reference" "R10"
+			(at 91.44 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 93.98 165.1 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(thickness 0.2032)
+					(bold yes)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 93.98 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 93.98 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e33df537-319f-41f2-a615-d89fd0f62e73")
+		)
+		(pin "1"
+			(uuid "5dc2d9eb-2311-4b36-b9ec-deff7cd656fa")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:3.3V")
+		(at 172.72 97.79 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "15719270-46b6-4528-a956-d36ba7f98d1c")
+		(property "Reference" "#U$08"
+			(at 172.72 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3.3V"
+			(at 171.704 96.266 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 172.72 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 172.72 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a70dcf33-d41f-4c7f-ad92-72549668df82")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#U$08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:3.3V")
+		(at 99.06 175.26 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1b919fb3-85a2-4914-97ab-a6eb94f72f27")
+		(property "Reference" "#U$3"
+			(at 99.06 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3.3V"
+			(at 100.584 176.276 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 99.06 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 99.06 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dcd98af7-6f8c-4963-9e67-d9390d83f12a")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#U$3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 134.62 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1f16cccb-6d2c-4343-a579-8bf2e4061f85")
+		(property "Reference" "C7"
+			(at 132.33 76.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2.2nF"
+			(at 136.92 76.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 134.62 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 134.62 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c4326e28-8e31-4beb-bdd2-2d5b59106436")
+		)
+		(pin "2"
+			(uuid "c906f294-dde1-4ff0-b220-5e361131e2b5")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 226.06 67.31 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "218dbe3e-64dd-4592-9ad3-87d415747b0c")
+		(property "Reference" "#AGND19"
+			(at 226.06 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 223.52 72.39 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 226.06 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 226.06 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 226.06 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6967b80c-86c8-47ab-a804-b81a8acc82db")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:VIN")
+		(at 236.22 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2471c0c2-da51-40bc-9008-b8240ab17d84")
+		(property "Reference" "#U$24"
+			(at 236.22 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VIN"
+			(at 234.696 48.514 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 236.22 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 236.22 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 236.22 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4f9e5411-9d17-4f9e-808a-f4652dc34314")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#U$24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 93.98 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2545cd23-b363-46d7-8ff6-3944c5712204")
+		(property "Reference" "#AGND15"
+			(at 93.98 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 91.44 180.34 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 93.98 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 93.98 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 93.98 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "291ab718-7860-441a-91f8-f0a1afc6afbf")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 119.38 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "276d09bb-82fd-4cd9-a4cf-63fb3d73ee07")
+		(property "Reference" "#AGND13"
+			(at 119.38 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 114.3 110.49 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 119.38 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0d3c5749-2a5e-47bd-8d84-a92fb13410e8")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 38.1 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "27e6453f-d9fb-48e5-b5b0-9fa174dc4c56")
+		(property "Reference" "#AGND14"
+			(at 38.1 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 40.64 64.77 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 38.1 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "573e8a04-28d0-4328-88b0-e08251fb9ac4")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 119.38 102.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "32064956-88d5-4a94-94cd-8f7fe1df2b47")
+		(property "Reference" "C20"
+			(at 117.09 101.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 121.68 101.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 119.38 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f7ffc1c7-4390-484a-9527-1a51b7dfe2cc")
+		)
+		(pin "2"
+			(uuid "18304ca9-8d0c-4388-ac29-db1018da2a63")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0805-NOOUTLINE")
+		(at 198.12 96.52 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "331f9b4c-45b7-49a8-957d-f4b1be569013")
+		(property "Reference" "C29"
+			(at 199.37 98.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF"
+			(at 199.37 94.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0805-NO"
+			(at 198.12 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 198.12 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 198.12 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a2ecd3bd-4482-4b20-86ed-ceeb70535e3a")
+		)
+		(pin "1"
+			(uuid "56f744c8-8643-4a12-ad1d-f7f84cd37379")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0805-NOOUTLINE")
+		(at 180.34 90.17 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3c7967ef-02bc-4e18-842f-3838b2b8f183")
+		(property "Reference" "C27"
+			(at 179.09 87.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF"
+			(at 179.09 92.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0805-NO"
+			(at 180.34 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 180.34 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9b686204-bb0f-42ef-9c5b-0a8826e0f30f")
+		)
+		(pin "1"
+			(uuid "2c231858-f464-4ae6-a068-2195273dc9fb")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0805-NOOUTLINE")
+		(at 45.72 72.39 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3f69e039-0569-4dc3-b94d-4ea4dfaa84e4")
+		(property "Reference" "C13"
+			(at 46.97 70.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF"
+			(at 46.97 74.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0805-NO"
+			(at 45.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 45.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 45.72 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d4a832b1-72b4-44ba-b8f3-74d41fe8bff3")
+		)
+		(pin "1"
+			(uuid "4b0df3e5-a149-474b-956c-ec4fad651046")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:RESISTOR_0603_NOOUT")
+		(at 265.43 104.14 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "45ac7d83-3f57-45be-b55a-25a08a86e3a5")
+		(property "Reference" "R13"
+			(at 265.43 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "470"
+			(at 265.43 104.14 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(thickness 0.2032)
+					(bold yes)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 265.43 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 265.43 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 265.43 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8f86b94a-2bb6-47c5-ac96-07b20a73f450")
+		)
+		(pin "2"
+			(uuid "9ef861a8-2044-41f4-8881-6e86e553c869")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:RESISTOR_0603_NOOUT")
+		(at 88.9 165.1 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "45fe0da0-291b-40fe-a9f8-bf1a80c72878")
+		(property "Reference" "R5"
+			(at 86.36 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 88.9 165.1 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(thickness 0.2032)
+					(bold yes)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 88.9 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b10d673b-cb57-41bc-b078-02d83d587441")
+		)
+		(pin "1"
+			(uuid "781f7c64-5a4b-4e3e-bbfb-d03a3fc605f2")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 185.42 95.25 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "489a32e2-d354-4150-a48c-5bc51b46e80d")
+		(property "Reference" "#AGND024"
+			(at 185.42 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 189.738 92.71 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 185.42 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 185.42 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 185.42 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4f7d0564-f87d-497c-9470-1e2d20bb0bae")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 151.13 116.84 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4c4a9d0b-0f41-4a60-9b9d-ea60360c6fec")
+		(property "Reference" "C24"
+			(at 153.42 115.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 148.83 115.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 151.13 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 151.13 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c1c4677-50b4-41d7-938b-542d1add7077")
+		)
+		(pin "2"
+			(uuid "a3ec6e98-9da7-4c6c-8fc4-f1b401156f0e")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 242.57 161.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4d1b5291-2782-4c77-b09f-9119dd6c0ca3")
+		(property "Reference" "#AGND06"
+			(at 242.57 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 240.03 164.592 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 242.57 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 242.57 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 242.57 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "50316b03-96f9-4eb6-a6a9-49b857600c8e")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0805-NOOUTLINE")
+		(at 33.02 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4e5d6a4c-3520-40d0-bb64-81f7c4d7fe4b")
+		(property "Reference" "C22"
+			(at 30.73 58.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF"
+			(at 35.32 58.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0805-NO"
+			(at 33.02 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 33.02 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "87c53cb2-6559-4616-ad2d-1eb24f8bceea")
+		)
+		(pin "2"
+			(uuid "464fbd52-be3a-4e9a-8085-023c94a274c5")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 111.76 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4ed4600d-27b1-458c-89a1-6288b56625ec")
+		(property "Reference" "#AGND12"
+			(at 111.76 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 106.68 110.49 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 111.76 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9dd21e81-30f7-4ea7-b718-8bd20fbdf794")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 273.05 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4f999834-be7b-428e-a018-770990f861be")
+		(property "Reference" "#AGND04"
+			(at 273.05 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 270.51 147.32 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 273.05 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 273.05 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 273.05 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "acbf68dd-472e-4f64-93ae-b368b47dafa1")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 160.02 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "51744136-f945-4d1e-b594-8da33c752d9e")
+		(property "Reference" "C26"
+			(at 157.73 99.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 162.32 99.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 160.02 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 160.02 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 160.02 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0c582e32-7289-43c6-ab94-62a8b9e006d0")
+		)
+		(pin "2"
+			(uuid "1626e0a8-e022-4e8a-a8b8-7b33d5891bdd")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:RESISTOR_0603_NOOUT")
+		(at 127 69.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "57cfb662-6f5b-4b05-a8d5-dbfb4d4302e5")
+		(property "Reference" "R11"
+			(at 127 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "470"
+			(at 127 69.85 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(thickness 0.2032)
+					(bold yes)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 127 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 127 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3e5fd309-aa8d-419b-bfb9-d68877536b10")
+		)
+		(pin "2"
+			(uuid "1b318842-e03e-4899-9375-ee4136e9c882")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:VIN")
+		(at 133.35 21.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "583dbc9c-4df4-480c-98fb-e35a5618972a")
+		(property "Reference" "#U$02"
+			(at 133.35 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VIN"
+			(at 131.826 20.574 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.35 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 133.35 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4a1b9597-1f76-4fbe-8274-7ed776648503")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#U$02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 158.75 121.92 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5f8859f0-8eec-46f5-a1e8-5962c42b398f")
+		(property "Reference" "#AGND021"
+			(at 158.75 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 161.798 123.698 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.75 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 158.75 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "54383460-08c4-4e20-906b-6d62634f91c9")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0805-NOOUTLINE")
+		(at 17.78 72.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "62f6ffca-9876-4a85-b930-0c5a9714e7bd")
+		(property "Reference" "C15"
+			(at 15.49 71.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF"
+			(at 20.08 71.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0805-NO"
+			(at 17.78 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 17.78 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 17.78 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d930c853-6053-4e23-8f7e-846ca2808e9e")
+		)
+		(pin "1"
+			(uuid "e9326125-ef6f-4e27-8576-c78cc22b8166")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AP2127K-3.3TRG1:AP2127K-3.3TRG1")
+		(at 146.05 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "631ceb1d-2ac2-4a68-a033-79b88a9ed56f")
+		(property "Reference" "U3"
+			(at 171.45 21.59 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "AP2127K-3.3TRG1"
+			(at 171.45 24.13 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "SOT-23-5_AP2127K-3.3TRG1_DIO"
+			(at 146.05 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "AP2127K-3.3TRG1"
+			(at 146.05 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 146.05 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "3217bd69-bbbc-4752-ac5c-e99d8ab1b169")
+		)
+		(pin "3"
+			(uuid "a9ca91cb-2582-4841-b4d6-5bdfb42b6de0")
+		)
+		(pin "2"
+			(uuid "53011810-ce82-478e-a58f-a4f000aa8286")
+		)
+		(pin "4"
+			(uuid "cc5ab786-d732-4354-a514-b8fab3363b73")
+		)
+		(pin "1"
+			(uuid "722116e2-9eb5-4e16-8fac-8953c3457336")
+		)
+		(instances
+			(project ""
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:RESISTOR_0603_NOOUT")
+		(at 104.14 165.1 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "66860606-63e2-49da-bee9-2af030ee0503")
+		(property "Reference" "R8"
+			(at 101.6 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 104.14 165.1 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(thickness 0.2032)
+					(bold yes)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 104.14 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "920bfdf7-b60a-445c-9de4-9e0bcfec1f6d")
+		)
+		(pin "1"
+			(uuid "f2ef4f3a-fb32-4704-a3ab-8e348dd7a7cf")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "PCM5102APW:PCM5102APW")
+		(at 204.47 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6abf69f4-ec4b-4227-98c4-23e0ba451963")
+		(property "Reference" "U2"
+			(at 204.47 99.06 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "PCM5102APW"
+			(at 204.47 101.6 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "PW0020A_N"
+			(at 204.47 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/gpn/pcm5102a"
+			(at 204.47 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 204.47 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "10"
+			(uuid "5dab5d8d-bef3-4e24-b23d-2890f010ce32")
+		)
+		(pin "17"
+			(uuid "66f3fe8c-198c-4600-b59c-96331df7a688")
+		)
+		(pin "16"
+			(uuid "7ccfd0d4-2ac0-4e7d-82b6-9b037d12a8ef")
+		)
+		(pin "18"
+			(uuid "6a36d248-62ae-4ee3-a51f-c69482f3977a")
+		)
+		(pin "1"
+			(uuid "29df51c8-d5e3-4549-aaa9-80f964ed9210")
+		)
+		(pin "12"
+			(uuid "4584ac92-4794-401b-8448-5f8ea13c59a3")
+		)
+		(pin "20"
+			(uuid "0e40d41f-53bf-431f-a595-e48d552a26a2")
+		)
+		(pin "6"
+			(uuid "3add8bf6-d1c0-49cc-9d45-d702301bfe89")
+		)
+		(pin "7"
+			(uuid "1159dc98-d448-4803-9162-50f2822f39da")
+		)
+		(pin "2"
+			(uuid "743eb9e4-38df-41e1-acd3-e6660ee7c190")
+		)
+		(pin "4"
+			(uuid "11ae684d-b683-42af-8012-6c42713914af")
+		)
+		(pin "8"
+			(uuid "bd3ba796-84ae-4724-9171-56bbe5be559f")
+		)
+		(pin "14"
+			(uuid "bc17d885-0900-4e91-8566-cc9afa3a2fa6")
+		)
+		(pin "15"
+			(uuid "88ee80b6-f396-4b58-a1d4-b68d03af50de")
+		)
+		(pin "11"
+			(uuid "e7de07d6-18d5-46b3-bf7a-43e3b70bb296")
+		)
+		(pin "13"
+			(uuid "9cbdc8e4-3e83-4685-8471-a03b918cca1a")
+		)
+		(pin "5"
+			(uuid "24967b7f-55b0-4e3b-b263-dd66e5c37f62")
+		)
+		(pin "19"
+			(uuid "5f878974-403d-4375-985f-33fd37d5e16c")
+		)
+		(pin "3"
+			(uuid "1217ecd4-bdee-4921-bc1b-06db2ae1cdd6")
+		)
+		(pin "9"
+			(uuid "645530bf-1db5-4cb1-8060-299b2d4483c9")
+		)
+		(instances
+			(project ""
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 240.03 129.54 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6f2d7494-8b1f-45ce-bcbd-586f2474fd13")
+		(property "Reference" "C31"
+			(at 238.78 131.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2.2uF"
+			(at 238.78 127.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 240.03 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 240.03 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 240.03 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3a93e127-d957-41dd-9a1c-e9b73c45aa75")
+		)
+		(pin "2"
+			(uuid "0fe646dd-adb6-4c16-8e6b-2e3a929ec16d")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 138.43 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "70c5b54c-108c-4839-be6f-d86b8c81e6b2")
+		(property "Reference" "#AGND09"
+			(at 138.43 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 135.89 49.53 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.43 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 138.43 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2d152002-ead2-41c2-8880-a47011c002e3")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 43.18 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7a7d1feb-e0d2-416b-b423-6df057e0adee")
+		(property "Reference" "#AGND10"
+			(at 43.18 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 40.64 110.49 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 43.18 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.18 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 43.18 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2206d76b-609a-420b-9f24-cc82f8178983")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0805-NOOUTLINE")
+		(at 152.4 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7a93bcaa-826d-4903-94d9-4869539899dc")
+		(property "Reference" "C25"
+			(at 150.11 99.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF"
+			(at 154.7 99.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0805-NO"
+			(at 152.4 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 152.4 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2955997b-811b-4b52-b77f-e1161023b30a")
+		)
+		(pin "2"
+			(uuid "792fa72d-6464-49e8-94ef-823aa9dd2f96")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 204.47 49.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7b165e5e-0ca0-4cee-b078-433df708c846")
+		(property "Reference" "#AGND020"
+			(at 204.47 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 201.93 52.07 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 204.47 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 204.47 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "900528f4-52c6-440a-ad4d-e0170579f444")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 22.86 77.47 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7c464ec9-8211-447c-b7be-b1e88fbb741f")
+		(property "Reference" "#AGND18"
+			(at 22.86 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 25.4 77.47 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 22.86 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 22.86 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 22.86 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a324c8f6-a986-41e1-b663-23ccfce2f06c")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0805-NOOUTLINE")
+		(at 111.76 102.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7cc9a4cf-d627-46f8-a2ec-b40ce8b26f07")
+		(property "Reference" "C19"
+			(at 109.47 101.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF"
+			(at 114.06 101.62 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0805-NO"
+			(at 111.76 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 111.76 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5b3f6ef0-e9d6-40ef-ac8f-7636f87d01e6")
+		)
+		(pin "2"
+			(uuid "201296d1-e4e4-448e-8388-c23e96e4869b")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AVDD")
+		(at 151.13 106.68 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7eb30492-5792-4175-a6db-29619ffd72b1")
+		(property "Reference" "#U$06"
+			(at 151.13 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AVDD"
+			(at 152.654 105.664 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 151.13 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 151.13 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "df83963c-55ab-4774-aa62-ab4ddf865753")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#U$06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0805-NOOUTLINE")
+		(at 204.47 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "835c560f-fded-4838-80c5-3252717d0938")
+		(property "Reference" "C9"
+			(at 202.18 40.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF"
+			(at 206.77 40.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0805-NO"
+			(at 204.47 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 204.47 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8779104b-391d-4b59-a8e9-69ae9eb116bd")
+		)
+		(pin "2"
+			(uuid "4dd68b05-fb04-4f46-a96c-1aaf1721d137")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0805-NOOUTLINE")
+		(at 133.35 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "85d2cbc8-124d-45d0-9e7b-b027c6798633")
+		(property "Reference" "C6"
+			(at 131.06 38.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF"
+			(at 135.65 38.12 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0805-NO"
+			(at 133.35 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 133.35 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a9fdcada-06b0-4aac-96e0-dc152370d191")
+		)
+		(pin "2"
+			(uuid "314cc45c-9732-46c1-9e79-722e52f2fd9d")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 273.05 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "88dd22aa-a13c-45fb-b747-f03916bfa593")
+		(property "Reference" "C10"
+			(at 270.76 110.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2.2nF"
+			(at 275.35 110.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 273.05 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 273.05 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 273.05 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "52d6fb94-1fa1-453b-a88c-555c01bdbdda")
+		)
+		(pin "2"
+			(uuid "ebc7f9fa-78ba-4e87-b596-576bcdae01ec")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 157.48 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8d1139f7-4b7f-4357-9285-a3ed05950a0a")
+		(property "Reference" "#AGND023"
+			(at 157.48 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 160.02 105.41 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f3b6a795-07b6-4f43-8fe4-3f8ac6eb50c6")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 151.13 121.92 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9900c9f4-5f99-4bdd-a4d6-aa7c7b870187")
+		(property "Reference" "#AGND022"
+			(at 151.13 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 155.194 124.206 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 151.13 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 151.13 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ba097082-4d3e-4266-a034-230fabcdad2f")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 240.03 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9aad6b46-4310-41eb-a958-de811d459575")
+		(property "Reference" "C12"
+			(at 238.78 147.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2.2uF"
+			(at 238.78 142.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 240.03 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 240.03 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 240.03 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "edbd9fd7-1193-4690-8f17-3bbffee860e3")
+		)
+		(pin "2"
+			(uuid "614b3816-623c-4add-b636-3664b889f3c3")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AVDD")
+		(at 48.26 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9bd07ebf-770a-4342-97ec-076b2cbbf050")
+		(property "Reference" "#U$28"
+			(at 48.26 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AVDD"
+			(at 46.736 51.054 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 48.26 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 48.26 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "806f31e4-35d7-4302-a47e-802f203c0002")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#U$28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 101.6 102.87 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9ce196a3-c063-4dac-90bd-50069607cc76")
+		(property "Reference" "C18"
+			(at 100.35 105.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2.2uF"
+			(at 100.35 100.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 101.6 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.6 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 101.6 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "387ef46d-76a1-427b-8bfc-de20a8b9d064")
+		)
+		(pin "2"
+			(uuid "3560d108-6f05-4773-b440-cb00812a6abe")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AVDD")
+		(at 109.22 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9d0df8c0-9701-4af0-83aa-a18340a365ce")
+		(property "Reference" "#U$1"
+			(at 109.22 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AVDD"
+			(at 107.696 29.464 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8a4cafb0-f79b-4297-ae0e-ee375b3d6546")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#U$1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 104.14 175.26 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a505cf93-17c6-4d26-8832-75fe5e17a462")
+		(property "Reference" "#AGND16"
+			(at 104.14 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 101.6 180.34 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 104.14 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8cc287da-5b9d-4054-bebb-344222f06d13")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:3.3V")
+		(at 204.47 24.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a58e3651-7cb4-4d99-8be0-8bb48888c513")
+		(property "Reference" "#U$05"
+			(at 204.47 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3.3V"
+			(at 202.946 23.114 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 204.47 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 204.47 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c8571098-1090-4a0c-bf57-8ccd9e11b64f")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#U$05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:RESISTOR_0603_NOOUT")
+		(at 99.06 165.1 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a82dd48b-b4dc-441c-81d0-21e6972dc542")
+		(property "Reference" "R9"
+			(at 96.52 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 99.06 165.1 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(thickness 0.2032)
+					(bold yes)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 99.06 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 99.06 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8ef5ef6c-103c-4a61-b4fc-24485082a701")
+		)
+		(pin "2"
+			(uuid "8e503760-ac8b-4b50-9744-bd5fd8d22cf5")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 134.62 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a9b61c59-e535-4eba-9a1a-3f882fb04d15")
+		(property "Reference" "#AGND5"
+			(at 134.62 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 132.08 87.63 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 134.62 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6715ef19-44b1-43d7-a88d-d3927b9560c1")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AVDD")
+		(at 167.64 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a9e29fe0-3ab9-4076-9a16-fda3d7ce486e")
+		(property "Reference" "#U$07"
+			(at 167.64 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AVDD"
+			(at 166.116 91.694 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5bc2f93d-cf5e-4c8c-8afa-437cce4b11ff")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#U$07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 180.34 97.79 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "aa6a8af5-93a9-4232-86c3-b50a708a3b99")
+		(property "Reference" "C28"
+			(at 179.09 95.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 179.09 100.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 180.34 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 180.34 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 180.34 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a8f83b58-b315-417b-a67a-39fe5394d476")
+		)
+		(pin "2"
+			(uuid "73b6cb8d-c553-45fc-b63f-e4c3a7968cb8")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:3.3V")
+		(at 99.06 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b595efcf-00ae-4abb-8146-2b8fb8050d2e")
+		(property "Reference" "#U$4"
+			(at 99.06 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3.3V"
+			(at 97.536 29.464 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 99.06 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 99.06 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dbcc41a7-b92a-4609-b9ca-33aa9f57215c")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#U$4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 134.62 97.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c0cb91cf-6b19-49d0-ad6e-b781aa3d0cd1")
+		(property "Reference" "C8"
+			(at 132.33 96.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2.2nF"
+			(at 136.92 96.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 134.62 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 134.62 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a481aa90-ebad-435c-a928-a40324087cbf")
+		)
+		(pin "2"
+			(uuid "0153ed5f-f958-4dcd-a034-7858f6ed9c49")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 273.05 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c0fd0c20-1cf7-43d4-bae5-bbfcaafd8eeb")
+		(property "Reference" "C11"
+			(at 270.76 130.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2.2nF"
+			(at 275.35 130.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 273.05 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 273.05 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 273.05 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "304abcc4-85a7-4eca-95de-c137b31294f6")
+		)
+		(pin "2"
+			(uuid "77b41884-538c-4caa-9f8a-0bf2f7ab5c9b")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 40.64 59.69 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c163945d-05b0-42a3-ad46-49be30044077")
+		(property "Reference" "C21"
+			(at 38.35 58.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 42.94 58.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 40.64 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 40.64 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9a145ddb-9cae-475c-ab87-aedd4cc8a460")
+		)
+		(pin "2"
+			(uuid "3df1e357-7bac-457f-adca-11e088cd16be")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:RESISTOR_0603_NOOUT")
+		(at 109.22 165.1 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c18cfaf6-b5f6-4a11-94e0-db7b6890c983")
+		(property "Reference" "R6"
+			(at 106.68 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10k"
+			(at 109.22 165.1 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(thickness 0.2032)
+					(bold yes)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 109.22 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 109.22 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ad9adf6b-4781-4407-8238-1c3fdf6b1a85")
+		)
+		(pin "2"
+			(uuid "affbc13c-5c93-412b-bc6b-39835d169642")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 237.49 154.94 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c503f5eb-841d-44df-b1c0-f51f379b88dc")
+		(property "Reference" "#AGND025"
+			(at 237.49 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 240.284 151.892 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 237.49 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 237.49 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 237.49 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "845b7cbf-57a9-4b6b-823a-1333b0e0653b")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0805-NOOUTLINE")
+		(at 158.75 116.84 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d5f18148-6a01-491b-9de4-54eebed41f4d")
+		(property "Reference" "C23"
+			(at 161.04 115.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "10uF"
+			(at 156.45 115.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0805-NO"
+			(at 158.75 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 158.75 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7fb3abf4-7780-4f8d-baa8-bfcd929ec974")
+		)
+		(pin "2"
+			(uuid "5612e989-aba2-4da1-8c52-90a4046c38fa")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:3.3V")
+		(at 25.4 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "daaccf0a-26dd-4591-9df7-776eb55ed3b5")
+		(property "Reference" "#U$10"
+			(at 25.4 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "3.3V"
+			(at 23.876 63.754 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 25.4 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 25.4 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 25.4 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9a8e8697-fcea-4ad9-aa88-864084867962")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#U$10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:FERRITE-0603NO")
+		(at 104.14 35.56 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "daf16cb1-7734-410d-ba99-6ab1092743a5")
+		(property "Reference" "FB1"
+			(at 105.41 37.465 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "Ferrite"
+			(at 105.41 32.385 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 104.14 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f4b4a789-0879-4312-b3e4-c9895bde5c98")
+		)
+		(pin "1"
+			(uuid "c6882521-79dd-443f-a49e-4d0087fad930")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "FB1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 50.8 77.47 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e58fdbfe-f083-4fec-ba26-2f0bbaf8ec0c")
+		(property "Reference" "C14"
+			(at 52.05 75.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 52.05 79.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 50.8 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 50.8 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 50.8 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "82970335-5e49-4e6e-afd1-bfe82f9aeb4c")
+		)
+		(pin "2"
+			(uuid "6325b19c-06cc-49b1-8a30-243cd0ece2d4")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 104.14 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e6997875-e549-41b4-aa23-2612f3a25e65")
+		(property "Reference" "#AGND11"
+			(at 104.14 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 99.06 110.49 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 104.14 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5bb8c858-9cfc-4bd2-84dd-dd8bb7c68654")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 101.6 97.79 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e73b8edd-ebb9-4491-a7e1-3a6de9c1e8be")
+		(property "Reference" "C17"
+			(at 100.35 100.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "2.2uF"
+			(at 100.35 95.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 101.6 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.6 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 101.6 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "07c2fce3-137f-4c0b-857f-421fdbff0d4f")
+		)
+		(pin "2"
+			(uuid "ec3f45ed-5af8-4e55-adf7-e23d8829c6e1")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:PCM510XA")
+		(at 71.12 85.09 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e906e5bb-f515-4a29-8fb6-82a4378bb175")
+		(property "Reference" "X1"
+			(at 58.42 55.88 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "PCM510XA"
+			(at 58.42 115.57 0)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "test_space:TSSOP20"
+			(at 71.12 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 71.12 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 71.12 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "19"
+			(uuid "dd743fa9-798a-4ed6-bb36-6f1bd3a98817")
+		)
+		(pin "12"
+			(uuid "dcd32878-4170-44dc-8b8b-ca1881bec4e6")
+		)
+		(pin "9"
+			(uuid "cc9e1282-c8cf-4f47-88cc-61ecfc5a75f7")
+		)
+		(pin "7"
+			(uuid "5866906e-72ca-45af-b7ff-06cf8fb48f2b")
+		)
+		(pin "17"
+			(uuid "a42d8d9e-de42-4d0b-877f-fa00e372f1bd")
+		)
+		(pin "10"
+			(uuid "191a75b3-e74f-412f-9f1d-5a0ef57599df")
+		)
+		(pin "20"
+			(uuid "5cdd169a-a4e4-4beb-b242-3a096ad5a98a")
+		)
+		(pin "13"
+			(uuid "6bb4a5da-adf2-4c83-838a-28c9355c05b1")
+		)
+		(pin "11"
+			(uuid "1f349ef2-9b67-474d-b4aa-b712c4fb7a38")
+		)
+		(pin "8"
+			(uuid "d13d710b-26f2-4383-882f-f601d952bd34")
+		)
+		(pin "18"
+			(uuid "8fcc83e8-7551-4c04-9fc7-bb17169b7748")
+		)
+		(pin "15"
+			(uuid "b9a7a62b-e2b0-4d51-bb24-0c6e5af1304a")
+		)
+		(pin "14"
+			(uuid "2f61e05b-783c-4117-a008-e83b0d2084bc")
+		)
+		(pin "16"
+			(uuid "fe392043-4423-4aff-907e-275a442f60cc")
+		)
+		(pin "6"
+			(uuid "351b2f38-22bb-4155-b6fd-a1f385a176b2")
+		)
+		(pin "1"
+			(uuid "a1479de0-3423-40c5-81fd-9f35dbe61245")
+		)
+		(pin "2"
+			(uuid "f5bbee19-df59-4599-9836-d6d72d1a0182")
+		)
+		(pin "4"
+			(uuid "98500c6a-2637-4d44-aa4a-9fe043bdd8f0")
+		)
+		(pin "5"
+			(uuid "54b90988-1258-4dc1-9fb6-18ea120889f8")
+		)
+		(pin "3"
+			(uuid "bccd19f3-be16-4b6e-9052-6095a1f5e476")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "X1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:RESISTOR_0603_NOOUT")
+		(at 127 90.17 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "eac24f59-d331-4c7e-a409-d5830956b4a2")
+		(property "Reference" "R7"
+			(at 127 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "470"
+			(at 127 90.17 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(thickness 0.2032)
+					(bold yes)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 127 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 127 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c9da67d4-dfc9-4bfc-b51e-d40aa9a8a77b")
+		)
+		(pin "1"
+			(uuid "a84b02a1-f722-4900-b6f2-e1bca04de1a2")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 134.62 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ec33a752-8619-43de-b445-72609e3aff9d")
+		(property "Reference" "#AGND3"
+			(at 134.62 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 132.08 113.03 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 134.62 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 134.62 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0d023975-3cfa-448a-8885-a5329f388248")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:RESISTOR_0603_NOOUT")
+		(at 265.43 124.46 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "eeb903d1-c312-4be8-92d6-14c57a9b460a")
+		(property "Reference" "R14"
+			(at 265.43 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "470"
+			(at 265.43 124.46 0)
+			(effects
+				(font
+					(size 1.016 1.016)
+					(thickness 0.2032)
+					(bold yes)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 265.43 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 265.43 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 265.43 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "44576f32-2138-4feb-8596-9b06b2e0afe1")
+		)
+		(pin "1"
+			(uuid "e60e7de0-6bfe-480c-badf-beec11e7e2b0")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 25.4 72.39 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "eef816fd-3694-4559-b60d-f954318a33b7")
+		(property "Reference" "C16"
+			(at 23.11 71.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 27.7 71.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 25.4 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 25.4 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 25.4 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5f321b9d-ef5b-46cc-9df0-9b1000a15d64")
+		)
+		(pin "2"
+			(uuid "8c9436d7-745f-4159-a2f2-f827740f9355")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 273.05 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f0bc7ffa-892b-452c-b4bc-3f3aec703189")
+		(property "Reference" "#AGND02"
+			(at 273.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 270.51 121.92 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 273.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 273.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 273.05 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "20c4f93a-fbea-4f4f-8df5-f14093574271")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AVDD")
+		(at 119.38 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f736dcbe-0d2c-4a93-9bd4-2e265c5dd16d")
+		(property "Reference" "#U$27"
+			(at 119.38 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AVDD"
+			(at 117.856 91.694 0)
+			(effects
+				(font
+					(size 1.27 1.0795)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 119.38 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 119.38 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "536fda61-6b5b-4754-89e5-2710475341e6")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#U$27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 226.06 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f9cfa313-50c3-4f7c-8250-8763db5d6f3b")
+		(property "Reference" "#AGND8"
+			(at 226.06 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 223.52 85.09 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 226.06 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 226.06 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 226.06 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "257877dc-633f-42c1-a87e-20736680e6c6")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:CAP_CERAMIC0603_NO")
+		(at 203.2 91.44 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fa70fae4-2162-4625-9e55-87374d18090f")
+		(property "Reference" "C30"
+			(at 204.45 93.73 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 204.45 89.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "test_space:0603-NO"
+			(at 203.2 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 203.2 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 203.2 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2e06eab0-769d-42b2-8ef0-e6434f9d45ec")
+		)
+		(pin "2"
+			(uuid "e08d852c-1c89-4017-8fef-e163f2f13d9e")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "C30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "test_space-eagle-import:AGND")
+		(at 133.35 46.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "faacb254-bc92-4c00-b99b-8431eac4fb55")
+		(property "Reference" "#AGND01"
+			(at 133.35 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "AGND"
+			(at 130.81 49.53 90)
+			(effects
+				(font
+					(size 1.778 1.5113)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.35 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 133.35 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0c52938f-99f1-4a22-9395-ee5752569a19")
+		)
+		(instances
+			(project "BMO_controller"
+				(path "/b0414012-fb71-479f-8338-db21f399d166/3c369afe-749c-405a-8ac9-3202bf5eaa1f"
+					(reference "#AGND01")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
