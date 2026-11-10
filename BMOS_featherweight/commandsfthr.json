@@ -1,0 +1,70 @@
+{
+    "commands": [
+      {
+        "phrases": [
+          "turn on the light",
+          "switch on the light",
+          "lights on",
+          "turn lights to",
+          "switch lights to",
+          "lights off"
+        ],
+        "intent": "turn_on_light",
+        "llm_output_format": {
+          "action": "turn_on",
+          "device": "light",
+          "location": null
+        }
+      },
+      {
+        "phrases": [
+          "play music",
+          "pause music",
+          "stop music",
+          "pause the music",
+          "stop the music",
+          "play the music",
+          "start the music",
+          "start music",
+          "play the song",
+          "play my playlist",
+          "play a song"
+        ],
+        "intent": "play_music",
+        "llm_output_format": {
+          "action": "play",
+          "media": "music",
+          "artist": null,
+          "song": null,
+          "playlist": null
+        }
+      },
+      {
+        "phrases": [
+          "set a timer",
+          "start a timer for",
+          "put on a timer for"
+        ],
+        "intent": "set_timer",
+        "llm_output_format": {
+            "hour": null,
+            "meridian":null,
+            "minute":null,
+            "second":null
+        }
+      },
+      {
+        "phrases": [
+          "set an alarm",
+          "set a alarm"
+        ],
+        "intent": "set_alarm",
+        "llm_output_format": {
+          "hour": null,
+          "meridian":null,
+          "minute":null,
+          "second":null
+        }
+      }
+    ]
+  }
